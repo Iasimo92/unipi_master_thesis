@@ -1,0 +1,101 @@
+%%%%%
+%%
+%% Version: v1.1
+%% Author: I. Vezakis
+%% Date: 29/01/2019
+%%
+%% License: GPL-3.0
+%%
+%%%%%
+
+\documentclass[a4paper,11pt,twoside,openright]{report}
+
+% Ams
+\usepackage{amsmath, amssymb}
+
+\usepackage{textcomp}
+
+% Greek Language
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english,greek]{babel}
+\newcommand{\en}{\foreignlanguage{english}}
+\newcommand{\el}{\foreignlanguage{greek}}
+\usepackage[autostyle=true]{csquotes}
+
+\usepackage{kerkis}
+
+% Geometry
+\usepackage[twoside,top=2.5cm,bottom=2.5cm,bindingoffset=1.5cm]{geometry}
+
+% Fixes list of figures spacing
+\usepackage{tocloft}
+\setlength{\cftfignumwidth}{3em}
+
+% Format
+\linespread{1.25}
+
+% Various Packages
+\usepackage{microtype}
+\usepackage{subfiles}
+\usepackage{setspace}
+\usepackage[hidelinks,unicode]{hyperref}
+\usepackage{bookmark}
+\usepackage{afterpage}
+
+% Use bold font in equations
+\newcommand\bmmax{0}
+\newcommand\hmmax{0}
+\usepackage{bm}
+
+% Better tables
+\usepackage{booktabs}
+
+% Images
+\usepackage{graphicx}
+\graphicspath{{graphics/}}
+\usepackage{subcaption}
+
+% Bibliography
+\usepackage[
+	natbib=true,
+	backend=biber,
+	style=ieee,
+	sorting=none,
+	doi=false,
+	isbn=false,
+	url=false,
+	eprint=false,
+	language=auto,
+	autolang=other]{biblatex}
+\addbibresource{bibliography.bib}
+
+\usepackage{emptypage}
+
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    \newpage}
+\newcommand{\specialcell}[2][c]{\begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
+
+\begin{document}
+
+\raggedbottom
+
+\include{sections/titlepage}
+\afterpage{\blankpage}
+\include{sections/approvalpage}
+\include{sections/copyright}
+\include{sections/abstract}
+\include{sections/abstract_en}
+\include{sections/thanks}
+
+\tableofcontents
+\pagebreak
+\listoffigures
+
+\include{sections/sample_chapter}
+
+\printbibliography
+
+\end{document}

@@ -1,0 +1,6 @@
+PWD c:\Users\esimias\OneDrive - Ericsson\Desktop\unipi_master_thesis\sections
+INPUT C:\Users\esimias\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\esimias\OneDrive - Ericsson\Desktop\unipi_master_thesis\sections\approvalpage.tex
+OUTPUT approvalpage.log
+INPUT C:\Users\esimias\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
+INPUT C:\Users\esimias\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
