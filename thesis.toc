@@ -1,6 +1,5 @@
 \babel@toc {greek}{}\relax 
 \contentsline {chapter}{\numberline {1}Εισαγωγή}{13}{chapter.1}%
-\babel@toc {english}{}\relax 
-\babel@toc {greek}{}\relax 
-\babel@toc {english}{}\relax 
-\babel@toc {greek}{}\relax 
+\contentsline {section}{\numberline {1.1}Απαιτήσεις και προδιαγραφές}{14}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Εισαγωγή}{15}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Απαιτήσεις και προδιαγραφές}{16}{section.2.1}%

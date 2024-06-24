@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  17 JUN 2024 23:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  24 JUN 2024 13:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1062,7 +1062,7 @@ LaTeX Font Info:    Trying to load font information for LGR+mak on input line 10
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/kerkis\lgrmak.fd)
 LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
 (Font)              scaled to size 9.85492pt on input line 10.
- (sections/approvalpage.aux) (sections/copyright.aux) (sections/abstract.aux) (sections/abstract_en.aux) (sections/thanks.aux) (sections/sample_chapter.aux))
+ (sections/approvalpage.aux) (sections/copyright.aux) (sections/abstract.aux) (sections/abstract_en.aux) (sections/thanks.aux) (sections/sample_chapter.aux) (sections/sample_chapter_2.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
@@ -1355,25 +1355,48 @@ LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
 (Font)              scaled to size 18.66588pt on input line 1.
 LaTeX Font Info:    Font shape `LGR/mak/b/n' will be
 (Font)              scaled to size 18.66588pt on input line 1.
-<tikz/hsv_cone/hsv_cone.pdf, id=69, 115.3911pt x 134.61693pt>
-File: tikz/hsv_cone/hsv_cone.pdf Graphic file (type pdf)
-<use tikz/hsv_cone/hsv_cone.pdf>
-Package pdftex.def Info: tikz/hsv_cone/hsv_cone.pdf  used on input line 13.
-(pdftex.def)             Requested size: 115.39081pt x 134.61658pt.
+
+Overfull \hbox (33.99236pt too wide) in paragraph at lines 23--28
+[]\LGR/mak/m/n/10.95 EÐnai sh-ma-nti-kì na lh-fje-Ð u-pìyh ìti oi e-pa-na-lam-ba-nìme-nec ka-jh-me-ri-nèc/ebdomadiaÐec
+ []
+
+
+
+[13]
+LaTeX Font Info:    Font shape `LGR/mak/b/n' will be
+(Font)              scaled to size 12.9599pt on input line 35.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `mak' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+pdfTeX warning (font expansion): font should be expanded before its first use
 )
 
-[13 <./tikz/hsv_cone/hsv_cone.pdf>]
+[14]
+\openout2 = `sections/sample_chapter_2.aux'.
 
-[14
+ (sections/sample_chapter_2.tex
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  2.
+
+Overfull \hbox (33.99236pt too wide) in paragraph at lines 23--28
+[]\LGR/mak/m/n/10.95 EÐnai sh-ma-nti-kì na lh-fje-Ð u-pìyh ìti oi e-pa-na-lam-ba-nìme-nec ka-jh-me-ri-nèc/ebdomadiaÐec
+ []
 
 
 
-]
-LaTeX Font Info:    Font shape `T1/mak/m/it' will be
-(Font)              scaled to size 9.85492pt on input line 99.
+[15
 
 
-[15] (thesis.aux (sections/titlepage.aux) (sections/approvalpage.aux) (sections/copyright.aux) (sections/abstract.aux) (sections/abstract_en.aux) (sections/thanks.aux) (sections/sample_chapter.aux))
+
+
+])
+
+[16]
+
+LaTeX Warning: Empty bibliography on input line 99.
+
+(thesis.aux (sections/titlepage.aux) (sections/approvalpage.aux) (sections/copyright.aux) (sections/abstract.aux) (sections/abstract_en.aux) (sections/thanks.aux) (sections/sample_chapter.aux) (sections/sample_chapter_2.aux))
  ***********
 LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
@@ -1387,17 +1410,17 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25998 strings out of 473920
- 462682 string characters out of 5727446
- 1932908 words of memory out of 5000000
- 48407 multiletter control sequences out of 15000+600000
- 583853 words of font info for 104 fonts, out of 8000000 for 9000
+ 25788 strings out of 473920
+ 458677 string characters out of 5727446
+ 1933908 words of memory out of 5000000
+ 48192 multiletter control sequences out of 15000+600000
+ 584066 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,81p,1396b,2899s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-Bold.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-Italic.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-SmallCaps.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on thesis.pdf (15 pages, 298007 bytes).
+ 75i,12n,81p,1340b,1535s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-Bold.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-Italic.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-SmallCaps.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis.pfb>
+Output written on thesis.pdf (16 pages, 244586 bytes).
 PDF statistics:
- 158 PDF objects out of 1000 (max. 8388607)
+ 137 PDF objects out of 1000 (max. 8388607)
  24 named destinations out of 1000 (max. 500000)
- 14355 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 11814 words of extra memory for PDF output out of 12000 (max. 10000000)
 
