@@ -1,5 +1,8 @@
 \babel@toc {greek}{}\relax 
 \contentsline {chapter}{\numberline {1}Εισαγωγή}{13}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Απαιτήσεις και προδιαγραφές}{14}{section.1.1}%
-\contentsline {chapter}{\numberline {2}Εισαγωγή}{15}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Απαιτήσεις και προδιαγραφές}{16}{section.2.1}%
+\contentsline {section}{\numberline {1.1}Απαιτήσεις και προδιαγραφές}{15}{section.1.1}%
+\contentsline {chapter}{\numberline {2}\foreignlanguage {english}{State of the art}}{17}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Η επανάσταση στο \foreignlanguage {english}{web development}}{17}{section.2.1}%
+\contentsline {section}{\numberline {2.2}\foreignlanguage {english}{Frameworks} και γιατί χρησιμοποιούνται}{17}{section.2.2}%
+\contentsline {section}{\numberline {2.3}\foreignlanguage {english}{CI/CD} \foreignlanguage {english}{pipeline}}{18}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Τι είναι ο \foreignlanguage {english}{kubernetes} }{19}{section.2.4}%
