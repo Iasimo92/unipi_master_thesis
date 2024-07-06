@@ -485,6 +485,12 @@ INPUT .\graphics\virtualization_architecture.PNG
 INPUT .\graphics\virtualization_architecture.PNG
 INPUT .\graphics\virtualization_architecture.PNG
 INPUT .\graphics\virtualization_architecture.PNG
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gkb7t.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\ekb8a.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\public\kerkis\gkb7t.vf
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gkb7a.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\public\kerkis\ekb8a.vf
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\ekb8r.tfm
 INPUT .\sections\virtual_env_setup.tex
 INPUT .\sections\virtual_env_setup.tex
 OUTPUT sections\virtual_env_setup.aux
