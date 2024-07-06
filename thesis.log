@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  6 JUL 2024 12:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  6 JUL 2024 12:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1465,22 +1465,22 @@ LaTeX Font Info:    Font shape `T1/mak/b/n' will be
 
 ]
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  4.
-<graphics/gns3_homepage.png, id=190, 1585.925pt x 1735.48375pt>
+<graphics/gns3_homepage.png, id=191, 1585.925pt x 1735.48375pt>
 File: graphics/gns3_homepage.png Graphic file (type png)
 <use graphics/gns3_homepage.png>
 Package pdftex.def Info: graphics/gns3_homepage.png  used on input line 19.
 (pdftex.def)             Requested size: 271.8637pt x 297.4911pt.
-<graphics/cisco_ssh_config.png, id=191, 146.34676pt x 71.0655pt>
+<graphics/cisco_ssh_config.png, id=192, 146.34676pt x 71.0655pt>
 File: graphics/cisco_ssh_config.png Graphic file (type png)
 <use graphics/cisco_ssh_config.png>
 Package pdftex.def Info: graphics/cisco_ssh_config.png  used on input line 30.
 (pdftex.def)             Requested size: 271.8637pt x 132.01776pt.
-<graphics/dhcp_cisco_config.png, id=192, 202.356pt x 37.3395pt>
+<graphics/dhcp_cisco_config.png, id=193, 202.356pt x 37.3395pt>
 File: graphics/dhcp_cisco_config.png Graphic file (type png)
 <use graphics/dhcp_cisco_config.png>
 Package pdftex.def Info: graphics/dhcp_cisco_config.png  used on input line 36.
 (pdftex.def)             Requested size: 271.8637pt x 50.16795pt.
-<graphics/diagram.drawio.png, id=193, 592.2125pt x 425.59pt>
+<graphics/diagram.drawio.png, id=194, 592.2125pt x 425.59pt>
 File: graphics/diagram.drawio.png Graphic file (type png)
 <use graphics/diagram.drawio.png>
 Package pdftex.def Info: graphics/diagram.drawio.png  used on input line 48.
@@ -1488,12 +1488,12 @@ Package pdftex.def Info: graphics/diagram.drawio.png  used on input line 48.
 
 
 [27]
-<graphics/ssh_connection.png, id=198, 811.23074pt x 118.041pt>
+<graphics/ssh_connection.png, id=199, 811.23074pt x 118.041pt>
 File: graphics/ssh_connection.png Graphic file (type png)
 <use graphics/ssh_connection.png>
 Package pdftex.def Info: graphics/ssh_connection.png  used on input line 69.
 (pdftex.def)             Requested size: 271.8637pt x 39.55882pt.
-<graphics/jason1.png, id=199, 505.89pt x 96.36pt>
+<graphics/jason1.png, id=200, 505.89pt x 96.36pt>
 File: graphics/jason1.png Graphic file (type png)
 <use graphics/jason1.png>
 Package pdftex.def Info: graphics/jason1.png  used on input line 81.
@@ -1528,17 +1528,17 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26049 strings out of 473920
- 465417 string characters out of 5727446
+ 26051 strings out of 473920
+ 465439 string characters out of 5727446
  1935908 words of memory out of 5000000
- 48353 multiletter control sequences out of 15000+600000
+ 48354 multiletter control sequences out of 15000+600000
  589175 words of font info for 134 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,81p,1340b,1832s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-Bold.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-Italic.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-SmallCaps.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis.pfb>
-Output written on thesis.pdf (30 pages, 656217 bytes).
+Output written on thesis.pdf (30 pages, 657098 bytes).
 PDF statistics:
- 320 PDF objects out of 1000 (max. 8388607)
- 63 named destinations out of 1000 (max. 500000)
- 24272 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 324 PDF objects out of 1000 (max. 8388607)
+ 64 named destinations out of 1000 (max. 500000)
+ 24280 words of extra memory for PDF output out of 24883 (max. 10000000)
 
