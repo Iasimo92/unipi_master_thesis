@@ -11,11 +11,16 @@
 \contentsline {section}{\numberline {3.2}\foreignlanguage {english}{GNS3}}{22}{section.3.2}%
 \contentsline {section}{\numberline {3.3}\foreignlanguage {english}{Cisco IOS}}{22}{section.3.3}%
 \contentsline {section}{\numberline {3.4}Εικονικοποίηση}{23}{section.3.4}%
-\contentsline {section}{\numberline {3.5}\foreignlanguage {english}{Django Web Framework}}{23}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}\foreignlanguage {english}{Paramiko}}{24}{subsection.3.5.1}%
-\contentsline {subsection}{\numberline {3.5.2}\foreignlanguage {english}{Netmiko}}{24}{subsection.3.5.2}%
-\contentsline {subsection}{\numberline {3.5.3}\foreignlanguage {english}{Napalm}}{25}{subsection.3.5.3}%
+\contentsline {section}{\numberline {3.5}Πρόγραμμα εικονοποίσης για το \foreignlanguage {english}{GNS3 VM-VirtualBox}}{23}{section.3.5}%
+\contentsline {section}{\numberline {3.6}\foreignlanguage {english}{Django Web Framework}}{24}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}\foreignlanguage {english}{Paramiko}}{25}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}\foreignlanguage {english}{Netmiko}}{25}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}\foreignlanguage {english}{Napalm}}{26}{subsection.3.6.3}%
 \contentsline {chapter}{\numberline {4}\foreignlanguage {english}{Virtual Environment Set up}}{27}{chapter.4}%
 \contentsline {section}{\numberline {4.1}\foreignlanguage {english}{GNS3 Installation}}{27}{section.4.1}%
 \contentsline {section}{\numberline {4.2}\foreignlanguage {english}{Connection Establishment} }{28}{section.4.2}%
 \contentsline {section}{\numberline {4.3}Σύνδεση με \foreignlanguage {english}{Django Server} }{30}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Δομή της διαδικτυακής εφαρμογής \foreignlanguage {english}{Django} }{30}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Τα αρχεία \foreignlanguage {english}{urls.py}}{30}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Τα αρχεία \foreignlanguage {english}{views.py}}{30}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Τα αρχεία \foreignlanguage {english}{html template}}{31}{subsection.4.4.3}%

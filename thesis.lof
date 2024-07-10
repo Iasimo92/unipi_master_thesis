@@ -6,10 +6,14 @@
 \contentsline {figure}{\numberline {3.1}{\ignorespaces \foreignlanguage {english}{General Network Topology} }}{22}{figure.caption.5}%
 \contentsline {figure}{\numberline {3.2}{\ignorespaces \foreignlanguage {english}{Virtualization} Γενική αρχιτεκτονική}}{24}{figure.caption.6}%
 \contentsline {figure}{\numberline {3.3}{\ignorespaces \foreignlanguage {english}{Virtualization} Γενική αρχιτεκτονική}}{25}{figure.caption.7}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces \foreignlanguage {english}{Virtualbox} }}{26}{figure.caption.8}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces \foreignlanguage {english}{GNS3 homepage} }}{28}{figure.caption.8}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces \foreignlanguage {english}{Cisco ssh config} }}{28}{figure.caption.9}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces \foreignlanguage {english}{Cisco dhcp config} }}{29}{figure.caption.10}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces \foreignlanguage {english}{Local PC-GNS3VM-CISCO IOS Connection Architecture} }}{29}{figure.caption.11}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces \foreignlanguage {english}{SSH traffic} }}{29}{figure.caption.12}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces \foreignlanguage {english}{SSH traffic} }}{29}{figure.caption.13}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces \foreignlanguage {english}{GNS3 homepage} }}{28}{figure.caption.9}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces \foreignlanguage {english}{Cisco ssh config} }}{28}{figure.caption.10}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces \foreignlanguage {english}{Cisco dhcp config} }}{29}{figure.caption.11}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces \foreignlanguage {english}{Local PC-GNS3VM-CISCO IOS Connection Architecture} }}{29}{figure.caption.12}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces \foreignlanguage {english}{SSH traffic} }}{29}{figure.caption.13}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces \foreignlanguage {english}{SSH traffic} }}{29}{figure.caption.14}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces \foreignlanguage {english}{url.py} }}{30}{figure.caption.15}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces \foreignlanguage {english}{views.py} }}{31}{figure.caption.16}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Παράδειγμα \foreignlanguage {english}{html} αρχείου }}{32}{figure.caption.17}%
