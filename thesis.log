@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  6 JUL 2024 12:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  10 JUL 2024 21:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1393,7 +1393,7 @@ pdfTeX warning (font expansion): font should be expanded before its first use
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  2.
 LaTeX Font Info:    Font shape `T1/mak/b/n' will be
 (Font)              scaled to size 12.9599pt on input line 4.
-<graphics/django_architecture.png, id=139, 567.92175pt x 184.89075pt>
+<graphics/django_architecture.png, id=141, 567.92175pt x 184.89075pt>
 File: graphics/django_architecture.png Graphic file (type png)
 <use graphics/django_architecture.png>
 Package pdftex.def Info: graphics/django_architecture.png  used on input line 29.
@@ -1424,7 +1424,7 @@ Overfull \hbox (10.98586pt too wide) in paragraph at lines 54--58
 
 
 [21]
-<graphics/Network_topology.png, id=163, 1231.60126pt x 1020.81375pt>
+<graphics/Network_topology.png, id=165, 1231.60126pt x 1020.81375pt>
 File: graphics/Network_topology.png Graphic file (type png)
 <use graphics/Network_topology.png>
 Package pdftex.def Info: graphics/Network_topology.png  used on input line 44.
@@ -1432,12 +1432,12 @@ Package pdftex.def Info: graphics/Network_topology.png  used on input line 44.
 
 
 [22 <./graphics/Network_topology.png>]
-<graphics/Architecture_virtualbox.PNG, id=169, 307.1475pt x 349.90726pt>
+<graphics/Architecture_virtualbox.PNG, id=171, 307.1475pt x 349.90726pt>
 File: graphics/Architecture_virtualbox.PNG Graphic file (type png)
 <use graphics/Architecture_virtualbox.PNG>
 Package pdftex.def Info: graphics/Architecture_virtualbox.PNG  used on input line 91.
 (pdftex.def)             Requested size: 194.18921pt x 221.22758pt.
-<graphics/virtualization_architecture.PNG, id=170, 292.6935pt x 419.166pt>
+<graphics/virtualization_architecture.PNG, id=172, 292.6935pt x 419.166pt>
 File: graphics/virtualization_architecture.PNG Graphic file (type png)
 <use graphics/virtualization_architecture.PNG>
 Package pdftex.def Info: graphics/virtualization_architecture.PNG  used on input line 97.
@@ -1465,22 +1465,22 @@ LaTeX Font Info:    Font shape `T1/mak/b/n' will be
 
 ]
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  4.
-<graphics/gns3_homepage.png, id=191, 1585.925pt x 1735.48375pt>
+<graphics/gns3_homepage.png, id=192, 1585.925pt x 1735.48375pt>
 File: graphics/gns3_homepage.png Graphic file (type png)
 <use graphics/gns3_homepage.png>
 Package pdftex.def Info: graphics/gns3_homepage.png  used on input line 19.
 (pdftex.def)             Requested size: 271.8637pt x 297.4911pt.
-<graphics/cisco_ssh_config.png, id=192, 146.34676pt x 71.0655pt>
+<graphics/cisco_ssh_config.png, id=193, 146.34676pt x 71.0655pt>
 File: graphics/cisco_ssh_config.png Graphic file (type png)
 <use graphics/cisco_ssh_config.png>
 Package pdftex.def Info: graphics/cisco_ssh_config.png  used on input line 30.
 (pdftex.def)             Requested size: 271.8637pt x 132.01776pt.
-<graphics/dhcp_cisco_config.png, id=193, 202.356pt x 37.3395pt>
+<graphics/dhcp_cisco_config.png, id=194, 202.356pt x 37.3395pt>
 File: graphics/dhcp_cisco_config.png Graphic file (type png)
 <use graphics/dhcp_cisco_config.png>
 Package pdftex.def Info: graphics/dhcp_cisco_config.png  used on input line 36.
 (pdftex.def)             Requested size: 271.8637pt x 50.16795pt.
-<graphics/diagram.drawio.png, id=194, 592.2125pt x 425.59pt>
+<graphics/diagram.drawio.png, id=195, 592.2125pt x 425.59pt>
 File: graphics/diagram.drawio.png Graphic file (type png)
 <use graphics/diagram.drawio.png>
 Package pdftex.def Info: graphics/diagram.drawio.png  used on input line 48.
@@ -1488,12 +1488,12 @@ Package pdftex.def Info: graphics/diagram.drawio.png  used on input line 48.
 
 
 [27]
-<graphics/ssh_connection.png, id=199, 811.23074pt x 118.041pt>
+<graphics/ssh_connection.png, id=200, 811.23074pt x 118.041pt>
 File: graphics/ssh_connection.png Graphic file (type png)
 <use graphics/ssh_connection.png>
 Package pdftex.def Info: graphics/ssh_connection.png  used on input line 69.
 (pdftex.def)             Requested size: 271.8637pt x 39.55882pt.
-<graphics/jason1.png, id=200, 505.89pt x 96.36pt>
+<graphics/jason1.png, id=201, 505.89pt x 96.36pt>
 File: graphics/jason1.png Graphic file (type png)
 <use graphics/jason1.png>
 Package pdftex.def Info: graphics/jason1.png  used on input line 81.
@@ -1536,9 +1536,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,12n,81p,1340b,1832s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-Bold.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-Italic.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-SmallCaps.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis.pfb>
-Output written on thesis.pdf (30 pages, 657098 bytes).
+Output written on thesis.pdf (30 pages, 654935 bytes).
 PDF statistics:
- 324 PDF objects out of 1000 (max. 8388607)
+ 325 PDF objects out of 1000 (max. 8388607)
  64 named destinations out of 1000 (max. 500000)
  24280 words of extra memory for PDF output out of 24883 (max. 10000000)
 

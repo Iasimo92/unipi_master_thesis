@@ -11,7 +11,7 @@
 \contentsline {section}{\numberline {3.2}\foreignlanguage {english}{GNS3}}{22}{section.3.2}%
 \contentsline {section}{\numberline {3.3}\foreignlanguage {english}{Cisco IOS}}{22}{section.3.3}%
 \contentsline {section}{\numberline {3.4}Εικονικοποίηση}{23}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Django Web Framework}{23}{section.3.5}%
+\contentsline {section}{\numberline {3.5}\foreignlanguage {english}{Django Web Framework}}{23}{section.3.5}%
 \contentsline {subsection}{\numberline {3.5.1}\foreignlanguage {english}{Paramiko}}{24}{subsection.3.5.1}%
 \contentsline {subsection}{\numberline {3.5.2}\foreignlanguage {english}{Netmiko}}{24}{subsection.3.5.2}%
 \contentsline {subsection}{\numberline {3.5.3}\foreignlanguage {english}{Napalm}}{25}{subsection.3.5.3}%
