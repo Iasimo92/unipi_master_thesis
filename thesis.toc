@@ -24,3 +24,4 @@
 \contentsline {subsection}{\numberline {4.4.1}Τα αρχεία \foreignlanguage {english}{urls.py}}{30}{subsection.4.4.1}%
 \contentsline {subsection}{\numberline {4.4.2}Τα αρχεία \foreignlanguage {english}{views.py}}{30}{subsection.4.4.2}%
 \contentsline {subsection}{\numberline {4.4.3}Τα αρχεία \foreignlanguage {english}{html template}}{31}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}Η βάση δεδομένων}{31}{subsection.4.4.4}%

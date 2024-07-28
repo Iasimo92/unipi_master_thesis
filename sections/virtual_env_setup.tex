@@ -66,7 +66,7 @@
 
 \begin{figure}[htb]
 	\centering
-	\includegraphics[width=0.7\textwidth]{graphics/ssh_connection.png}
+	\includegraphics[width=1.0\textwidth]{graphics/ssh_connection.png}
 	\caption{\en{SSH traffic} }
 \end{figure}
 
@@ -138,3 +138,39 @@
 	\includegraphics[width=0.9\textwidth]{graphics/html_template.png}
 	\caption{Παράδειγμα \en{html} αρχείου }
 \end{figure}
+
+
+
+
+
+
+\subsection{Η βάση δεδομένων}
+Η διαδικτυακή πύλη χρησιμοποιεί μια βάση δεδομένων \en{SQLite}. Αυτή η βάση δεδομένων περιέχει τρία
+μοντέλα τα οποία ορίζονται στο αρχείο \en{models.py}. Το αρχείο αυτό περιέχει μία κλαση Device η οποία δέχεται σαν ορίσματα
+το όνομα, την \en{IP}, το όνομα χρήστη, τον κωδικό, τον κρυφό κωδικό και το μοντέλο της συσκευής.
+Υπάρχει μία εγγραφή στη βάση δεδομένων ένα από αυτά τα αντικέιμενα τα οποία εμείς τα δημιουργούμε. Το μοντέλο διαπιστευτηρίων αποθηκεύει τα διαπιστευτήρια τα οποία έχουν προηγουμένως
+κρυπτογραφημένα. Με αυτό, ορισμένες δέσμες ενεργειών μπορούν να λάβουν τα διαπιστευτήρια που απαιτούνται για να λειτουργήσουν
+χωρίς την είσοδο του χρήστη και χωρίς να γίνεται άμεση αναφορά στα διαπιστευτήρια στο
+κώδικα.
+Η διαχείριση της βάσης δεδομένων μπορεί να γίνει απευθείας μέσω μιας γραφικής διεπαφής χρήστη
+\en{(GUI)} στο \en{Django}. Σε αυτό το \en{GUI} μπορούν να έχουν πρόσβαση μόνο οι χρήστες διαχειριστές. Παραδείγματα
+των εγγραφών του μοντέλου της εφαρμογής και του μοντέλου του εργάτη που εμφανίζονται σε αυτό το \en{GUI} παρουσιάζονται παρακάτω στην εικόνα.
+
+\begin{figure}[htb]
+	\centering
+	\includegraphics[width=0.9\textwidth]{graphics/GUI_LOGIN.png}
+	\caption{Είσοδος στο \en{GUI}}
+\end{figure}
+
+\begin{figure}[htb]
+	\centering
+	\includegraphics[width=0.9\textwidth]{graphics/DJANGO_ADMIN.png}
+	\caption{Κεντρική σελίδα του \en{Django Administration GUI}}
+\end{figure}
+
+\begin{figure}[htb]
+	\centering
+	\includegraphics[width=0.9\textwidth]{graphics/ADD_DEVICE.png}
+	\caption{Προσθήκη συσκευής }
+\end{figure}
+
