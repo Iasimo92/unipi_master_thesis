@@ -8,6 +8,8 @@
 \contentsline {section}{\numberline {2.2}\foreignlanguage {english}{Frameworks} και γιατί χρησιμοποιούνται}{17}{section.2.2}%
 \contentsline {section}{\numberline {2.3}\foreignlanguage {english}{CI/CD} \foreignlanguage {english}{pipeline}}{19}{section.2.3}%
 \contentsline {section}{\numberline {2.4}Τι είναι ο \foreignlanguage {english}{kubernetes} }{19}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Τι είναι το \foreignlanguage {english}{Docker} }{19}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Τι είναι το \foreignlanguage {english}{Git} }{19}{section.2.6}%
 \contentsline {chapter}{\numberline {3}Τεχνολογιές}{21}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Εισαγωγή}{21}{section.3.1}%
 \contentsline {section}{\numberline {3.2}\foreignlanguage {english}{GNS3}}{22}{section.3.2}%
