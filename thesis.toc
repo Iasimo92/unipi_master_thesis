@@ -1,31 +1,47 @@
 \babel@toc {greek}{}\relax 
-\contentsline {chapter}{\numberline {1}Εισαγωγή}{13}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Απαιτήσεις και προδιαγραφές}{15}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Αυτοματοποίηση δικτύου}{15}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Τρόποι διαχείρησης δικτύου}{16}{section.1.3}%
-\contentsline {chapter}{\numberline {2}\foreignlanguage {english}{State of the art}}{17}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Η επανάσταση στο \foreignlanguage {english}{web development}}{17}{section.2.1}%
-\contentsline {section}{\numberline {2.2}\foreignlanguage {english}{Frameworks} και γιατί χρησιμοποιούνται}{17}{section.2.2}%
-\contentsline {section}{\numberline {2.3}\foreignlanguage {english}{CI/CD} \foreignlanguage {english}{pipeline}}{19}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Τι είναι ο \foreignlanguage {english}{kubernetes} }{19}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Τι είναι το \foreignlanguage {english}{Docker} }{19}{section.2.5}%
-\contentsline {section}{\numberline {2.6}Τι είναι το \foreignlanguage {english}{Git} }{19}{section.2.6}%
-\contentsline {chapter}{\numberline {3}Τεχνολογιές}{21}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Εισαγωγή}{21}{section.3.1}%
-\contentsline {section}{\numberline {3.2}\foreignlanguage {english}{GNS3}}{22}{section.3.2}%
-\contentsline {section}{\numberline {3.3}\foreignlanguage {english}{Cisco IOS}}{22}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Εικονικοποίηση}{23}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Πρόγραμμα εικονοποίσης για το \foreignlanguage {english}{GNS3 VM-VirtualBox}}{23}{section.3.5}%
-\contentsline {section}{\numberline {3.6}\foreignlanguage {english}{Django Web Framework}}{24}{section.3.6}%
-\contentsline {subsection}{\numberline {3.6.1}\foreignlanguage {english}{Paramiko}}{25}{subsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.6.2}\foreignlanguage {english}{Netmiko}}{25}{subsection.3.6.2}%
-\contentsline {subsection}{\numberline {3.6.3}\foreignlanguage {english}{Napalm}}{26}{subsection.3.6.3}%
-\contentsline {chapter}{\numberline {4}\foreignlanguage {english}{Virtual Environment Set up}}{29}{chapter.4}%
-\contentsline {section}{\numberline {4.1}\foreignlanguage {english}{GNS3 Installation}}{29}{section.4.1}%
-\contentsline {section}{\numberline {4.2}\foreignlanguage {english}{Connection Establishment} }{30}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Σύνδεση με \foreignlanguage {english}{Django Server} }{32}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Δομή της διαδικτυακής εφαρμογής \foreignlanguage {english}{Django} }{32}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Τα αρχεία \foreignlanguage {english}{urls.py}}{32}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}Τα αρχεία \foreignlanguage {english}{views.py}}{32}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}Τα αρχεία \foreignlanguage {english}{html template}}{33}{subsection.4.4.3}%
-\contentsline {subsection}{\numberline {4.4.4}Η βάση δεδομένων}{33}{subsection.4.4.4}%
+\contentsline {chapter}{\numberline {1}Εισαγωγή}{15}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Απαιτήσεις και προδιαγραφές}{17}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Αυτοματοποίηση δικτύου}{17}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Τρόποι διαχείρησης δικτύου}{18}{section.1.3}%
+\contentsline {chapter}{\numberline {2}\foreignlanguage {english}{State of the art}}{19}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Η επανάσταση στο \foreignlanguage {english}{web development}}{19}{section.2.1}%
+\contentsline {section}{\numberline {2.2}\foreignlanguage {english}{Frameworks} και γιατί χρησιμοποιούνται}{19}{section.2.2}%
+\contentsline {section}{\numberline {2.3}\foreignlanguage {english}{CI/CD} \foreignlanguage {english}{pipeline}}{21}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Τι είναι ο \foreignlanguage {english}{kubernetes} }{21}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Τι είναι το \foreignlanguage {english}{Docker} }{21}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Τι είναι το \foreignlanguage {english}{Git} }{21}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Τεχνολογιές}{23}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Εισαγωγή}{23}{section.3.1}%
+\contentsline {section}{\numberline {3.2}\foreignlanguage {english}{GNS3}}{24}{section.3.2}%
+\contentsline {section}{\numberline {3.3}\foreignlanguage {english}{Cisco IOS}}{24}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Εικονικοποίηση}{25}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Πρόγραμμα εικονοποίσης για το \foreignlanguage {english}{GNS3 VM-VirtualBox}}{25}{section.3.5}%
+\contentsline {section}{\numberline {3.6}\foreignlanguage {english}{Django Web Framework}}{26}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}\foreignlanguage {english}{Paramiko}}{27}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}\foreignlanguage {english}{Netmiko}}{27}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}\foreignlanguage {english}{Napalm}}{28}{subsection.3.6.3}%
+\contentsline {chapter}{\numberline {4}\foreignlanguage {english}{Virtual Environment Set up}}{31}{chapter.4}%
+\contentsline {section}{\numberline {4.1}\foreignlanguage {english}{GNS3 Installation}}{31}{section.4.1}%
+\contentsline {section}{\numberline {4.2}\foreignlanguage {english}{Connection Establishment} }{33}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Σύνδεση με \foreignlanguage {english}{Django Server} }{34}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Δομή της διαδικτυακής εφαρμογής \foreignlanguage {english}{Django} }{35}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Τα αρχεία \foreignlanguage {english}{urls.py}}{35}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Τα αρχεία \foreignlanguage {english}{views.py}}{35}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Τα αρχεία \foreignlanguage {english}{html template}}{35}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}Η βάση δεδομένων}{36}{subsection.4.4.4}%
+\contentsline {chapter}{\numberline {5}\foreignlanguage {english}{Application Demo}}{39}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Εισαγωγή-Η λογική της λειτουργίας της εφαρμογής Django}{39}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Η αρχική σελίδα της εφαρμοφής}{40}{section.5.2}%
+\contentsline {section}{\numberline {5.3}\foreignlanguage {english}{Devices}}{41}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Στατιστικά της συσκευής}{43}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Στατιστικά της διεπαφής}{43}{section.5.5}%
+\contentsline {section}{\numberline {5.6}\foreignlanguage {english}{Backup} της συσκευής}{44}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Διαμόρφωση διεύθυνσης \foreignlanguage {english}{IP}}{45}{section.5.7}%
+\contentsline {chapter}{\numberline {6}Εισαγωγή τεχνολογίας του Κυβερνήτη(\foreignlanguage {english}{Kubernetes})}{47}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Εισαγωγή-Η λογική της λειτουργίας του Κυβερνήτη}{47}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Το αποθετήριο κοντεινερ-\foreignlanguage {english}{Docker Desktop}}{47}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Κυβερνήτης}{49}{section.6.3}%
+\contentsline {chapter}{\numberline {7}Συμπέρασμα}{53}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Εισαγωγή}{53}{section.7.1}%
+\contentsline {chapter}{\numberline {8}Βιβλιογραφία}{55}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Βιβλιογραφίκές αναφορές}{55}{section.8.1}%

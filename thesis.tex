@@ -9,8 +9,10 @@
 %%%%%
 
 \documentclass[a4paper,11pt,twoside,openright]{report}
-
+\usepackage{listings}
 % Ams
+\usepackage{xcolor}
+
 \usepackage{amsmath, amssymb}
 \usepackage{placeins}
 \usepackage{textcomp}
@@ -21,7 +23,6 @@
 \newcommand{\en}{\foreignlanguage{english}}
 \newcommand{\el}{\foreignlanguage{greek}}
 \usepackage[autostyle=true]{csquotes}
-
 \usepackage{kerkis}
 
 % Geometry
@@ -67,6 +68,7 @@
 	eprint=false,
 	language=auto,
 	autolang=other]{biblatex}
+
 \addbibresource{bibliography.bib}
 
 \usepackage{emptypage}
@@ -97,6 +99,12 @@
 \include{sections/sample_chapter_2}
 \include{sections/technologies_chapter}
 \include{sections/virtual_env_setup}
+
+\include{sections/application_demo}
+\include{sections/kubernetes_section}
+\include{sections/suberasma}
+\include{sections/bibliography}
+
 
 \printbibliography
 

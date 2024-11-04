@@ -14,34 +14,41 @@
 Μόλις γίνει η εγκατάσταση μπορεί να ανοίξει η εφαρμογή και να κάνουμε \en{import cisco IOS images}. Στην παρακάτω
 εικόνα μπορούμε να δούμε τι γίνεται όταν ανοίγουμε το \en{GNS3}. 
 
-\begin{figure}[htb]
+\begin{figure}[h]
 	\centering
 	\includegraphics[width=0.7\textwidth]{graphics/gns3_homepage.png}
 	\caption{\en{GNS3 homepage} }
 \end{figure}
+
+\FloatBarrier
 
 Προκειμένου να μπορέσει να επικοινωνήσει το \en{PC} μας στο τοπικό δίκτυο με το \en{GNS3 VM} στο τοπικό δίκτυο
 θα πρέπει να γίνουν κάποιες ρυθμίσεις τόσο στο \en{GNS3 VM} όσο και στις συσκευές της \en{Cisco}
 
 Στις συσκευές της \en{Cisco} θα πρέπει να γίνει η παρακάτω παραμετροποίηση όπως εμφανίζεται στις εικόνες 4.1,4.2,4.3.
 
-\begin{figure}[htb]
+\begin{figure}[h]
 	\centering
 	\includegraphics[width=0.7\textwidth]{graphics/cisco_ssh_config.png}
 	\caption{\en{Cisco ssh config} }
 \end{figure}
 
-\begin{figure}[htb]
+\FloatBarrier
+
+\begin{figure}[h]
 	\centering
 	\includegraphics[width=0.7\textwidth]{graphics/dhcp_cisco_config.png}
 	\caption{\en{Cisco dhcp config} }
 \end{figure}
 
+\FloatBarrier
 
 Μέχρι αυτή τη στιγμή έχουμε παραμετροποιήσει τις συσκευές με τέτοιο τρόπο ώστε να δέχονται
 απομακρυσμένη σύνδεση. Τώρα θα εξηγήσουμε πως μπορούμε να φτιάξουμε την εποικοινωνία μεταξύ εικονικών
 μηχανών της \en{Cisco} και του τοπικού μας υπολογιστή. Η λογική είναι ότι η συσκευή \en{Cloud}
 θα μας επιτρέψει να φτιάξουμε τη σύνδεση αυτή. Η εικόνα 4.4 μας παρουσιάζει σε ανώτερο επίπεδο τη λογική αυτή σύνδεση.
+
+\FloatBarrier
 
 \begin{figure}[htb]
 	\centering
@@ -70,12 +77,14 @@
 Με αυτόν τον τρόπο, εφόσον το \en{GNS3 VM} έχει ενταχθεί στο τοπικό δίκτυο, το ίδιο μπορεί να συμβεί και για τις συσκευές της \en{Cisco}
 , οι οποίες θα εισαχθούν στο περιβάλλον εργασίας μας, επιτρέποντας τη διαδραστικότητα και την επικοινωνία με αυτές.
 
+
 \begin{figure}[htb]
 	\centering
 	\includegraphics[width=1.0\textwidth]{graphics/network_config_GNS3.png}
 	\caption{\en{Network Configuration for GNS3VM} }
 \end{figure}
 
+\FloatBarrier
 
 \begin{figure}[htb]
 	\centering
@@ -88,6 +97,7 @@
 \en{ tcpdump -i eth0 -v -w /home/gns3/test.pcap}
 .Η συλλογή του \en{trace} έγινε με το πρωτόκολλο \en{SFTP}.
 
+\FloatBarrier
 
 \begin{figure}[h]
 	\centering
