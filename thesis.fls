@@ -281,9 +281,6 @@ INPUT sections\copyright.aux
 INPUT .\sections\abstract.aux
 INPUT .\sections\abstract.aux
 INPUT sections\abstract.aux
-INPUT .\sections\abstract_en.aux
-INPUT .\sections\abstract_en.aux
-INPUT sections\abstract_en.aux
 INPUT .\sections\thanks.aux
 INPUT .\sections\thanks.aux
 INPUT sections\thanks.aux
@@ -434,12 +431,6 @@ OUTPUT sections\abstract.aux
 INPUT .\sections\abstract.tex
 INPUT .\sections\abstract.tex
 INPUT sections\abstract.tex
-INPUT .\sections\abstract_en.tex
-INPUT .\sections\abstract_en.tex
-OUTPUT sections\abstract_en.aux
-INPUT .\sections\abstract_en.tex
-INPUT .\sections\abstract_en.tex
-INPUT sections\abstract_en.tex
 INPUT .\sections\thanks.tex
 INPUT .\sections\thanks.tex
 OUTPUT sections\thanks.aux
@@ -782,9 +773,6 @@ INPUT sections\copyright.aux
 INPUT .\sections\abstract.aux
 INPUT .\sections\abstract.aux
 INPUT sections\abstract.aux
-INPUT .\sections\abstract_en.aux
-INPUT .\sections\abstract_en.aux
-INPUT sections\abstract_en.aux
 INPUT .\sections\thanks.aux
 INPUT .\sections\thanks.aux
 INPUT sections\thanks.aux
