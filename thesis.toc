@@ -7,32 +7,35 @@
 \contentsline {section}{\numberline {3.1}Στόχοι του έργου}{13}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Περιγραφή προβλήματος και λύσης}{13}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Τεχνολογίες που χρησιμοποιήθηκαν και γιατί}{14}{section.3.3}%
-\contentsline {chapter}{\numberline {4}Θεωρητικό Υπόβαθρο}{15}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Τεχνολογίες του \foreignlanguage {english}{software development}}{15}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}\foreignlanguage {english}{Django Framework},\foreignlanguage {english}{Paramiko}, \foreignlanguage {english}{Netmiko} και \foreignlanguage {english}{Napalm}}{15}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}\foreignlanguage {english}{Paramiko}}{15}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.1.3}\foreignlanguage {english}{Netmiko}}{16}{subsection.4.1.3}%
-\contentsline {subsection}{\numberline {4.1.4}\foreignlanguage {english}{Napalm}}{16}{subsection.4.1.4}%
-\contentsline {subsection}{\numberline {4.1.5}\foreignlanguage {english}{Version Control} με \foreignlanguage {english}{Git} και \foreignlanguage {english}{GitHub} }{17}{subsection.4.1.5}%
-\contentsline {subsection}{\numberline {4.1.6}Συνεχής Ενσωμάτωση και Παράδοση (\foreignlanguage {english}{CI/CD}) }{17}{subsection.4.1.6}%
-\contentsline {section}{\numberline {4.2}Τεχνολογίες του \foreignlanguage {english}{Software deployment}}{17}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}\foreignlanguage {english}{Containers} και \foreignlanguage {english}{Docker}}{17}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}\foreignlanguage {english}{Kubernetes} και \foreignlanguage {english}{Container Orchestration}}{18}{subsection.4.2.2}%
-\contentsline {section}{\numberline {4.3}Αυτοματοποίηση Διαχείρισης Δικτύου}{18}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}\foreignlanguage {english}{Network Automation}}{18}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}\foreignlanguage {english}{Cisco IOS}}{18}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}\foreignlanguage {english}{REST APIs} για Δικτυακές Συσκευές \foreignlanguage {english}{Cisco}}{18}{subsection.4.3.3}%
-\contentsline {subsection}{\numberline {4.3.4}\foreignlanguage {english}{GNS3} και Εικονικά Δίκτυα}{19}{subsection.4.3.4}%
-\contentsline {section}{\numberline {4.4}Πρόγραμμα εικονοποίσης για το \foreignlanguage {english}{GNS3 VM-VirtualBox}}{20}{section.4.4}%
-\contentsline {chapter}{\numberline {5}\foreignlanguage {english}{Virtual Environment Set up}}{23}{chapter.5}%
-\contentsline {section}{\numberline {5.1}\foreignlanguage {english}{GNS3 Installation}}{23}{section.5.1}%
-\contentsline {section}{\numberline {5.2}\foreignlanguage {english}{Connection Establishment} }{25}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Σύνδεση με \foreignlanguage {english}{Django Server} }{26}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Δομή της διαδικτυακής εφαρμογής \foreignlanguage {english}{Django} }{27}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}Τα αρχεία \foreignlanguage {english}{urls.py}}{27}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}Τα αρχεία \foreignlanguage {english}{views.py}}{27}{subsection.5.4.2}%
-\contentsline {subsection}{\numberline {5.4.3}Τα αρχεία \foreignlanguage {english}{html template}}{27}{subsection.5.4.3}%
-\contentsline {subsection}{\numberline {5.4.4}Η βάση δεδομένων}{28}{subsection.5.4.4}%
+\contentsline {chapter}{\numberline {4}Θεωρητικό Υπόβαθρο}{17}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Τεχνολογίες του \foreignlanguage {english}{software development}}{17}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}\foreignlanguage {english}{Django Framework},\foreignlanguage {english}{Paramiko}, \foreignlanguage {english}{Netmiko} και \foreignlanguage {english}{Napalm}}{17}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}\foreignlanguage {english}{Paramiko}}{17}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}\foreignlanguage {english}{Netmiko}}{18}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}\foreignlanguage {english}{Napalm}}{18}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}\foreignlanguage {english}{Version Control} με \foreignlanguage {english}{Git} και \foreignlanguage {english}{GitHub} }{19}{subsection.4.1.5}%
+\contentsline {subsection}{\numberline {4.1.6}Συνεχής Ενσωμάτωση και Παράδοση (\foreignlanguage {english}{CI/CD}) }{19}{subsection.4.1.6}%
+\contentsline {section}{\numberline {4.2}Τεχνολογίες του \foreignlanguage {english}{Software deployment}}{19}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}\foreignlanguage {english}{Containers} και \foreignlanguage {english}{Docker}}{19}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}\foreignlanguage {english}{Kubernetes} και \foreignlanguage {english}{Container Orchestration}}{20}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Αυτοματοποίηση Διαχείρισης Δικτύου}{20}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}\foreignlanguage {english}{Network Automation}}{20}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}\foreignlanguage {english}{Cisco IOS}}{20}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}\foreignlanguage {english}{REST APIs} για Δικτυακές Συσκευές \foreignlanguage {english}{Cisco}}{21}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}\foreignlanguage {english}{GNS3} και Εικονικά Δίκτυα}{21}{subsection.4.3.4}%
+\contentsline {section}{\numberline {4.4}Πρόγραμμα εικονοποίσης για το \foreignlanguage {english}{GNS3 VM-VirtualBox}}{22}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Σχεδίαση και Ανάλυση}{25}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Απαιτήσεις Συστήματος}{25}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Λειτουργικές απαιτήσεις}{25}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Τοπικό περιβάλλον ανάπτυξης}{25}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}Η επανάσταση στο \foreignlanguage {english}{web development}}{26}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Αρχιτεκτονική της εφαρμογής}{26}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Μοντέλο \foreignlanguage {english}{MVC} (\foreignlanguage {english}{Model-View-Controller})}{26}{subsection.5.3.1}%
+\contentsline {section}{\numberline {5.4}\foreignlanguage {english}{Django MTV}}{27}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Διαγραμματική απεικόνιση της εφαρμογής}{27}{subsection.5.4.1}%
+\contentsline {section}{\numberline {5.5}Εικονικό Περιβάλλον Δικτύου \foreignlanguage {english}{GNS3 –Testbed}}{28}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}Σχεδίαση Τοπολογίας Δικτύου}{28}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}Προσομοίωση Συσκευών \foreignlanguage {english}{Cisco}}{28}{subsection.5.5.2}%
 \contentsline {chapter}{\numberline {6}\foreignlanguage {english}{Application Demo}}{31}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Εισαγωγή-Η λογική της λειτουργίας της εφαρμογής Django}{31}{section.6.1}%
 \contentsline {section}{\numberline {6.2}Η αρχική σελίδα της εφαρμοφής}{32}{section.6.2}%

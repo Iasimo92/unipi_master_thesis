@@ -3,41 +3,32 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces \foreignlanguage {english}{Virtualization} Γενική αρχιτεκτονική}}{20}{figure.caption.1}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces \foreignlanguage {english}{Virtualization} Γενική αρχιτεκτονική}}{21}{figure.caption.2}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces \foreignlanguage {english}{Virtualbox} }}{21}{figure.caption.3}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces \foreignlanguage {english}{Virtualization} Γενική αρχιτεκτονική}}{22}{figure.caption.1}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces \foreignlanguage {english}{Virtualization} Γενική αρχιτεκτονική}}{23}{figure.caption.2}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces \foreignlanguage {english}{Virtualbox} }}{24}{figure.caption.3}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces \foreignlanguage {english}{GNS3 homepage} }}{24}{figure.caption.4}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces \foreignlanguage {english}{Cisco ssh config} }}{24}{figure.caption.5}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces \foreignlanguage {english}{Cisco dhcp config} }}{25}{figure.caption.6}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces \foreignlanguage {english}{Local PC-GNS3VM-CISCO IOS Connection Architecture} }}{25}{figure.caption.7}%
-\contentsline {figure}{\numberline {5.5}{\ignorespaces \foreignlanguage {english}{Network Configuration for GNS3VM} }}{26}{figure.caption.8}%
-\contentsline {figure}{\numberline {5.6}{\ignorespaces \foreignlanguage {english}{SSH traffic} }}{26}{figure.caption.9}%
-\contentsline {figure}{\numberline {5.7}{\ignorespaces \foreignlanguage {english}{SSH traffic} }}{26}{figure.caption.10}%
-\contentsline {figure}{\numberline {5.8}{\ignorespaces \foreignlanguage {english}{url.py} }}{27}{figure.caption.11}%
-\contentsline {figure}{\numberline {5.9}{\ignorespaces \foreignlanguage {english}{views.py} }}{28}{figure.caption.12}%
-\contentsline {figure}{\numberline {5.10}{\ignorespaces Παράδειγμα \foreignlanguage {english}{html} αρχείου }}{29}{figure.caption.13}%
-\contentsline {figure}{\numberline {5.11}{\ignorespaces Είσοδος στο \foreignlanguage {english}{GUI}}}{29}{figure.caption.14}%
-\contentsline {figure}{\numberline {5.12}{\ignorespaces Κεντρική σελίδα του \foreignlanguage {english}{Django Administration GUI}}}{29}{figure.caption.15}%
-\contentsline {figure}{\numberline {5.13}{\ignorespaces Προσθήκη συσκευής }}{30}{figure.caption.16}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces \foreignlanguage {english}{MTV}}}{27}{figure.caption.4}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces \foreignlanguage {english}{Local PC-GNS3VM-CISCO IOS Connection Architecture} }}{28}{figure.caption.5}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces \foreignlanguage {english}{Import appliance} }}{29}{figure.caption.6}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces \foreignlanguage {english}{filename configuration} }}{29}{figure.caption.7}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces \foreignlanguage {english}{Urls.py} αρχείο}}{31}{figure.caption.17}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces \foreignlanguage {english}{Django run server}}}{32}{figure.caption.18}%
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Αρχική Σελίδα}}{33}{figure.caption.19}%
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Αρχικοποίηση συσκευής}}{34}{figure.caption.20}%
-\contentsline {figure}{\numberline {6.5}{\ignorespaces \foreignlanguage {english}{Controller-Device Interfaces}}}{34}{figure.caption.21}%
-\contentsline {figure}{\numberline {6.6}{\ignorespaces \foreignlanguage {english}{Interfaces}}}{35}{figure.caption.22}%
-\contentsline {figure}{\numberline {6.7}{\ignorespaces Στατιστικά}}{36}{figure.caption.23}%
-\contentsline {figure}{\numberline {6.8}{\ignorespaces Στατιστικά διεπαφής}}{37}{figure.caption.24}%
-\contentsline {figure}{\numberline {6.9}{\ignorespaces Τρέχων Διαμόρφωση}}{37}{figure.caption.25}%
-\contentsline {figure}{\numberline {6.10}{\ignorespaces \foreignlanguage {english}{IP}Διαμόρφωση}}{38}{figure.caption.26}%
-\contentsline {figure}{\numberline {6.11}{\ignorespaces \foreignlanguage {english}{IP} Διαφορά}}{38}{figure.caption.27}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces \foreignlanguage {english}{Urls.py} αρχείο}}{31}{figure.caption.8}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces \foreignlanguage {english}{Django run server}}}{32}{figure.caption.9}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Αρχική Σελίδα}}{33}{figure.caption.10}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Αρχικοποίηση συσκευής}}{34}{figure.caption.11}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces \foreignlanguage {english}{Controller-Device Interfaces}}}{34}{figure.caption.12}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces \foreignlanguage {english}{Interfaces}}}{35}{figure.caption.13}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Στατιστικά}}{36}{figure.caption.14}%
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Στατιστικά διεπαφής}}{37}{figure.caption.15}%
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Τρέχων Διαμόρφωση}}{37}{figure.caption.16}%
+\contentsline {figure}{\numberline {6.10}{\ignorespaces \foreignlanguage {english}{IP}Διαμόρφωση}}{38}{figure.caption.17}%
+\contentsline {figure}{\numberline {6.11}{\ignorespaces \foreignlanguage {english}{IP} Διαφορά}}{38}{figure.caption.18}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1}{\ignorespaces \foreignlanguage {english}{Dockerfile}}}{40}{figure.caption.28}%
-\contentsline {figure}{\numberline {7.2}{\ignorespaces \foreignlanguage {english}{Docker build}-Δημιουργία του κοντεινερ}}{41}{figure.caption.29}%
-\contentsline {figure}{\numberline {7.3}{\ignorespaces \foreignlanguage {english}{Docker push}-}}{41}{figure.caption.30}%
-\contentsline {figure}{\numberline {7.4}{\ignorespaces \foreignlanguage {english}{Docker image list}}}{42}{figure.caption.31}%
-\contentsline {figure}{\numberline {7.5}{\ignorespaces \foreignlanguage {english}{Minikube deployment}}}{43}{figure.caption.32}%
-\contentsline {figure}{\numberline {7.6}{\ignorespaces \foreignlanguage {english}{Django Deploy}}}{44}{figure.caption.33}%
+\contentsline {figure}{\numberline {7.1}{\ignorespaces \foreignlanguage {english}{Dockerfile}}}{40}{figure.caption.19}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces \foreignlanguage {english}{Docker build}-Δημιουργία του κοντεινερ}}{41}{figure.caption.20}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces \foreignlanguage {english}{Docker push}-}}{41}{figure.caption.21}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces \foreignlanguage {english}{Docker image list}}}{42}{figure.caption.22}%
+\contentsline {figure}{\numberline {7.5}{\ignorespaces \foreignlanguage {english}{Minikube deployment}}}{43}{figure.caption.23}%
+\contentsline {figure}{\numberline {7.6}{\ignorespaces \foreignlanguage {english}{Django Deploy}}}{44}{figure.caption.24}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
