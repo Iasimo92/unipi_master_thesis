@@ -1,6 +1,81 @@
-\chapter{Εισαγωγή τεχνολογίας του Κυβερνήτη(\en{Kubernetes})}
+\chapter{\en{Containerization} και \en{Deployment} }
 
-\section{Εισαγωγή-Η λογική της λειτουργίας του Κυβερνήτη}
+\section{\en{Containerization} με \en{Docker}}
+
+\subsection{Δημιουργία \en{Docker Image}}
+
+Προκειμένου να μπορέσουμε να χρησιμοποιήσουμε το \en{Docker Desktop} θα πρέπει να έχουμε φτιάξει την εφαρμογή μας σαν κοντεινερ.
+
+Για να γίνει αυτό θα πρέπει να φτιάξουμε το παρακάτω \en{Dockerfile} το οποίο ουσιαστικά είναι η εφαρμογή μας αλλά σε κοντεινερ. 
+
+Αυτό το \en{Dockerfile} δημιουργεί ένα περιβάλλον \en{Python 3.9} 
+για ένα έργο \en{Django}. Ορίζει το φάκελο εργασίας στον κατάλογο 
+\en{/app}, εγκαθιστά τις απαιτούμενες εξαρτήσεις από το αρχείο \en{requirements.txt}
+, ενημερώνει το \en{pip}, και εγκαθιστά βιβλιοθήκες συστήματος 
+(π.χ. \en{libyaml-dev}). 
+Αντιγράφει τον κώδικα του έργου \en{Django} στο κοντέινερ, 
+θέτει τη μεταβλητή περιβάλλοντος \en{PYTHONPATH}, εκθέτει την 
+θύρα 8000 για τον διακομιστή \en{Django} και 
+εκκινεί την εφαρμογή με την εντολή \en{runserver}.
+
+\begin{figure}[htb]
+	\centering
+	\includegraphics[width=1.5\textwidth]{graphics/dockerfile.png}
+	\caption{\en{Dockerfile}}
+\end{figure}
+
+\FloatBarrier
+
+
+Η εντολή \en{docker build} χρησιμοποιείται για τη δημιουργία μιας εικόνας \en{Docker} (\en{Docker image}) 
+από ένα συγκεκριμένο αρχείο \en{Dockerfile} και τα αρχεία που περιλαμβάνονται στον φάκελο εργασίας (\en{context}).
+
+Αυτή η διαδικασία πακετάρει τον κώδικα της εφαρμογής, τις εξαρτήσεις και τις ρυθμίσεις σε ένα απομονωμένο περιβάλλον. 
+Με αυτόν τον τρόπο, η παραγόμενη εικόνα μπορεί να διαμοιραστεί και να εκτελεστεί με συνέπεια σε διαφορετικά συστήματα, 
+εξασφαλίζοντας ομοιόμορφο περιβάλλον εκτέλεσης. Είναι σημαντικό εργαλείο για αυτοματοποίηση και ανάπτυξη σε συστήματα \en{CI/CD}.
+
+Για να φτιάξουμε το \en{image} τρέχουμε τη παρακατω εντολη. 
+
+\FloatBarrier
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=1.0\textwidth]{graphics/docker_build.png}
+	\caption{\en{Docker build}-Δημιουργία του κοντεινερ}
+\end{figure}
+
+\FloatBarrier
+
+Θα πρέπει μετά να βάλουμε το \en{image} στο \en{DockerDesktop} και αφού γίνει αυτό θα μπορέσουμε να την τρέξουμε στην υποδομή του κυβερνήτη.
+Το ίδιο μπορεί να γίνει και χωρίς την εφαρμογή \en{DockerDesktop} αλλά τρέχοντας το \en{Docker service}
+απευθείας πάνω στο \en{WSL2} όπως φαίνεται και στις παρακάτω εικόνες.
+
+\FloatBarrier
+
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=1.5\textwidth]{graphics/docker_image_list_2.png}
+	\caption{\en{Docker image list}-}
+\end{figure}
+
+\FloatBarrier
+
+\FloatBarrier
+
+Παρακάτω παρουσιάζεται πως μπορούμε να κάνουμε \en{push} την εικόνα
+σε αποθετήριο σε περίπτωση που θα μπορούσαμε να χρησιμοποιήσουμε το 
+\en{Docker Desktop}.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=1.5\textwidth]{graphics/dockerpush.png}
+	\caption{\en{Docker push}-}
+\end{figure}
+
+
+
+\section{\en{Deployment} με \en{Kubernetes}}
 
 Τα τελευταία χρόνια, παρατηρείται ραγδαία αύξηση στον τομέα της πληροφορικής, 
 με την εμφάνιση και εξάπλωση νέων εννοιών, όπως ο κυβερνήτης και τα \en{microservices}. 
@@ -18,50 +93,7 @@
 τι ακριβώς είναι ο κυβερνήτης γιατί μία τέτοια προσπάθεια είναι μία διπλωματική από μόνη της αλλά θα προσπαθήσουμε να παρουσιάσουμε τα βασικά χαρακτηριστικά τα οποία
 χρησιμοποιήθηκαν πρακτικά στη διπλωματική.
 
-\section{Το αποθετήριο κοντεινερ-\en{Docker Desktop}}
 
-Προκειμένου να μπορέσουμε να χρησιμοποιήσουμε το \en{Docker Desktop} θα πρέπει να έχουμε φτιάξει την εφαρμογή μας σαν κοντεινερ.
-
-Για να γίνει αυτό θα πρέπει να φτιάξουμε το παρακάτω \en{Dockerfile} το οποίο ουσιαστικά είναι η εφαρμογή μας αλλά σε κοντεινερ.
-
-\begin{figure}[htb]
-	\centering
-	\includegraphics[width=1.5\textwidth]{graphics/dockerfile.png}
-	\caption{\en{Dockerfile}}
-\end{figure}
-
-\FloatBarrier
-
-
-Για να φτιάξουμε το \en{image} τρέχουμε τη παρακατω εντολη
-
-\FloatBarrier
-\begin{figure}[h]
-	\centering
-	\includegraphics[width=1.5\textwidth]{graphics/docker_build.png}
-	\caption{\en{Docker build}-Δημιουργία του κοντεινερ}
-\end{figure}
-
-
-Θα πρέπει μετά να βάλουμε το \en{image} στο \en{DockerDesktop} και αφού γίνει αυτό θα μπορέσουμε να την τρέξουμε στην υποδομή του κυβερνήτη.
-Το ίδιο μπορεί να γίνει και χωρίς την εφαρμογή \en{DockerDesktop} αλλά τρέχοντας το \en{Docker service}
-απευθείας πάνω στο \en{WSL2} όπως φαίνεται και στις παρακάτω εικόνες.
-
-\FloatBarrier
-\begin{figure}[h]
-	\centering
-	\includegraphics[width=1.5\textwidth]{graphics/dockerpush.png}
-	\caption{\en{Docker push}-}
-\end{figure}
-
-\begin{figure}[h]
-	\centering
-	\includegraphics[width=1.5\textwidth]{graphics/docker_image_list.png}
-	\caption{\en{Docker image list}}
-\end{figure}
-
-
-\section{Κυβερνήτης}
 
 Στη διπλωματική αυτή εργασία, χρησιμοποιείται ένα τοπικό περιβάλλον 
 ανάπτυξης με \en{Kubernetes} μέσω του \en{Minikube} και του \en{WSL2}
@@ -120,6 +152,7 @@
 	\caption{\en{Minikube deployment}}
 \end{figure}
 
+\subsection{Δημιουργία \en{Kubernetes manifest files}}
 
 Στο πλαίσιο της ανάπτυξης της εφαρμογής, χρησιμοποιήθηκε το 
 \en{Kubernetes} για τη δημιουργία και διαχείριση ενός \en{pod} 
@@ -130,7 +163,17 @@
 Στην ενότητα \en{spec}, ορίζεται ένα \en{container} 
 το οποίο χρησιμοποιεί την εικόνα \en{iasonasi/djangotestapp:latest} 
 και ακούει στη θύρα 8000, η οποία είναι η προεπιλεγμένη θύρα της 
-εφαρμογής \en{Django}.
+εφαρμογής \en{Django}. Παρακάτω το \en{spec} του \en{yaml file.}
+
+\FloatBarrier
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=1.5\textwidth]{graphics/pod_spec.png}
+	\caption{\en{Spec}}
+\end{figure}
+
+\FloatBarrier
 
 Αυτό το παράδειγμα αποδεικνύει τη σημασία της χρήσης του \en{Kubernetes YAML syntax} 
 για την αυτοματοποιημένη ανάπτυξη και διαχείριση \en{containerized} 
@@ -141,13 +184,37 @@
 \en{pod} με τρόπο ανεξάρτητο από το υποκείμενο σύστημα, 
 εξασφαλίζοντας επαναληψιμότητα και δυνατότητα μεταφοράς του 
 συστήματος σε διαφορετικές υποδομές. Στην παρακάτω εικόνα φαίνεται το 
-\en{YAML file} που χρησιμοποιήθηκε. Φυσικά ολόκληρος ο κώδικας βρίσκεται
-ανοιχτός και προσβάσιμος στο \en{GITHUB}
+\en{YAML file} που χρησιμοποιήθηκε. 
 
+\FloatBarrier
 
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=1.5\textwidth]{graphics/deploy_django.png}
-	\caption{\en{Django Deploy}}
+	\caption{\en{Manifest for Django pod}}
 \end{figure}
+
+\FloatBarrier
+
+\subsection{Πρόσβαση στο \en{Django pod}}.
+
+Για να αποκτήσουμε πρόσβαση στην εφαρμογή \en{Django} που τρέχει στο \en{pod} του \en{Kubernetes}, 
+μπορούμε να χρησιμοποιήσουμε την εντολή \en{kubectl port-forward}. 
+
+Βρείτε το \en{pod} και με την εντολή \en{kubectl port-forward} θα μπορέσουμε μέσα απο έναν \en{browser}
+να έχουμε πρόσβαση σε αυτήν.
+
+\FloatBarrier
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=1.5\textwidth]{graphics/kubernetes_proxy.png}
+	\caption{\en{Port forward traffic}}
+\end{figure}
+
+\FloatBarrier
+
+Στη συνέχεια, επισκεφτείτε την εφαρμογή σας στον \en{browser} μέσω της διεύθυνσης \en{http://localhost:8000}. Θα πρέπει όλες οι λειτουργίες
+να μπορούν να εκτελεστούν κάτι το οποίο η παραπάνω εικόνα το αποδεικνύει. 
+
 
