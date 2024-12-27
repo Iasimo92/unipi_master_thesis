@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  1 DEC 2024 01:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  28 DEC 2024 01:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -152,33 +152,9 @@ Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@posthook=\toks25
 ) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2024/06/02 v24.6 The Babel package
-\babel@savecnt=\count289
-\U@D=\dimen155
-\l@unhyphenated=\language79
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
-\bbl@readstream=\read2
-\bbl@dirlevel=\count290
-
-*************************************
-* Local config file bblopts.cfg used
-*
-(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
-Language: english 2017/06/06 v3.3r English support from the babel system
-Package babel Info: Hyphen rules for 'canadian' set to \l@english
-(babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language73). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language73). Reported on input line 108.
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/babel-greek\greek.ldf
-Language: greek 2023/10/13 1.15 Greek support for the babel system
-\bbl@monogreek=\count291
-\bbl@polygreek=\count292
-\bbl@ancientgreek=\count293
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/textgreek\textgreek.sty
+Package: textgreek 2011/10/09 v0.7 Greek symbols in text
+Package textgreek Info: Loading the definitions for the Greek fontencoding. on input line 39.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\lgrenc.def
 File: lgrenc.def 2023-09-12 2.5 LGR Greek font encoding definitions
 Now handling font encoding LGR ...
@@ -536,7 +512,36 @@ File: lgrenc.dfu 2023-03-21 1.9 UTF-8 support for Greek
    defining Unicode char U+10147 (decimal 65863)
 ) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\greek-fontenc.def
 File: greek-fontenc.def 2023-09-12 2.5 Common Greek font encoding definitions
-)))) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/el\babel-greek.tex
+))
+Package textgreek Info: Loaded fontmap: {eur/*/*}{U/eur/*/*} {phv/*/*}{U/psy/*/*}. on input line 69.
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2024/06/02 v24.6 The Babel package
+\babel@savecnt=\count289
+\U@D=\dimen155
+\l@unhyphenated=\language79
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count290
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/babel-greek\greek.ldf
+Language: greek 2023/10/13 1.15 Greek support for the babel system
+\bbl@monogreek=\count291
+\bbl@polygreek=\count292
+\bbl@ancientgreek=\count293
+)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/el\babel-greek.tex
 Package babel Info: Importing font and identification data for greek
 (babel)             from babel-el.ini. Reported on input line 11.
 ) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
@@ -1096,10 +1101,10 @@ Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty p
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
-LaTeX Font Info:    Trying to load font information for T1+mak on input line 83.
+LaTeX Font Info:    Trying to load font information for T1+mak on input line 84.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/kerkis\t1mak.fd)
 LaTeX Font Info:    Font shape `T1/mak/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 83.
+(Font)              scaled to size 9.85492pt on input line 84.
  (thesis.aux (sections/titlepage.aux)
 LaTeX Font Info:    Trying to load font information for LGR+mak on input line 10.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/kerkis\lgrmak.fd)
@@ -1108,30 +1113,30 @@ LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
  (sections/approvalpage.aux) (sections/copyright.aux) (sections/abstract.aux) (sections/thanks.aux) (sections/sample_chapter.aux) (sections/theoritiko_upovathro.aux) (sections/sxediasi_analusi.aux) (sections/ulopoisi_tis_efarmogis.aux) (sections/application_demo.aux) (sections/kubernetes_section.aux) (sections/suberasma.aux) (sections/parartima.aux) (sections/bibliography.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 83.
-LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 83.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 84.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 84.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
 \c@lstlisting=\count459
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1187,23 +1192,23 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 83.
-Package microtype Info: Applying patch `item' on input line 83.
-Package microtype Info: Applying patch `toc' on input line 83.
-Package microtype Info: Applying patch `eqnum' on input line 83.
-Package microtype Info: Applying patch `footnote' on input line 83.
-Package microtype Info: Applying patch `verbatim' on input line 83.
+LaTeX Info: Redefining \microtypecontext on input line 84.
+Package microtype Info: Applying patch `item' on input line 84.
+Package microtype Info: Applying patch `toc' on input line 84.
+Package microtype Info: Applying patch `eqnum' on input line 84.
+Package microtype Info: Applying patch `footnote' on input line 84.
+Package microtype Info: Applying patch `verbatim' on input line 84.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 83.
+LaTeX Info: Redefining \showhyphens on input line 84.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-Package hyperref Info: Link coloring OFF on input line 83.
+Package hyperref Info: Link coloring OFF on input line 84.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: Trying to load language 'greek'...
@@ -1224,8 +1229,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
  (thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 83.
-Package biblatex Info: Reference segment=0 on input line 83.
+Package biblatex Info: Reference section=0 on input line 84.
+Package biblatex Info: Reference segment=0 on input line 84.
 \openout2 = `sections/titlepage.aux'.
 
  (sections/titlepage.tex
@@ -1333,12 +1338,6 @@ LaTeX Font Info:    Font shape `LGR/mak/b/n' will be
 (Font)              scaled to size 18.66588pt on input line 1.
 LaTeX Font Info:    Font shape `LGR/mak/b/n' will be
 (Font)              scaled to size 12.9599pt on input line 3.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `mak' (encoding: TS1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-pdfTeX warning (font expansion): font should be expanded before its first use
 
 
 [5
@@ -1428,6 +1427,11 @@ LaTeX Font Info:    Font shape `T1/mak/b/n' will be
 [19]
 
 [20]
+Overfull \hbox (19.95053pt too wide) in paragraph at lines 55--64
+\LGR/mak/m/n/10.95 sth-rÐxei pol-lèc dia-fo-re-ti-kèc su-ske-Ôec dia-fo-re-ti-k¸n pro-mh-jeu-t¸n([]\T1/mak/m/n/10.95 (-20) Cisco[]\LGR/mak/m/n/10.95 ,[]\T1/mak/m/n/10.95 (-20) Juniper[]\LGR/mak/m/n/10.95 ,[]\T1/mak/m/n/10.95 (-20) Arista
+ []
+
+
 
 [21]
 
@@ -1437,12 +1441,12 @@ LaTeX Font Info:    Font shape `T1/mak/b/n' will be
 <graphics/Architecture_virtualbox.PNG, id=331, 307.1475pt x 349.90726pt>
 File: graphics/Architecture_virtualbox.PNG Graphic file (type png)
 <use graphics/Architecture_virtualbox.PNG>
-Package pdftex.def Info: graphics/Architecture_virtualbox.PNG  used on input line 164.
+Package pdftex.def Info: graphics/Architecture_virtualbox.PNG  used on input line 170.
 (pdftex.def)             Requested size: 194.18921pt x 221.22758pt.
 <graphics/virtualization_architecture.PNG, id=333, 292.6935pt x 419.166pt>
 File: graphics/virtualization_architecture.PNG Graphic file (type png)
 <use graphics/virtualization_architecture.PNG>
-Package pdftex.def Info: graphics/virtualization_architecture.PNG  used on input line 170.
+Package pdftex.def Info: graphics/virtualization_architecture.PNG  used on input line 176.
 (pdftex.def)             Requested size: 194.18921pt x 278.1023pt.
 
 
@@ -1450,7 +1454,7 @@ Package pdftex.def Info: graphics/virtualization_architecture.PNG  used on input
 <graphics/virtualbox.PNG, id=339, 563.10374pt x 467.346pt>
 File: graphics/virtualbox.PNG Graphic file (type png)
 <use graphics/virtualbox.PNG>
-Package pdftex.def Info: graphics/virtualbox.PNG  used on input line 191.
+Package pdftex.def Info: graphics/virtualbox.PNG  used on input line 197.
 (pdftex.def)             Requested size: 349.5382pt x 290.10094pt.
 )
 
@@ -1461,6 +1465,12 @@ Package pdftex.def Info: graphics/virtualbox.PNG  used on input line 191.
 
  (sections/sxediasi_analusi.tex
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  5.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `mak' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+pdfTeX warning (font expansion): font should be expanded before its first use
 
 
 [27
@@ -1952,7 +1962,7 @@ Overfull \hbox (0.73871pt too wide) in paragraph at lines 15--16
 
 ]
 
-LaTeX Warning: Empty bibliography on input line 112.
+LaTeX Warning: Empty bibliography on input line 113.
 
 (thesis.aux (sections/titlepage.aux) (sections/approvalpage.aux) (sections/copyright.aux) (sections/abstract.aux) (sections/thanks.aux) (sections/sample_chapter.aux) (sections/theoritiko_upovathro.aux) (sections/sxediasi_analusi.aux) (sections/ulopoisi_tis_efarmogis.aux) (sections/application_demo.aux) (sections/kubernetes_section.aux) (sections/suberasma.aux) (sections/parartima.aux) (sections/bibliography.aux))
  ***********
@@ -1968,15 +1978,15 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28417 strings out of 473920
- 505614 string characters out of 5727446
+ 28532 strings out of 473920
+ 507376 string characters out of 5727446
  1941908 words of memory out of 5000000
- 50505 multiletter control sequences out of 15000+600000
- 592339 words of font info for 170 fonts, out of 8000000 for 9000
+ 50613 multiletter control sequences out of 15000+600000
+ 592464 words of font info for 172 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,81p,1346b,1981s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-Bold.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-Italic.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-SmallCaps.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis.pfb>
-Output written on thesis.pdf (65 pages, 3748236 bytes).
+Output written on thesis.pdf (65 pages, 3751875 bytes).
 PDF statistics:
  869 PDF objects out of 1000 (max. 8388607)
  178 named destinations out of 1000 (max. 500000)
