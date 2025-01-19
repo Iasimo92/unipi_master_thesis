@@ -511,6 +511,13 @@ OUTPUT sections\sxediasi_analusi.aux
 INPUT .\sections\sxediasi_analusi.tex
 INPUT .\sections\sxediasi_analusi.tex
 INPUT sections\sxediasi_analusi.tex
+INPUT .\graphics\MVC-Process.svg.png
+INPUT .\graphics\MVC-Process.svg.png
+INPUT .\graphics\MVC-Process.svg.png
+INPUT .\graphics\MVC-Process.svg.png
+INPUT .\graphics\MVC-Process.svg.png
+INPUT .\graphics\MVC-Process.svg.png
+INPUT .\graphics\MVC-Process.svg.png
 INPUT .\graphics\MTV.drawio.png
 INPUT .\graphics\MTV.drawio.png
 INPUT .\graphics\MTV.drawio.png
