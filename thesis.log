@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  19 JAN 2025 22:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  15 FEB 2025 23:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -697,4 +697,1308 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 \Hy@linkcounter=\count309
 \Hy@pagecounter=\count310
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2024-05-23 v7.01i Hyperr
+File: pd1enc.def 2024-05-23 v7.01i Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count311
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2024-05-23 v7.01i Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\puenc-greek.def
+File: puenc-greek.def 2023-09-12 2.5 Greek LICRs for PDF strings
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\greek-fontenc.def
+File: greek-fontenc.def 2023-09-12 2.5 Common Greek font encoding definitions
+)))
+Package hyperref Info: Option `unicode' set `true' on input line 4040.
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count312
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen166
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count313
+\Field@Width=\dimen167
+\Fld@charsize=\dimen168
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count314
+\c@Item=\count315
+\c@Hfootnote=\count316
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2024-05-23 v7.01i Hyperref driver for pdfTeX
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count317
+\c@bookmark@seq@number=\count318
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip89
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
+\BKM@id=\count319
+)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterpage.sty
+Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
+\AP@output=\toks30
+\AP@partial=\box57
+\AP@footins=\box58
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/tools\bm.sty
+Package: bm 2023/12/19 v1.2f Bold Symbol Support (DPC/FMi)
+Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
+Package bm Info: No bold for \U/msa/m/n, using \pmb.
+Package bm Info: No bold for \U/msb/m/n, using \pmb.
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen169
+\lightrulewidth=\dimen170
+\cmidrulewidth=\dimen171
+\belowrulesep=\dimen172
+\belowbottomsep=\dimen173
+\aboverulesep=\dimen174
+\abovetopsep=\dimen175
+\cmidrulesep=\dimen176
+\cmidrulekern=\dimen177
+\defaultaddspace=\dimen178
+\@cmidla=\count320
+\@cmidlb=\count321
+\@aboverulesep=\dimen179
+\@belowrulesep=\dimen180
+\@thisruleclass=\count322
+\@lastruleclass=\count323
+\@thisrulewidth=\dimen181
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
+\Gin@req@height=\dimen182
+\Gin@req@width=\dimen183
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen184
+\captionmargin=\dimen185
+\caption@leftmargin=\dimen186
+\caption@rightmargin=\dimen187
+\caption@width=\dimen188
+\caption@indent=\dimen189
+\caption@parindent=\dimen190
+\caption@hangindent=\dimen191
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count324
+\c@continuedfloat=\count325
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count326
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count327
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count328
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count329
+\c@listtotal=\count330
+\c@listcount=\count331
+\c@liststart=\count332
+\c@liststop=\count333
+\c@citecount=\count334
+\c@citetotal=\count335
+\c@multicitecount=\count336
+\c@multicitetotal=\count337
+\c@instcount=\count338
+\c@maxnames=\count339
+\c@minnames=\count340
+\c@maxitems=\count341
+\c@minitems=\count342
+\c@citecounter=\count343
+\c@maxcitecounter=\count344
+\c@savedcitecounter=\count345
+\c@uniquelist=\count346
+\c@uniquename=\count347
+\c@refsection=\count348
+\c@refsegment=\count349
+\c@maxextratitle=\count350
+\c@maxextratitleyear=\count351
+\c@maxextraname=\count352
+\c@maxextradate=\count353
+\c@maxextraalpha=\count354
+\c@abbrvpenalty=\count355
+\c@highnamepenalty=\count356
+\c@lownamepenalty=\count357
+\c@maxparens=\count358
+\c@parenlevel=\count359
+\blx@tempcnta=\count360
+\blx@tempcntb=\count361
+\blx@tempcntc=\count362
+\c@blx@maxsection=\count363
+\blx@maxsegment@0=\count364
+\blx@notetype=\count365
+\blx@parenlevel@text=\count366
+\blx@parenlevel@foot=\count367
+\blx@sectionciteorder@0=\count368
+\blx@sectionciteorderinternal@0=\count369
+\blx@entrysetcounter=\count370
+\blx@biblioinstance=\count371
+\labelnumberwidth=\skip90
+\labelalphawidth=\skip91
+\biblabelsep=\skip92
+\bibitemsep=\skip93
+\bibnamesep=\skip94
+\bibinitsep=\skip95
+\bibparsep=\skip96
+\bibhang=\skip97
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language80
+\c@mincomprange=\count372
+\c@maxcomprange=\count373
+\c@mincompwidth=\count374
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'ieee.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count375
+\c@savedafterword=\count376
+\c@annotator=\count377
+\c@savedannotator=\count378
+\c@author=\count379
+\c@savedauthor=\count380
+\c@bookauthor=\count381
+\c@savedbookauthor=\count382
+\c@commentator=\count383
+\c@savedcommentator=\count384
+\c@editor=\count385
+\c@savededitor=\count386
+\c@editora=\count387
+\c@savededitora=\count388
+\c@editorb=\count389
+\c@savededitorb=\count390
+\c@editorc=\count391
+\c@savededitorc=\count392
+\c@foreword=\count393
+\c@savedforeword=\count394
+\c@holder=\count395
+\c@savedholder=\count396
+\c@introduction=\count397
+\c@savedintroduction=\count398
+\c@namea=\count399
+\c@savednamea=\count400
+\c@nameb=\count401
+\c@savednameb=\count402
+\c@namec=\count403
+\c@savednamec=\count404
+\c@translator=\count405
+\c@savedtranslator=\count406
+\c@shortauthor=\count407
+\c@savedshortauthor=\count408
+\c@shorteditor=\count409
+\c@savedshorteditor=\count410
+\c@labelname=\count411
+\c@savedlabelname=\count412
+\c@institution=\count413
+\c@savedinstitution=\count414
+\c@lista=\count415
+\c@savedlista=\count416
+\c@listb=\count417
+\c@savedlistb=\count418
+\c@listc=\count419
+\c@savedlistc=\count420
+\c@listd=\count421
+\c@savedlistd=\count422
+\c@liste=\count423
+\c@savedliste=\count424
+\c@listf=\count425
+\c@savedlistf=\count426
+\c@location=\count427
+\c@savedlocation=\count428
+\c@organization=\count429
+\c@savedorganization=\count430
+\c@origlocation=\count431
+\c@savedoriglocation=\count432
+\c@origpublisher=\count433
+\c@savedorigpublisher=\count434
+\c@publisher=\count435
+\c@savedpublisher=\count436
+\c@language=\count437
+\c@savedlanguage=\count438
+\c@origlanguage=\count439
+\c@savedoriglanguage=\count440
+\c@pageref=\count441
+\c@savedpageref=\count442
+\shorthandwidth=\skip98
+\shortjournalwidth=\skip99
+\shortserieswidth=\skip100
+\shorttitlewidth=\skip101
+\shortauthorwidth=\skip102
+\shorteditorwidth=\skip103
+\locallabelnumberwidth=\skip104
+\locallabelalphawidth=\skip105
+\localshorthandwidth=\skip106
+\localshortjournalwidth=\skip107
+\localshortserieswidth=\skip108
+\localshorttitlewidth=\skip109
+\localshortauthorwidth=\skip110
+\localshorteditorwidth=\skip111
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+\c@textcitecount=\count443
+\c@textcitetotal=\count444
+\c@textcitemaxnames=\count445
+\c@biburlbigbreakpenalty=\count446
+\c@biburlbreakpenalty=\count447
+\c@biburlnumpenalty=\count448
+\c@biburlucpenalty=\count449
+\c@biburllcpenalty=\count450
+\biburlbigskip=\muskip19
+\biburlnumskip=\muskip20
+\biburlucskip=\muskip21
+\biburllcskip=\muskip22
+\c@smartand=\count451
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-natbib.def
+File: blx-natbib.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
+)
+Package biblatex Info: Trying to load bibliography style 'ieee'...
+Package biblatex Info: ... file 'ieee.bbx' found.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.bbx
+File: ieee.bbx 2021/12/06 v1.3f biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric-comp.bbx
+File: numeric-comp.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
+File: numeric.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count452
+\c@bbx:relatedtotal=\count453
+))))
+Package biblatex Info: Trying to load citation style 'ieee'...
+Package biblatex Info: ... file 'ieee.cbx' found.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.cbx
+File: ieee.cbx 2021/12/06 v1.3f biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric-comp.cbx
+File: numeric-comp.cbx 2024/03/21 v3.20 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count454
+\c@cbx@tempcntb=\count455
+\c@cbx@tempcntc=\count456
+\c@cbx@tempcntd=\count457
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\cites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-05-27 L3 programming layer (loader) 
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count458
+\l__pdf_internal_box=\box59
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2024-05-27 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2024-05-08 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
+)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/emptypage\emptypage.sty
+Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty pages
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+LaTeX Font Info:    Trying to load font information for T1+mak on input line 84.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/kerkis\t1mak.fd)
+LaTeX Font Info:    Font shape `T1/mak/m/n' will be
+(Font)              scaled to size 9.85492pt on input line 84.
+ (thesis.aux (sections/titlepage.aux)
+LaTeX Font Info:    Trying to load font information for LGR+mak on input line 10.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/kerkis\lgrmak.fd)
+LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
+(Font)              scaled to size 9.85492pt on input line 10.
+ (sections/approvalpage.aux) (sections/copyright.aux) (sections/abstract.aux) (sections/thanks.aux) (sections/sample_chapter.aux) (sections/theoritiko_upovathro.aux) (sections/sxediasi_analusi.aux) (sections/ulopoisi_tis_efarmogis.aux) (sections/application_demo.aux) (sections/kubernetes_section.aux) (sections/suberasma.aux) (sections/parartima.aux) (sections/bibliography.aux))
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 84.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 84.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd
+File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
+)
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+\c@lstlisting=\count459
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count460
+\scratchdimen=\dimen192
+\scratchbox=\box60
+\nofMPsegments=\count461
+\nofMParguments=\count462
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count463
+\MPscratchDim=\dimen193
+\MPnumerator=\count464
+\makeMPintoPDFobject=\count465
+\everyMPtoPDFconversion=\toks32
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 42.67912pt
+* modes: twoside 
+* h-part:(L,W,R)=(66.58011pt, 388.37842pt, 99.87022pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=388.37842pt
+* \textheight=702.78308pt
+* \oddsidemargin=36.98924pt
+* \evensidemargin=27.60023pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=103.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \microtypecontext on input line 84.
+Package microtype Info: Applying patch `item' on input line 84.
+Package microtype Info: Applying patch `toc' on input line 84.
+Package microtype Info: Applying patch `eqnum' on input line 84.
+Package microtype Info: Applying patch `footnote' on input line 84.
+Package microtype Info: Applying patch `verbatim' on input line 84.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 84.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+Package hyperref Info: Link coloring OFF on input line 84.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+Package biblatex Info: Trying to load language 'greek'...
+Package biblatex Info: ... file 'greek.lbx' found.
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\greek.lbx
+File: greek.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `thesis.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'thesis.bbl' found.
+ (thesis.bbl)
+Package biblatex Info: Reference section=0 on input line 84.
+Package biblatex Info: Reference segment=0 on input line 84.
+\openout2 = `sections/titlepage.aux'.
+
+ (sections/titlepage.tex
+<graphics/unipi (1).jpg, id=3, 886.57986pt x 317.58084pt>
+File: graphics/unipi (1).jpg Graphic file (type jpg)
+<use graphics/unipi (1).jpg>
+Package pdftex.def Info: graphics/unipi (1).jpg  used on input line 5.
+(pdftex.def)             Requested size: 213.60931pt x 76.51654pt.
+LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
+(Font)              scaled to size 12.9599pt on input line 7.
+LaTeX Font Info:    Font shape `LGR/mak/m/sc' will be
+(Font)              scaled to size 12.9599pt on input line 8.
+LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
+(Font)              scaled to size 10.79993pt on input line 9.
+LaTeX Font Info:    Font shape `LGR/mak/m/sc' will be
+(Font)              scaled to size 10.79993pt on input line 10.
+LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
+(Font)              scaled to size 22.39185pt on input line 14.
+LaTeX Font Info:    Font shape `LGR/mak/b/n' will be
+(Font)              scaled to size 22.39185pt on input line 15.
+LaTeX Font Info:    Font shape `T1/mak/b/n' will be
+(Font)              scaled to size 22.39185pt on input line 15.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `mak' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
+(Font)              scaled to size 15.55188pt on input line 22.
+LaTeX Font Info:    Font shape `LGR/mak/b/n' will be
+(Font)              scaled to size 15.55188pt on input line 23.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+)
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `OT1/cmr/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `OT1/cmr/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `OT1/cmr/m/n/6'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+
+[1
+
+
+{C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/kerkis/gpkerkis.enc}{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/kerkis/kerkisec.enc} <./graphics/unipi (1).jpg>])
+
+[2
+
+
+
+]
+\openout2 = `sections/approvalpage.aux'.
+
+ (sections/approvalpage.tex
+File: graphics/unipi (1).jpg Graphic file (type jpg)
+<use graphics/unipi (1).jpg>
+Package pdftex.def Info: graphics/unipi (1).jpg  used on input line 5.
+(pdftex.def)             Requested size: 213.60931pt x 76.51654pt.
+LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
+(Font)              scaled to size 7.19995pt on input line 38.
+)
+
+[3]
+\openout2 = `sections/copyright.aux'.
+
+ (sections/copyright.tex
+LaTeX Font Info:    Trying to load font information for TS1+mak on input line 11.
+LaTeX Font Info:    No file TS1mak.fd. on input line 11.
+
+
+LaTeX Font Warning: Font shape `TS1/mak/m/n' undefined
+(Font)              using `TS1/cmr/m/n' instead
+(Font)              for symbol `textcopyright' on input line 11.
+
+LaTeX Font Info:    Font shape `LGR/mak/m/it' will be
+(Font)              scaled to size 9.85492pt on input line 18.
+)
+
+[4
+
+
+
+]
+\openout2 = `sections/abstract.aux'.
+
+ (sections/abstract.tex
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  1.
+LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
+(Font)              scaled to size 18.66588pt on input line 1.
+LaTeX Font Info:    Font shape `LGR/mak/b/n' will be
+(Font)              scaled to size 18.66588pt on input line 1.
+LaTeX Font Info:    Font shape `LGR/mak/b/n' will be
+(Font)              scaled to size 12.9599pt on input line 3.
+
+
+[5
+
+
+
+
+])
+
+[6]
+\openout2 = `sections/thanks.aux'.
+
+ (sections/thanks.tex
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  2.
+
+
+[7
+
+
+
+
+])
+
+[8] (thesis.toc
+LaTeX Font Info:    Font shape `LGR/mak/b/n' will be
+(Font)              scaled to size 9.85492pt on input line 2.
+
+
+[9
+
+
+]
+LaTeX Font Info:    Font shape `T1/mak/b/n' will be
+(Font)              scaled to size 9.85492pt on input line 46.
+)
+\tf@toc=\write4
+\openout4 = `thesis.toc'.
+
+
+
+[10]
+
+[11] (thesis.lof
+
+[12])
+\tf@lof=\write5
+\openout5 = `thesis.lof'.
+
+
+
+[13]
+\openout2 = `sections/sample_chapter.aux'.
+
+ (sections/sample_chapter.tex
+
+[14
+
+
+]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  3.
+
+
+[15]
+
+[16]
+
+[17])
+
+[18]
+\openout2 = `sections/theoritiko_upovathro.aux'.
+
+ (sections/theoritiko_upovathro.tex
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  4.
+LaTeX Font Info:    Font shape `T1/mak/b/n' will be
+(Font)              scaled to size 12.9599pt on input line 4.
+LaTeX Font Info:    Font shape `LGR/mak/b/n' will be
+(Font)              scaled to size 10.79993pt on input line 6.
+LaTeX Font Info:    Font shape `T1/mak/b/n' will be
+(Font)              scaled to size 10.79993pt on input line 6.
+
+
+[19
+
+
+
+
+]
+
+[20]
+Overfull \hbox (19.95053pt too wide) in paragraph at lines 55--64
+\LGR/mak/m/n/10.95 sth-rÐxei pol-lèc dia-fo-re-ti-kèc su-ske-Ôec dia-fo-re-ti-k¸n pro-mh-jeu-t¸n([]\T1/mak/m/n/10.95 (-20) Cisco[]\LGR/mak/m/n/10.95 ,[]\T1/mak/m/n/10.95 (-20) Juniper[]\LGR/mak/m/n/10.95 ,[]\T1/mak/m/n/10.95 (-20) Arista
+ []
+
+
+
+[21]
+
+[22]
+
+[23]
+<graphics/Architecture_virtualbox.PNG, id=333, 307.1475pt x 349.90726pt>
+File: graphics/Architecture_virtualbox.PNG Graphic file (type png)
+<use graphics/Architecture_virtualbox.PNG>
+Package pdftex.def Info: graphics/Architecture_virtualbox.PNG  used on input line 169.
+(pdftex.def)             Requested size: 194.18921pt x 221.22758pt.
+<graphics/virtualization_architecture.PNG, id=335, 292.6935pt x 419.166pt>
+File: graphics/virtualization_architecture.PNG Graphic file (type png)
+<use graphics/virtualization_architecture.PNG>
+Package pdftex.def Info: graphics/virtualization_architecture.PNG  used on input line 175.
+(pdftex.def)             Requested size: 194.18921pt x 278.1023pt.
+
+
+[24 <./graphics/Architecture_virtualbox.PNG>]
+<graphics/virtualbox.PNG, id=341, 563.10374pt x 467.346pt>
+File: graphics/virtualbox.PNG Graphic file (type png)
+<use graphics/virtualbox.PNG>
+Package pdftex.def Info: graphics/virtualbox.PNG  used on input line 196.
+(pdftex.def)             Requested size: 349.5382pt x 290.10094pt.
+)
+
+[25 <./graphics/virtualization_architecture.PNG>]
+
+[26 <./graphics/virtualbox.PNG>]
+\openout2 = `sections/sxediasi_analusi.aux'.
+
+ (sections/sxediasi_analusi.tex
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  5.
+
+
+[27
+
+
+
+
+]
+<graphics/MVC-Process.svg.png, id=357, 1927.2pt x 2119.92pt>
+File: graphics/MVC-Process.svg.png Graphic file (type png)
+<use graphics/MVC-Process.svg.png>
+Package pdftex.def Info: graphics/MVC-Process.svg.png  used on input line 56.
+(pdftex.def)             Requested size: 271.8637pt x 299.05109pt.
+
+
+[28 <./graphics/MVC-Process.svg.png>]
+
+[29]
+<graphics/MTV.drawio.png, id=367, 1126.2075pt x 462.72874pt>
+File: graphics/MTV.drawio.png Graphic file (type png)
+<use graphics/MTV.drawio.png>
+Package pdftex.def Info: graphics/MTV.drawio.png  used on input line 114.
+(pdftex.def)             Requested size: 271.8637pt x 111.69968pt.
+
+
+[30 <./graphics/MTV.drawio.png>]
+<graphics/diagram.drawio.png, id=373, 592.2125pt x 425.59pt>
+File: graphics/diagram.drawio.png Graphic file (type png)
+<use graphics/diagram.drawio.png>
+Package pdftex.def Info: graphics/diagram.drawio.png  used on input line 161.
+(pdftex.def)             Requested size: 271.8637pt x 195.37762pt.
+<graphics/import_appliance.png, id=374, 275.22826pt x 272.81924pt>
+File: graphics/import_appliance.png Graphic file (type png)
+<use graphics/import_appliance.png>
+Package pdftex.def Info: graphics/import_appliance.png  used on input line 175.
+(pdftex.def)             Requested size: 271.8637pt x 269.49242pt.
+
+
+[31 <./graphics/diagram.drawio.png>]
+
+[32 <./graphics/import_appliance.png>]
+<graphics/appliance_filename.png, id=386, 615.4995pt x 143.3355pt>
+File: graphics/appliance_filename.png Graphic file (type png)
+<use graphics/appliance_filename.png>
+Package pdftex.def Info: graphics/appliance_filename.png  used on input line 187.
+(pdftex.def)             Requested size: 271.8637pt x 63.31276pt.
+<graphics/ssh.png, id=387, 314.97675pt x 84.315pt>
+File: graphics/ssh.png Graphic file (type png)
+<use graphics/ssh.png>
+Package pdftex.def Info: graphics/ssh.png  used on input line 204.
+(pdftex.def)             Requested size: 271.8637pt x 72.77577pt.
+)
+
+[33 <./graphics/appliance_filename.png> <./graphics/ssh.png>]
+\openout2 = `sections/ulopoisi_tis_efarmogis.aux'.
+
+ (sections/ulopoisi_tis_efarmogis.tex
+
+[34
+
+
+
+
+]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  6.
+<graphics/urlpy.png, id=398, 940.7145pt x 290.2845pt>
+File: graphics/urlpy.png Graphic file (type png)
+<use graphics/urlpy.png>
+Package pdftex.def Info: graphics/urlpy.png  used on input line 30.
+(pdftex.def)             Requested size: 349.5382pt x 107.8598pt.
+
+
+[35]
+<graphics/viewspy.png, id=403, 581.17125pt x 549.252pt>
+File: graphics/viewspy.png Graphic file (type png)
+<use graphics/viewspy.png>
+Package pdftex.def Info: graphics/viewspy.png  used on input line 43.
+(pdftex.def)             Requested size: 349.5382pt x 330.34154pt.
+
+
+[36 <./graphics/urlpy.png> <./graphics/viewspy.png>]
+<graphics/html_template.png, id=410, 771.48225pt x 445.665pt>
+File: graphics/html_template.png Graphic file (type png)
+<use graphics/html_template.png>
+Package pdftex.def Info: graphics/html_template.png  used on input line 57.
+(pdftex.def)             Requested size: 349.5382pt x 201.92105pt.
+<graphics/wireshark.png, id=411, 925.65825pt x 531.1845pt>
+File: graphics/wireshark.png Graphic file (type png)
+<use graphics/wireshark.png>
+Package pdftex.def Info: graphics/wireshark.png  used on input line 93.
+(pdftex.def)             Requested size: 349.5382pt x 200.57968pt.
+
+
+[37 <./graphics/html_template.png>]
+<graphics/rest.png, id=418, 1562.83875pt x 210.7875pt>
+File: graphics/rest.png Graphic file (type png)
+<use graphics/rest.png>
+Package pdftex.def Info: graphics/rest.png  used on input line 104.
+(pdftex.def)             Requested size: 349.5382pt x 47.14209pt.
+<graphics/cloud_configuration.png, id=419, 434.8245pt x 292.6935pt>
+File: graphics/cloud_configuration.png Graphic file (type png)
+<use graphics/cloud_configuration.png>
+Package pdftex.def Info: graphics/cloud_configuration.png  used on input line 126.
+(pdftex.def)             Requested size: 349.5382pt x 235.2895pt.
+
+
+[38 <./graphics/wireshark.png> <./graphics/rest.png>]
+<graphics/eth0.png, id=426, 573.342pt x 546.843pt>
+File: graphics/eth0.png Graphic file (type png)
+<use graphics/eth0.png>
+Package pdftex.def Info: graphics/eth0.png  used on input line 138.
+(pdftex.def)             Requested size: 349.5382pt x 333.39851pt.
+
+
+[39 <./graphics/cloud_configuration.png>]
+<graphics/dhcp_cisco_config.png, id=432, 202.356pt x 37.3395pt>
+File: graphics/dhcp_cisco_config.png Graphic file (type png)
+<use graphics/dhcp_cisco_config.png>
+Package pdftex.def Info: graphics/dhcp_cisco_config.png  used on input line 155.
+(pdftex.def)             Requested size: 349.5382pt x 64.50125pt.
+<graphics/test_ip_connectivity.png, id=433, 651.6345pt x 914.2155pt>
+File: graphics/test_ip_connectivity.png Graphic file (type png)
+<use graphics/test_ip_connectivity.png>
+Package pdftex.def Info: graphics/test_ip_connectivity.png  used on input line 167.
+(pdftex.def)             Requested size: 349.5382pt x 490.39082pt.
+
+
+[40 <./graphics/eth0.png> <./graphics/dhcp_cisco_config.png>]
+
+[41 <./graphics/test_ip_connectivity.png>])
+\openout2 = `sections/application_demo.aux'.
+
+ (sections/application_demo.tex
+
+[42
+
+
+
+
+
+]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  7.
+<graphics/firstPage.png, id=449, 507.0945pt x 70.46326pt>
+File: graphics/firstPage.png Graphic file (type png)
+<use graphics/firstPage.png>
+Package pdftex.def Info: graphics/firstPage.png  used on input line 15.
+(pdftex.def)             Requested size: 388.37842pt x 53.96979pt.
+<graphics/urls_firstPage.png, id=450, 361.35pt x 70.46326pt>
+File: graphics/urls_firstPage.png Graphic file (type png)
+<use graphics/urls_firstPage.png>
+Package pdftex.def Info: graphics/urls_firstPage.png  used on input line 26.
+(pdftex.def)             Requested size: 388.37842pt x 75.73468pt.
+
+
+[43 <./graphics/firstPage.png> <./graphics/urls_firstPage.png>]
+<graphics/urls.png, id=458, 937.70325pt x 320.99925pt>
+File: graphics/urls.png Graphic file (type png)
+<use graphics/urls.png>
+Package pdftex.def Info: graphics/urls.png  used on input line 49.
+(pdftex.def)             Requested size: 388.37842pt x 132.9526pt.
+<graphics/django_server_run.png, id=459, 566.71725pt x 229.45724pt>
+File: graphics/django_server_run.png Graphic file (type png)
+<use graphics/django_server_run.png>
+Package pdftex.def Info: graphics/django_server_run.png  used on input line 65.
+(pdftex.def)             Requested size: 388.37842pt x 157.25427pt.
+
+
+[44 <./graphics/urls.png> <./graphics/django_server_run.png>]
+<graphics/home_page.png, id=466, 946.737pt x 786.5385pt>
+File: graphics/home_page.png Graphic file (type png)
+<use graphics/home_page.png>
+Package pdftex.def Info: graphics/home_page.png  used on input line 86.
+(pdftex.def)             Requested size: 466.0529pt x 387.19548pt.
+
+Overfull \hbox (77.67448pt too wide) in paragraph at lines 86--87
+ [][] 
+ []
+
+<graphics/class_device.png, id=467, 1055.74425pt x 284.86424pt>
+File: graphics/class_device.png Graphic file (type png)
+<use graphics/class_device.png>
+Package pdftex.def Info: graphics/class_device.png  used on input line 99.
+(pdftex.def)             Requested size: 466.0529pt x 125.75359pt.
+
+Overfull \hbox (77.67448pt too wide) in paragraph at lines 99--100
+ [][] 
+ []
+
+
+
+[45 <./graphics/home_page.png>]
+<graphics/device_interfaces.png, id=473, 564.30824pt x 396.2805pt>
+File: graphics/device_interfaces.png Graphic file (type png)
+<use graphics/device_interfaces.png>
+Package pdftex.def Info: graphics/device_interfaces.png  used on input line 114.
+(pdftex.def)             Requested size: 466.0529pt x 327.29219pt.
+
+Overfull \hbox (77.67448pt too wide) in paragraph at lines 114--115
+ [][] 
+ []
+
+<graphics/interfaces.png, id=474, 944.328pt x 517.935pt>
+File: graphics/interfaces.png Graphic file (type png)
+<use graphics/interfaces.png>
+Package pdftex.def Info: graphics/interfaces.png  used on input line 126.
+(pdftex.def)             Requested size: 466.0529pt x 255.61597pt.
+
+Overfull \hbox (77.67448pt too wide) in paragraph at lines 126--127
+ [][] 
+ []
+
+
+
+[46 <./graphics/class_device.png> <./graphics/device_interfaces.png>]
+<graphics/statistics.png, id=481, 924.45375pt x 837.1275pt>
+File: graphics/statistics.png Graphic file (type png)
+<use graphics/statistics.png>
+Package pdftex.def Info: graphics/statistics.png  used on input line 152.
+(pdftex.def)             Requested size: 388.37842pt x 351.69334pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[47 <./graphics/interfaces.png>]
+<graphics/interface_statistics.png, id=487, 708.84825pt x 337.86224pt>
+File: graphics/interface_statistics.png Graphic file (type png)
+<use graphics/interface_statistics.png>
+Package pdftex.def Info: graphics/interface_statistics.png  used on input line 164.
+(pdftex.def)             Requested size: 388.37842pt x 185.11336pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[48 <./graphics/statistics.png>]
+<graphics/running_config.png, id=493, 950.3505pt x 310.15875pt>
+File: graphics/running_config.png Graphic file (type png)
+<use graphics/running_config.png>
+Package pdftex.def Info: graphics/running_config.png  used on input line 181.
+(pdftex.def)             Requested size: 388.37842pt x 126.74944pt.
+<graphics/configure_ip.png, id=494, 609.477pt x 269.20575pt>
+File: graphics/configure_ip.png Graphic file (type png)
+<use graphics/configure_ip.png>
+Package pdftex.def Info: graphics/configure_ip.png  used on input line 195.
+(pdftex.def)             Requested size: 388.37842pt x 171.54758pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[49 <./graphics/interface_statistics.png> <./graphics/running_config.png>]
+<graphics/configure_ip_1.png, id=502, 679.338pt x 302.3295pt>
+File: graphics/configure_ip_1.png Graphic file (type png)
+<use graphics/configure_ip_1.png>
+Package pdftex.def Info: graphics/configure_ip_1.png  used on input line 205.
+(pdftex.def)             Requested size: 388.37842pt x 172.84627pt.
+)
+
+[50 <./graphics/configure_ip.png> <./graphics/configure_ip_1.png>]
+\openout2 = `sections/kubernetes_section.aux'.
+
+ (sections/kubernetes_section.tex
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  8.
+<graphics/dockerfile.png, id=509, 797.98125pt x 564.9105pt>
+File: graphics/dockerfile.png Graphic file (type png)
+<use graphics/dockerfile.png>
+Package pdftex.def Info: graphics/dockerfile.png  used on input line 23.
+(pdftex.def)             Requested size: 582.56763pt x 412.43295pt.
+
+Overfull \hbox (194.18921pt too wide) in paragraph at lines 23--24
+ [][] 
+ []
+
+
+
+[51
+
+
+
+
+]
+<graphics/docker_build.png, id=514, 951.555pt x 319.1925pt>
+File: graphics/docker_build.png Graphic file (type png)
+<use graphics/docker_build.png>
+Package pdftex.def Info: graphics/docker_build.png  used on input line 43.
+(pdftex.def)             Requested size: 388.37842pt x 130.28044pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[52 <./graphics/dockerfile.png>]
+<graphics/docker_image_list_2.png, id=520, 955.77075pt x 142.73325pt>
+File: graphics/docker_image_list_2.png Graphic file (type png)
+<use graphics/docker_image_list_2.png>
+Package pdftex.def Info: graphics/docker_image_list_2.png  used on input line 58.
+(pdftex.def)             Requested size: 582.56763pt x 86.99962pt.
+
+Overfull \hbox (194.18921pt too wide) in paragraph at lines 58--59
+ [][] 
+ []
+
+<graphics/dockerpush.png, id=521, 1037.67674pt x 265.59225pt>
+File: graphics/dockerpush.png Graphic file (type png)
+<use graphics/dockerpush.png>
+Package pdftex.def Info: graphics/dockerpush.png  used on input line 72.
+(pdftex.def)             Requested size: 582.56763pt x 149.11157pt.
+
+Overfull \hbox (194.18921pt too wide) in paragraph at lines 72--73
+ [][] 
+ []
+
+
+
+[53 <./graphics/docker_build.png> <./graphics/docker_image_list_2.png> <./graphics/dockerpush.png>]
+
+[54]
+<graphics/minikube_deployment_k8s.png, id=533, 947.33925pt x 449.2785pt>
+File: graphics/minikube_deployment_k8s.png Graphic file (type png)
+<use graphics/minikube_deployment_k8s.png>
+Package pdftex.def Info: graphics/minikube_deployment_k8s.png  used on input line 151.
+(pdftex.def)             Requested size: 582.56763pt x 276.28749pt.
+
+Overfull \hbox (194.18921pt too wide) in paragraph at lines 151--152
+ [][] 
+ []
+
+<graphics/pod_spec.png, id=534, 551.05875pt x 127.677pt>
+File: graphics/pod_spec.png Graphic file (type png)
+<use graphics/pod_spec.png>
+Package pdftex.def Info: graphics/pod_spec.png  used on input line 172.
+(pdftex.def)             Requested size: 582.56763pt x 134.99019pt.
+
+Overfull \hbox (194.18921pt too wide) in paragraph at lines 172--173
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[55 <./graphics/minikube_deployment_k8s.png>]
+<graphics/deploy_django.png, id=541, 958.782pt x 458.9145pt>
+File: graphics/deploy_django.png Graphic file (type png)
+<use graphics/deploy_django.png>
+Package pdftex.def Info: graphics/deploy_django.png  used on input line 193.
+(pdftex.def)             Requested size: 582.56763pt x 278.84505pt.
+
+Overfull \hbox (194.18921pt too wide) in paragraph at lines 193--194
+ [][] 
+ []
+
+
+
+[56 <./graphics/pod_spec.png> <./graphics/deploy_django.png>]
+<graphics/kubernetes_proxy.png, id=548, 787.14075pt x 828.09375pt>
+File: graphics/kubernetes_proxy.png Graphic file (type png)
+<use graphics/kubernetes_proxy.png>
+Package pdftex.def Info: graphics/kubernetes_proxy.png  used on input line 211.
+(pdftex.def)             Requested size: 582.56763pt x 612.88087pt.
+
+Overfull \hbox (194.18921pt too wide) in paragraph at lines 211--212
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[57]
+
+[58 <./graphics/kubernetes_proxy.png>])
+
+[59
+
+]
+\openout2 = `sections/suberasma.aux'.
+
+ (sections/suberasma.tex
+
+[60
+
+
+
+
+]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  9.
+
+
+[61])
+
+[62]
+\openout2 = `sections/parartima.aux'.
+
+ (sections/parartima.tex
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  10.
+<graphics/network_topology_high_level.png, id=575, 912.40875pt x 371.3875pt>
+File: graphics/network_topology_high_level.png Graphic file (type png)
+<use graphics/network_topology_high_level.png>
+Package pdftex.def Info: graphics/network_topology_high_level.png  used on input line 10.
+(pdftex.def)             Requested size: 427.21863pt x 173.89478pt.
+
+Overfull \hbox (38.84021pt too wide) in paragraph at lines 10--11
+ [][] 
+ []
+
+<graphics/GUI_LOGIN.png, id=576, 772.0845pt x 346.896pt>
+File: graphics/GUI_LOGIN.png Graphic file (type png)
+<use graphics/GUI_LOGIN.png>
+Package pdftex.def Info: graphics/GUI_LOGIN.png  used on input line 29.
+(pdftex.def)             Requested size: 427.21863pt x 191.95259pt.
+
+Overfull \hbox (38.84021pt too wide) in paragraph at lines 29--30
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[63
+
+
+
+
+ <./graphics/network_topology_high_level.png>]
+<graphics/DJANGO_ADMIN.png, id=582, 907.59074pt x 498.06075pt>
+File: graphics/DJANGO_ADMIN.png Graphic file (type png)
+<use graphics/DJANGO_ADMIN.png>
+Package pdftex.def Info: graphics/DJANGO_ADMIN.png  used on input line 41.
+(pdftex.def)             Requested size: 427.21863pt x 234.44577pt.
+
+Overfull \hbox (38.84021pt too wide) in paragraph at lines 41--42
+ [][] 
+ []
+
+<graphics/ADD_DEVICE.png, id=583, 904.5795pt x 452.892pt>
+File: graphics/ADD_DEVICE.png Graphic file (type png)
+<use graphics/ADD_DEVICE.png>
+Package pdftex.def Info: graphics/ADD_DEVICE.png  used on input line 53.
+(pdftex.def)             Requested size: 427.21863pt x 213.89584pt.
+
+Overfull \hbox (38.84021pt too wide) in paragraph at lines 53--54
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[64 <./graphics/GUI_LOGIN.png> <./graphics/DJANGO_ADMIN.png>]
+<graphics/github_page.png, id=590, 945.5325pt x 856.3995pt>
+File: graphics/github_page.png Graphic file (type png)
+<use graphics/github_page.png>
+Package pdftex.def Info: graphics/github_page.png  used on input line 71.
+(pdftex.def)             Requested size: 427.21863pt x 386.9574pt.
+
+Overfull \hbox (38.84021pt too wide) in paragraph at lines 71--72
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[65 <./graphics/ADD_DEVICE.png>])
+
+[66 <./graphics/github_page.png>]
+\openout2 = `sections/bibliography.aux'.
+
+ (sections/bibliography.tex
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  11.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `mak' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+pdfTeX warning (font expansion): font should be expanded before its first use
+
+Overfull \hbox (19.68391pt too wide) in paragraph at lines 11--12
+[]\T1/mak/m/n/10.95 (-20) https://www.cloudflare.com/learning/network-layer/what-is-the-control-plane/ 
+ []
+
+
+Overfull \hbox (0.73871pt too wide) in paragraph at lines 15--16
+[]\T1/mak/m/n/10.95 (-20) https://medium.com/@komalminhas.96/a-step-by-step-guide-to-build-and-
+ []
+
+)
+
+[67
+
+
+
+
+]
+
+LaTeX Warning: Empty bibliography on input line 113.
+
+(thesis.aux (sections/titlepage.aux) (sections/approvalpage.aux) (sections/copyright.aux) (sections/abstract.aux) (sections/thanks.aux) (sections/sample_chapter.aux) (sections/theoritiko_upovathro.aux) (sections/sxediasi_analusi.aux) (sections/ulopoisi_tis_efarmogis.aux) (sections/application_demo.aux) (sections/kubernetes_section.aux) (sections/suberasma.aux) (sections/parartima.aux) (sections/bibliography.aux))
+ ***********
+LaTeX2e <2024-06-01> patch level 1
+L3 programming layer <2024-05-27>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package logreq Info: Writing requests to 'thesis.run.xml'.
+\openout1 = `thesis.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 28541 strings out of 473920
+ 507648 string characters out of 5727446
+ 1941908 words of memory out of 5000000
+ 50620 multiletter control sequences out of 15000+600000
+ 592402 words of font info for 171 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,12n,81p,1346b,1981s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-Bold.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-Italic.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-SmallCaps.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis.pfb>
+Output written on thesis.pdf (67 pages, 3819506 bytes).
+PDF statistics:
+ 884 PDF objects out of 1000 (max. 8388607)
+ 181 named destinations out of 1000 (max. 500000)
+ 24842 words of extra memory for PDF output out of 24883 (max. 10000000)
+
