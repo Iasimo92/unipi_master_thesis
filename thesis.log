@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  17 FEB 2025 00:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  17 FEB 2025 00:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1513,31 +1513,32 @@ Package pdftex.def Info: graphics/MTV.drawio.png  used on input line 102.
 <graphics/diagram.drawio.png, id=382, 592.2125pt x 425.59pt>
 File: graphics/diagram.drawio.png Graphic file (type png)
 <use graphics/diagram.drawio.png>
-Package pdftex.def Info: graphics/diagram.drawio.png  used on input line 143.
+Package pdftex.def Info: graphics/diagram.drawio.png  used on input line 147.
 (pdftex.def)             Requested size: 271.8637pt x 195.37762pt.
 
 
-[33 <./graphics/diagram.drawio.png>]
-<graphics/import_appliance.png, id=388, 275.22826pt x 272.81924pt>
+[33]
+<graphics/import_appliance.png, id=387, 275.22826pt x 272.81924pt>
 File: graphics/import_appliance.png Graphic file (type png)
 <use graphics/import_appliance.png>
-Package pdftex.def Info: graphics/import_appliance.png  used on input line 157.
+Package pdftex.def Info: graphics/import_appliance.png  used on input line 161.
 (pdftex.def)             Requested size: 271.8637pt x 269.49242pt.
-<graphics/appliance_filename.png, id=389, 615.4995pt x 143.3355pt>
+
+
+[34 <./graphics/diagram.drawio.png> <./graphics/import_appliance.png>]
+<graphics/appliance_filename.png, id=394, 615.4995pt x 143.3355pt>
 File: graphics/appliance_filename.png Graphic file (type png)
 <use graphics/appliance_filename.png>
-Package pdftex.def Info: graphics/appliance_filename.png  used on input line 169.
+Package pdftex.def Info: graphics/appliance_filename.png  used on input line 173.
 (pdftex.def)             Requested size: 271.8637pt x 63.31276pt.
-<graphics/ssh.png, id=390, 314.97675pt x 84.315pt>
+<graphics/ssh.png, id=395, 314.97675pt x 84.315pt>
 File: graphics/ssh.png Graphic file (type png)
 <use graphics/ssh.png>
-Package pdftex.def Info: graphics/ssh.png  used on input line 186.
+Package pdftex.def Info: graphics/ssh.png  used on input line 190.
 (pdftex.def)             Requested size: 271.8637pt x 72.77577pt.
+)
 
-
-[34 <./graphics/import_appliance.png> <./graphics/appliance_filename.png>])
-
-[35 <./graphics/ssh.png>]
+[35 <./graphics/appliance_filename.png> <./graphics/ssh.png>]
 \openout2 = `sections/ulopoisi_tis_efarmogis.aux'.
 
  (sections/ulopoisi_tis_efarmogis.tex
@@ -2009,7 +2010,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,12n,81p,1884b,1981s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-Bold.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-Italic.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-SmallCaps.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis.pfb>
-Output written on thesis.pdf (69 pages, 3827264 bytes).
+Output written on thesis.pdf (69 pages, 3828478 bytes).
 PDF statistics:
  892 PDF objects out of 1000 (max. 8388607)
  183 named destinations out of 1000 (max. 500000)
