@@ -6,8 +6,8 @@
 \contentsline {chapter}{\numberline {3}Εισαγωγή}{15}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Στόχοι του έργου}{15}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Περιγραφή προβλήματος και λύσης}{16}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Τεχνολογίες που χρησιμοποιήθηκαν και γιατί}{16}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Διάρθρωση της παρούσας εργασίας}{17}{section.3.4}%
+\contentsline {section}{\numberline {3.3}Τεχνολογίες που χρησιμοποιήθηκαν και γιατί}{17}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Διάρθρωση της παρούσας εργασίας}{18}{section.3.4}%
 \contentsline {chapter}{\numberline {4}Θεωρητικό υπόβαθρο}{19}{chapter.4}%
 \contentsline {section}{\numberline {4.1}\foreignlanguage {english}{Web Framework} και Βασικές Τεχνολογίες Ανάπτυξης}{19}{section.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}\foreignlanguage {english}{Django Framework}}{19}{subsection.4.1.1}%
