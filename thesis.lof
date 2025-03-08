@@ -31,32 +31,33 @@
 \contentsline {figure}{\numberline {6.7}{\ignorespaces Απάντηση συσκευής}}{44}{figure.caption.24}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {7.1}{\ignorespaces \foreignlanguage {english}{firstPage} συνάρτηση}}{45}{figure.caption.25}%
-\contentsline {figure}{\numberline {7.2}{\ignorespaces \foreignlanguage {english}{Urls} δρομολόγηση για την αρχική σελίδα.}}{45}{figure.caption.26}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces \foreignlanguage {english}{Urls} δρομολόγηση για την αρχική σελίδα.}}{46}{figure.caption.26}%
 \contentsline {figure}{\numberline {7.3}{\ignorespaces \foreignlanguage {english}{Urls.py} αρχείο}}{46}{figure.caption.27}%
-\contentsline {figure}{\numberline {7.4}{\ignorespaces \foreignlanguage {english}{Django run server}}}{46}{figure.caption.28}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces \foreignlanguage {english}{Django run server}}}{47}{figure.caption.28}%
 \contentsline {figure}{\numberline {7.5}{\ignorespaces Αρχική Σελίδα}}{47}{figure.caption.29}%
 \contentsline {figure}{\numberline {7.6}{\ignorespaces Αρχικοποίηση συσκευής}}{48}{figure.caption.30}%
-\contentsline {figure}{\numberline {7.7}{\ignorespaces \foreignlanguage {english}{Controller-Device Interfaces}}}{48}{figure.caption.31}%
-\contentsline {figure}{\numberline {7.8}{\ignorespaces \foreignlanguage {english}{Interfaces}}}{49}{figure.caption.32}%
-\contentsline {figure}{\numberline {7.9}{\ignorespaces Στατιστικά}}{50}{figure.caption.33}%
-\contentsline {figure}{\numberline {7.10}{\ignorespaces Στατιστικά διεπαφής}}{51}{figure.caption.34}%
-\contentsline {figure}{\numberline {7.11}{\ignorespaces Τρέχων Διαμόρφωση}}{51}{figure.caption.35}%
-\contentsline {figure}{\numberline {7.12}{\ignorespaces \foreignlanguage {english}{IP}Διαμόρφωση}}{52}{figure.caption.36}%
-\contentsline {figure}{\numberline {7.13}{\ignorespaces \foreignlanguage {english}{IP} Διαφορά}}{52}{figure.caption.37}%
+\contentsline {figure}{\numberline {7.7}{\ignorespaces \foreignlanguage {english}{Controller-Device Interfaces}}}{49}{figure.caption.31}%
+\contentsline {figure}{\numberline {7.8}{\ignorespaces \foreignlanguage {english}{Interfaces}}}{50}{figure.caption.32}%
+\contentsline {figure}{\numberline {7.9}{\ignorespaces Στατιστικά Συσκευής}}{51}{figure.caption.33}%
+\contentsline {figure}{\numberline {7.10}{\ignorespaces Στατιστικά Συσκευής}}{52}{figure.caption.34}%
+\contentsline {figure}{\numberline {7.11}{\ignorespaces Στατιστικά διεπαφής}}{52}{figure.caption.35}%
+\contentsline {figure}{\numberline {7.12}{\ignorespaces Τρέχων Διαμόρφωση}}{53}{figure.caption.36}%
+\contentsline {figure}{\numberline {7.13}{\ignorespaces \foreignlanguage {english}{IP}Διαμόρφωση}}{53}{figure.caption.37}%
+\contentsline {figure}{\numberline {7.14}{\ignorespaces \foreignlanguage {english}{IP} Διαφορά}}{54}{figure.caption.38}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {8.1}{\ignorespaces \foreignlanguage {english}{Dockerfile}}}{54}{figure.caption.38}%
-\contentsline {figure}{\numberline {8.2}{\ignorespaces \foreignlanguage {english}{Docker build}-Δημιουργία του κοντεινερ}}{55}{figure.caption.39}%
-\contentsline {figure}{\numberline {8.3}{\ignorespaces \foreignlanguage {english}{Docker image list}-}}{55}{figure.caption.40}%
-\contentsline {figure}{\numberline {8.4}{\ignorespaces \foreignlanguage {english}{Docker push}-}}{55}{figure.caption.41}%
-\contentsline {figure}{\numberline {8.5}{\ignorespaces \foreignlanguage {english}{Minikube deployment}}}{57}{figure.caption.42}%
-\contentsline {figure}{\numberline {8.6}{\ignorespaces \foreignlanguage {english}{Spec}}}{58}{figure.caption.43}%
-\contentsline {figure}{\numberline {8.7}{\ignorespaces \foreignlanguage {english}{Manifest for Django pod}}}{58}{figure.caption.44}%
-\contentsline {figure}{\numberline {8.8}{\ignorespaces \foreignlanguage {english}{Port forward traffic}}}{60}{figure.caption.45}%
+\contentsline {figure}{\numberline {8.1}{\ignorespaces \foreignlanguage {english}{Dockerfile}}}{56}{figure.caption.39}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces \foreignlanguage {english}{Docker build}-Δημιουργία του κοντεινερ}}{57}{figure.caption.40}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces \foreignlanguage {english}{Docker image list}-}}{57}{figure.caption.41}%
+\contentsline {figure}{\numberline {8.4}{\ignorespaces \foreignlanguage {english}{Docker push}-}}{57}{figure.caption.42}%
+\contentsline {figure}{\numberline {8.5}{\ignorespaces \foreignlanguage {english}{Minikube deployment}}}{59}{figure.caption.43}%
+\contentsline {figure}{\numberline {8.6}{\ignorespaces \foreignlanguage {english}{Spec}}}{60}{figure.caption.44}%
+\contentsline {figure}{\numberline {8.7}{\ignorespaces \foreignlanguage {english}{Manifest for Django pod}}}{60}{figure.caption.45}%
+\contentsline {figure}{\numberline {8.8}{\ignorespaces \foreignlanguage {english}{Port forward traffic}}}{62}{figure.caption.46}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {10.1}{\ignorespaces \foreignlanguage {english}{Network topology design}}}{65}{figure.caption.46}%
-\contentsline {figure}{\numberline {10.2}{\ignorespaces \foreignlanguage {english}{GUI Login}}}{66}{figure.caption.47}%
-\contentsline {figure}{\numberline {10.3}{\ignorespaces \foreignlanguage {english}{GUI Login second page}}}{66}{figure.caption.48}%
-\contentsline {figure}{\numberline {10.4}{\ignorespaces \foreignlanguage {english}{Add device page}}}{67}{figure.caption.49}%
-\contentsline {figure}{\numberline {10.5}{\ignorespaces \foreignlanguage {english}{github repo}}}{68}{figure.caption.50}%
+\contentsline {figure}{\numberline {10.1}{\ignorespaces \foreignlanguage {english}{Network topology design}}}{67}{figure.caption.47}%
+\contentsline {figure}{\numberline {10.2}{\ignorespaces \foreignlanguage {english}{GUI Login}}}{68}{figure.caption.48}%
+\contentsline {figure}{\numberline {10.3}{\ignorespaces \foreignlanguage {english}{GUI Login second page}}}{68}{figure.caption.49}%
+\contentsline {figure}{\numberline {10.4}{\ignorespaces \foreignlanguage {english}{Add device page}}}{69}{figure.caption.50}%
+\contentsline {figure}{\numberline {10.5}{\ignorespaces \foreignlanguage {english}{github repo}}}{70}{figure.caption.51}%
 \addvspace {10\p@ }

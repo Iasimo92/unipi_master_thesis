@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  8 MAR 2025 22:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  8 MAR 2025 23:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1436,7 +1436,7 @@ Overfull \hbox (19.95053pt too wide) in paragraph at lines 60--69
 [21]
 
 [22]
-<graphics/Architecture_virtualbox.PNG, id=339, 307.1475pt x 349.90726pt>
+<graphics/Architecture_virtualbox.PNG, id=341, 307.1475pt x 349.90726pt>
 File: graphics/Architecture_virtualbox.PNG Graphic file (type png)
 <use graphics/Architecture_virtualbox.PNG>
 Package pdftex.def Info: graphics/Architecture_virtualbox.PNG  used on input line 178.
@@ -1444,12 +1444,12 @@ Package pdftex.def Info: graphics/Architecture_virtualbox.PNG  used on input lin
 
 
 [23 <./graphics/Architecture_virtualbox.PNG>]
-<graphics/virtualization_architecture.PNG, id=346, 292.6935pt x 419.166pt>
+<graphics/virtualization_architecture.PNG, id=348, 292.6935pt x 419.166pt>
 File: graphics/virtualization_architecture.PNG Graphic file (type png)
 <use graphics/virtualization_architecture.PNG>
 Package pdftex.def Info: graphics/virtualization_architecture.PNG  used on input line 195.
 (pdftex.def)             Requested size: 194.18921pt x 278.1023pt.
-<graphics/virtualbox.PNG, id=347, 563.10374pt x 467.346pt>
+<graphics/virtualbox.PNG, id=349, 563.10374pt x 467.346pt>
 File: graphics/virtualbox.PNG Graphic file (type png)
 <use graphics/virtualbox.PNG>
 Package pdftex.def Info: graphics/virtualbox.PNG  used on input line 203.
@@ -1484,7 +1484,7 @@ Overfull \hbox (6.96992pt too wide) in paragraph at lines 16--17
 
 
 [27]
-<graphics/MVC-Process.svg.png, id=367, 1927.2pt x 2119.92pt>
+<graphics/MVC-Process.svg.png, id=369, 1927.2pt x 2119.92pt>
 File: graphics/MVC-Process.svg.png Graphic file (type png)
 <use graphics/MVC-Process.svg.png>
 Package pdftex.def Info: graphics/MVC-Process.svg.png  used on input line 48.
@@ -1498,7 +1498,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [28]
 
 [29 <./graphics/MVC-Process.svg.png>]
-<graphics/MTV.drawio.png, id=377, 1126.2075pt x 462.72874pt>
+<graphics/MTV.drawio.png, id=379, 1126.2075pt x 462.72874pt>
 File: graphics/MTV.drawio.png Graphic file (type png)
 <use graphics/MTV.drawio.png>
 Package pdftex.def Info: graphics/MTV.drawio.png  used on input line 104.
@@ -1508,7 +1508,7 @@ Package pdftex.def Info: graphics/MTV.drawio.png  used on input line 104.
 [30 <./graphics/MTV.drawio.png>]
 
 [31]
-<graphics/diagram.drawio.png, id=388, 592.2125pt x 425.59pt>
+<graphics/diagram.drawio.png, id=390, 592.2125pt x 425.59pt>
 File: graphics/diagram.drawio.png Graphic file (type png)
 <use graphics/diagram.drawio.png>
 Package pdftex.def Info: graphics/diagram.drawio.png  used on input line 150.
@@ -1516,12 +1516,12 @@ Package pdftex.def Info: graphics/diagram.drawio.png  used on input line 150.
 
 
 [32 <./graphics/diagram.drawio.png>]
-<graphics/CISCO_CLOUD.png, id=394, 359.54324pt x 222.8325pt>
+<graphics/CISCO_CLOUD.png, id=396, 359.54324pt x 222.8325pt>
 File: graphics/CISCO_CLOUD.png Graphic file (type png)
 <use graphics/CISCO_CLOUD.png>
 Package pdftex.def Info: graphics/CISCO_CLOUD.png  used on input line 164.
 (pdftex.def)             Requested size: 271.8637pt x 168.49422pt.
-<graphics/CLOUD_NODE_CONFIGURATION.png, id=395, 346.896pt x 233.07076pt>
+<graphics/CLOUD_NODE_CONFIGURATION.png, id=397, 346.896pt x 233.07076pt>
 File: graphics/CLOUD_NODE_CONFIGURATION.png Graphic file (type png)
 <use graphics/CLOUD_NODE_CONFIGURATION.png>
 Package pdftex.def Info: graphics/CLOUD_NODE_CONFIGURATION.png  used on input line 176.
@@ -1529,17 +1529,17 @@ Package pdftex.def Info: graphics/CLOUD_NODE_CONFIGURATION.png  used on input li
 
 
 [33 <./graphics/CISCO_CLOUD.png> <./graphics/CLOUD_NODE_CONFIGURATION.png>]
-<graphics/GNS3_network_adapter.png, id=402, 506.49225pt x 323.40825pt>
+<graphics/GNS3_network_adapter.png, id=404, 506.49225pt x 323.40825pt>
 File: graphics/GNS3_network_adapter.png Graphic file (type png)
 <use graphics/GNS3_network_adapter.png>
 Package pdftex.def Info: graphics/GNS3_network_adapter.png  used on input line 191.
 (pdftex.def)             Requested size: 271.8637pt x 173.59659pt.
-<graphics/GNS3_Network.png, id=403, 506.49225pt x 368.577pt>
+<graphics/GNS3_Network.png, id=405, 506.49225pt x 368.577pt>
 File: graphics/GNS3_Network.png Graphic file (type png)
 <use graphics/GNS3_Network.png>
 Package pdftex.def Info: graphics/GNS3_Network.png  used on input line 205.
 (pdftex.def)             Requested size: 271.8637pt x 197.84193pt.
-<graphics/windows_host_networking.png, id=404, 512.51476pt x 281.853pt>
+<graphics/windows_host_networking.png, id=406, 512.51476pt x 281.853pt>
 File: graphics/windows_host_networking.png Graphic file (type png)
 <use graphics/windows_host_networking.png>
 Package pdftex.def Info: graphics/windows_host_networking.png  used on input line 218.
@@ -1547,12 +1547,12 @@ Package pdftex.def Info: graphics/windows_host_networking.png  used on input lin
 
 
 [34 <./graphics/GNS3_network_adapter.png> <./graphics/GNS3_Network.png>]
-<graphics/cisco_ssh_config_2.png, id=411, 514.92375pt x 224.63925pt>
+<graphics/cisco_ssh_config_2.png, id=413, 514.92375pt x 224.63925pt>
 File: graphics/cisco_ssh_config_2.png Graphic file (type png)
 <use graphics/cisco_ssh_config_2.png>
 Package pdftex.def Info: graphics/cisco_ssh_config_2.png  used on input line 232.
 (pdftex.def)             Requested size: 271.8637pt x 118.60576pt.
-<graphics/cisco_ip_address.png, id=412, 455.90324pt x 88.53075pt>
+<graphics/cisco_ip_address.png, id=414, 455.90324pt x 88.53075pt>
 File: graphics/cisco_ip_address.png Graphic file (type png)
 <use graphics/cisco_ip_address.png>
 Package pdftex.def Info: graphics/cisco_ip_address.png  used on input line 244.
@@ -1560,12 +1560,12 @@ Package pdftex.def Info: graphics/cisco_ip_address.png  used on input line 244.
 
 
 [35 <./graphics/windows_host_networking.png> <./graphics/cisco_ssh_config_2.png> <./graphics/cisco_ip_address.png>]
-<graphics/ip_connectivity_test.png, id=420, 352.31625pt x 495.0495pt>
+<graphics/ip_connectivity_test.png, id=422, 352.31625pt x 495.0495pt>
 File: graphics/ip_connectivity_test.png Graphic file (type png)
 <use graphics/ip_connectivity_test.png>
 Package pdftex.def Info: graphics/ip_connectivity_test.png  used on input line 257.
 (pdftex.def)             Requested size: 271.8637pt x 382.0051pt.
-<graphics/import_appliance.png, id=421, 275.22826pt x 272.81924pt>
+<graphics/import_appliance.png, id=423, 275.22826pt x 272.81924pt>
 File: graphics/import_appliance.png Graphic file (type png)
 <use graphics/import_appliance.png>
 Package pdftex.def Info: graphics/import_appliance.png  used on input line 275.
@@ -1573,12 +1573,12 @@ Package pdftex.def Info: graphics/import_appliance.png  used on input line 275.
 
 
 [36 <./graphics/ip_connectivity_test.png>]
-<graphics/appliance_filename.png, id=427, 615.4995pt x 143.3355pt>
+<graphics/appliance_filename.png, id=429, 615.4995pt x 143.3355pt>
 File: graphics/appliance_filename.png Graphic file (type png)
 <use graphics/appliance_filename.png>
 Package pdftex.def Info: graphics/appliance_filename.png  used on input line 287.
 (pdftex.def)             Requested size: 271.8637pt x 63.31276pt.
-<graphics/ssh.png, id=428, 314.97675pt x 84.315pt>
+<graphics/ssh.png, id=430, 314.97675pt x 84.315pt>
 File: graphics/ssh.png Graphic file (type png)
 <use graphics/ssh.png>
 Package pdftex.def Info: graphics/ssh.png  used on input line 304.
@@ -1592,7 +1592,7 @@ Package pdftex.def Info: graphics/ssh.png  used on input line 304.
 
  (sections/ulopoisi_tis_efarmogis.tex
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  6.
-<graphics/models_2.png, id=441, 381.22424pt x 168.63pt>
+<graphics/models_2.png, id=443, 381.22424pt x 168.63pt>
 File: graphics/models_2.png Graphic file (type png)
 <use graphics/models_2.png>
 Package pdftex.def Info: graphics/models_2.png  used on input line 15.
@@ -1605,12 +1605,12 @@ Package pdftex.def Info: graphics/models_2.png  used on input line 15.
 
 
  <./graphics/models_2.png>]
-<graphics/urlpy.png, id=447, 940.7145pt x 290.2845pt>
+<graphics/urlpy.png, id=449, 940.7145pt x 290.2845pt>
 File: graphics/urlpy.png Graphic file (type png)
 <use graphics/urlpy.png>
 Package pdftex.def Info: graphics/urlpy.png  used on input line 41.
 (pdftex.def)             Requested size: 349.5382pt x 107.8598pt.
-<graphics/viewspy.png, id=448, 581.17125pt x 549.252pt>
+<graphics/viewspy.png, id=450, 581.17125pt x 549.252pt>
 File: graphics/viewspy.png Graphic file (type png)
 <use graphics/viewspy.png>
 Package pdftex.def Info: graphics/viewspy.png  used on input line 65.
@@ -1618,7 +1618,7 @@ Package pdftex.def Info: graphics/viewspy.png  used on input line 65.
 
 
 [40 <./graphics/urlpy.png>]
-<graphics/html_template.png, id=454, 771.48225pt x 445.665pt>
+<graphics/html_template.png, id=456, 771.48225pt x 445.665pt>
 File: graphics/html_template.png Graphic file (type png)
 <use graphics/html_template.png>
 Package pdftex.def Info: graphics/html_template.png  used on input line 81.
@@ -1628,12 +1628,12 @@ Package pdftex.def Info: graphics/html_template.png  used on input line 81.
 [41 <./graphics/viewspy.png>]
 
 [42 <./graphics/html_template.png>]
-<graphics/r1_testing.png, id=465, 461.92575pt x 323.40825pt>
+<graphics/r1_testing.png, id=467, 461.92575pt x 323.40825pt>
 File: graphics/r1_testing.png Graphic file (type png)
 <use graphics/r1_testing.png>
 Package pdftex.def Info: graphics/r1_testing.png  used on input line 131.
 (pdftex.def)             Requested size: 349.5382pt x 244.73183pt.
-<graphics/wireshark.png, id=466, 925.65825pt x 531.1845pt>
+<graphics/wireshark.png, id=468, 925.65825pt x 531.1845pt>
 File: graphics/wireshark.png Graphic file (type png)
 <use graphics/wireshark.png>
 Package pdftex.def Info: graphics/wireshark.png  used on input line 142.
@@ -1641,7 +1641,7 @@ Package pdftex.def Info: graphics/wireshark.png  used on input line 142.
 
 
 [43 <./graphics/r1_testing.png>]
-<graphics/rest.png, id=473, 1562.83875pt x 210.7875pt>
+<graphics/rest.png, id=475, 1562.83875pt x 210.7875pt>
 File: graphics/rest.png Graphic file (type png)
 <use graphics/rest.png>
 Package pdftex.def Info: graphics/rest.png  used on input line 156.
@@ -1653,16 +1653,19 @@ Package pdftex.def Info: graphics/rest.png  used on input line 156.
 
  (sections/application_demo.tex
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  7.
-<graphics/firstPage.png, id=480, 507.0945pt x 70.46326pt>
+<graphics/firstPage.png, id=482, 507.0945pt x 70.46326pt>
 File: graphics/firstPage.png Graphic file (type png)
 <use graphics/firstPage.png>
-Package pdftex.def Info: graphics/firstPage.png  used on input line 15.
+Package pdftex.def Info: graphics/firstPage.png  used on input line 16.
 (pdftex.def)             Requested size: 388.37842pt x 53.96979pt.
-<graphics/urls_firstPage.png, id=481, 361.35pt x 70.46326pt>
+<graphics/urls_firstPage.png, id=483, 361.35pt x 70.46326pt>
 File: graphics/urls_firstPage.png Graphic file (type png)
 <use graphics/urls_firstPage.png>
-Package pdftex.def Info: graphics/urls_firstPage.png  used on input line 26.
+Package pdftex.def Info: graphics/urls_firstPage.png  used on input line 31.
 (pdftex.def)             Requested size: 388.37842pt x 75.73468pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 
 [45
@@ -1670,120 +1673,142 @@ Package pdftex.def Info: graphics/urls_firstPage.png  used on input line 26.
 
 
 
- <./graphics/firstPage.png> <./graphics/urls_firstPage.png>]
-<graphics/urls.png, id=488, 937.70325pt x 320.99925pt>
+ <./graphics/firstPage.png>]
+<graphics/urls.png, id=489, 937.70325pt x 320.99925pt>
 File: graphics/urls.png Graphic file (type png)
 <use graphics/urls.png>
-Package pdftex.def Info: graphics/urls.png  used on input line 49.
+Package pdftex.def Info: graphics/urls.png  used on input line 55.
 (pdftex.def)             Requested size: 388.37842pt x 132.9526pt.
-<graphics/django_server_run.png, id=489, 566.71725pt x 229.45724pt>
+<graphics/django_server_run.png, id=490, 566.71725pt x 229.45724pt>
 File: graphics/django_server_run.png Graphic file (type png)
 <use graphics/django_server_run.png>
-Package pdftex.def Info: graphics/django_server_run.png  used on input line 65.
+Package pdftex.def Info: graphics/django_server_run.png  used on input line 71.
 (pdftex.def)             Requested size: 388.37842pt x 157.25427pt.
 
 
-[46 <./graphics/urls.png> <./graphics/django_server_run.png>]
-<graphics/home_page.png, id=496, 946.737pt x 786.5385pt>
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[46 <./graphics/urls_firstPage.png> <./graphics/urls.png>]
+<graphics/home_page.png, id=497, 946.737pt x 786.5385pt>
 File: graphics/home_page.png Graphic file (type png)
 <use graphics/home_page.png>
-Package pdftex.def Info: graphics/home_page.png  used on input line 86.
+Package pdftex.def Info: graphics/home_page.png  used on input line 93.
 (pdftex.def)             Requested size: 466.0529pt x 387.19548pt.
 
-Overfull \hbox (77.67448pt too wide) in paragraph at lines 86--87
+Overfull \hbox (77.67448pt too wide) in paragraph at lines 93--94
  [][] 
  []
 
-<graphics/class_device.png, id=497, 1055.74425pt x 284.86424pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[47 <./graphics/django_server_run.png> <./graphics/home_page.png>]
+<graphics/class_device.png, id=504, 1055.74425pt x 284.86424pt>
 File: graphics/class_device.png Graphic file (type png)
 <use graphics/class_device.png>
-Package pdftex.def Info: graphics/class_device.png  used on input line 99.
+Package pdftex.def Info: graphics/class_device.png  used on input line 107.
 (pdftex.def)             Requested size: 466.0529pt x 125.75359pt.
 
-Overfull \hbox (77.67448pt too wide) in paragraph at lines 99--100
+Overfull \hbox (77.67448pt too wide) in paragraph at lines 107--108
  [][] 
  []
 
-
-
-[47 <./graphics/home_page.png>]
-<graphics/device_interfaces.png, id=503, 564.30824pt x 396.2805pt>
+<graphics/device_interfaces.png, id=505, 564.30824pt x 396.2805pt>
 File: graphics/device_interfaces.png Graphic file (type png)
 <use graphics/device_interfaces.png>
-Package pdftex.def Info: graphics/device_interfaces.png  used on input line 114.
+Package pdftex.def Info: graphics/device_interfaces.png  used on input line 123.
 (pdftex.def)             Requested size: 466.0529pt x 327.29219pt.
 
-Overfull \hbox (77.67448pt too wide) in paragraph at lines 114--115
+Overfull \hbox (77.67448pt too wide) in paragraph at lines 123--124
  [][] 
  []
 
-<graphics/interfaces.png, id=504, 944.328pt x 517.935pt>
+
+
+[48
+
+ <./graphics/class_device.png>]
+<graphics/interfaces.png, id=511, 944.328pt x 517.935pt>
 File: graphics/interfaces.png Graphic file (type png)
 <use graphics/interfaces.png>
-Package pdftex.def Info: graphics/interfaces.png  used on input line 126.
+Package pdftex.def Info: graphics/interfaces.png  used on input line 136.
 (pdftex.def)             Requested size: 466.0529pt x 255.61597pt.
 
-Overfull \hbox (77.67448pt too wide) in paragraph at lines 126--127
+Overfull \hbox (77.67448pt too wide) in paragraph at lines 136--137
  [][] 
  []
 
 
 
-[48 <./graphics/class_device.png> <./graphics/device_interfaces.png>]
-<graphics/statistics.png, id=511, 924.45375pt x 837.1275pt>
-File: graphics/statistics.png Graphic file (type png)
-<use graphics/statistics.png>
-Package pdftex.def Info: graphics/statistics.png  used on input line 152.
-(pdftex.def)             Requested size: 388.37842pt x 351.69334pt.
+[49 <./graphics/device_interfaces.png>]
+Overfull \hbox (9.92148pt too wide) in paragraph at lines 144--153
+\LGR/mak/m/n/10.95 H lei-tour-g–a tou kou-mpio-‘ []\T1/mak/m/n/10.95 (-20) Statis-tics []\LGR/mak/m/n/10.95 ba-s–ze-tai sth su-nàr-th-sh []\T1/mak/m/n/10.95 (-20) get_interface_statistics[]\LGR/mak/m/n/10.95 ,
+ []
+
+<graphics/device_statistics.png, id=518, 373.99725pt x 272.81924pt>
+File: graphics/device_statistics.png Graphic file (type png)
+<use graphics/device_statistics.png>
+Package pdftex.def Info: graphics/device_statistics.png  used on input line 162.
+(pdftex.def)             Requested size: 388.37842pt x 283.32983pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[50 <./graphics/interfaces.png>]
+<graphics/device_statistics_response.png, id=524, 377.0085pt x 251.13824pt>
+File: graphics/device_statistics_response.png Graphic file (type png)
+<use graphics/device_statistics_response.png>
+Package pdftex.def Info: graphics/device_statistics_response.png  used on input line 175.
+(pdftex.def)             Requested size: 388.37842pt x 258.71361pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[49 <./graphics/interfaces.png>]
-<graphics/interface_statistics.png, id=518, 708.84825pt x 337.86224pt>
+[51 <./graphics/device_statistics.png>]
+<graphics/interface_statistics.png, id=530, 708.84825pt x 337.86224pt>
 File: graphics/interface_statistics.png Graphic file (type png)
 <use graphics/interface_statistics.png>
-Package pdftex.def Info: graphics/interface_statistics.png  used on input line 164.
+Package pdftex.def Info: graphics/interface_statistics.png  used on input line 190.
 (pdftex.def)             Requested size: 388.37842pt x 185.11336pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-
-[50 <./graphics/statistics.png>]
-<graphics/running_config.png, id=524, 950.3505pt x 310.15875pt>
+<graphics/running_config.png, id=531, 950.3505pt x 310.15875pt>
 File: graphics/running_config.png Graphic file (type png)
 <use graphics/running_config.png>
-Package pdftex.def Info: graphics/running_config.png  used on input line 181.
+Package pdftex.def Info: graphics/running_config.png  used on input line 207.
 (pdftex.def)             Requested size: 388.37842pt x 126.74944pt.
-<graphics/configure_ip.png, id=525, 609.477pt x 269.20575pt>
+
+
+[52 <./graphics/device_statistics_response.png> <./graphics/interface_statistics.png>]
+<graphics/configure_ip.png, id=538, 609.477pt x 269.20575pt>
 File: graphics/configure_ip.png Graphic file (type png)
 <use graphics/configure_ip.png>
-Package pdftex.def Info: graphics/configure_ip.png  used on input line 195.
+Package pdftex.def Info: graphics/configure_ip.png  used on input line 221.
 (pdftex.def)             Requested size: 388.37842pt x 171.54758pt.
+<graphics/configure_ip_1.png, id=539, 679.338pt x 302.3295pt>
+File: graphics/configure_ip_1.png Graphic file (type png)
+<use graphics/configure_ip_1.png>
+Package pdftex.def Info: graphics/configure_ip_1.png  used on input line 231.
+(pdftex.def)             Requested size: 388.37842pt x 172.84627pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-
-[51 <./graphics/interface_statistics.png> <./graphics/running_config.png>]
-<graphics/configure_ip_1.png, id=532, 679.338pt x 302.3295pt>
-File: graphics/configure_ip_1.png Graphic file (type png)
-<use graphics/configure_ip_1.png>
-Package pdftex.def Info: graphics/configure_ip_1.png  used on input line 205.
-(pdftex.def)             Requested size: 388.37842pt x 172.84627pt.
 )
 
-[52 <./graphics/configure_ip.png> <./graphics/configure_ip_1.png>]
+[53 <./graphics/running_config.png> <./graphics/configure_ip.png>]
+
+[54 <./graphics/configure_ip_1.png>]
 \openout2 = `sections/kubernetes_section.aux'.
 
  (sections/kubernetes_section.tex
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  8.
-<graphics/dockerfile.png, id=539, 797.98125pt x 564.9105pt>
+<graphics/dockerfile.png, id=551, 797.98125pt x 564.9105pt>
 File: graphics/dockerfile.png Graphic file (type png)
 <use graphics/dockerfile.png>
 Package pdftex.def Info: graphics/dockerfile.png  used on input line 23.
@@ -1795,13 +1820,13 @@ Overfull \hbox (194.18921pt too wide) in paragraph at lines 23--24
 
 
 
-[53
+[55
 
 
 
 
 ]
-<graphics/docker_build.png, id=544, 951.555pt x 319.1925pt>
+<graphics/docker_build.png, id=557, 951.555pt x 319.1925pt>
 File: graphics/docker_build.png Graphic file (type png)
 <use graphics/docker_build.png>
 Package pdftex.def Info: graphics/docker_build.png  used on input line 43.
@@ -1812,8 +1837,8 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[54 <./graphics/dockerfile.png>]
-<graphics/docker_image_list_2.png, id=550, 955.77075pt x 142.73325pt>
+[56 <./graphics/dockerfile.png>]
+<graphics/docker_image_list_2.png, id=563, 955.77075pt x 142.73325pt>
 File: graphics/docker_image_list_2.png Graphic file (type png)
 <use graphics/docker_image_list_2.png>
 Package pdftex.def Info: graphics/docker_image_list_2.png  used on input line 58.
@@ -1823,7 +1848,7 @@ Overfull \hbox (194.18921pt too wide) in paragraph at lines 58--59
  [][] 
  []
 
-<graphics/dockerpush.png, id=551, 1037.67674pt x 265.59225pt>
+<graphics/dockerpush.png, id=564, 1037.67674pt x 265.59225pt>
 File: graphics/dockerpush.png Graphic file (type png)
 <use graphics/dockerpush.png>
 Package pdftex.def Info: graphics/dockerpush.png  used on input line 72.
@@ -1835,10 +1860,10 @@ Overfull \hbox (194.18921pt too wide) in paragraph at lines 72--73
 
 
 
-[55 <./graphics/docker_build.png> <./graphics/docker_image_list_2.png> <./graphics/dockerpush.png>]
+[57 <./graphics/docker_build.png> <./graphics/docker_image_list_2.png> <./graphics/dockerpush.png>]
 
-[56]
-<graphics/minikube_deployment_k8s.png, id=564, 947.33925pt x 449.2785pt>
+[58]
+<graphics/minikube_deployment_k8s.png, id=576, 947.33925pt x 449.2785pt>
 File: graphics/minikube_deployment_k8s.png Graphic file (type png)
 <use graphics/minikube_deployment_k8s.png>
 Package pdftex.def Info: graphics/minikube_deployment_k8s.png  used on input line 151.
@@ -1848,7 +1873,7 @@ Overfull \hbox (194.18921pt too wide) in paragraph at lines 151--152
  [][] 
  []
 
-<graphics/pod_spec.png, id=565, 551.05875pt x 127.677pt>
+<graphics/pod_spec.png, id=577, 551.05875pt x 127.677pt>
 File: graphics/pod_spec.png Graphic file (type png)
 <use graphics/pod_spec.png>
 Package pdftex.def Info: graphics/pod_spec.png  used on input line 172.
@@ -1863,8 +1888,8 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[57 <./graphics/minikube_deployment_k8s.png>]
-<graphics/deploy_django.png, id=571, 958.782pt x 458.9145pt>
+[59 <./graphics/minikube_deployment_k8s.png>]
+<graphics/deploy_django.png, id=583, 958.782pt x 458.9145pt>
 File: graphics/deploy_django.png Graphic file (type png)
 <use graphics/deploy_django.png>
 Package pdftex.def Info: graphics/deploy_django.png  used on input line 193.
@@ -1876,8 +1901,8 @@ Overfull \hbox (194.18921pt too wide) in paragraph at lines 193--194
 
 
 
-[58 <./graphics/pod_spec.png> <./graphics/deploy_django.png>]
-<graphics/kubernetes_proxy.png, id=578, 787.14075pt x 828.09375pt>
+[60 <./graphics/pod_spec.png> <./graphics/deploy_django.png>]
+<graphics/kubernetes_proxy.png, id=590, 787.14075pt x 828.09375pt>
 File: graphics/kubernetes_proxy.png Graphic file (type png)
 <use graphics/kubernetes_proxy.png>
 Package pdftex.def Info: graphics/kubernetes_proxy.png  used on input line 211.
@@ -1892,18 +1917,18 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[59]
+[61]
 
-[60 <./graphics/kubernetes_proxy.png>])
+[62 <./graphics/kubernetes_proxy.png>])
 
-[61
+[63
 
 ]
 \openout2 = `sections/suberasma.aux'.
 
  (sections/suberasma.tex
 
-[62
+[64
 
 
 
@@ -1912,14 +1937,14 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  9.
 
 
-[63])
+[65])
 
-[64]
+[66]
 \openout2 = `sections/parartima.aux'.
 
  (sections/parartima.tex
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  10.
-<graphics/network_topology_high_level.png, id=605, 912.40875pt x 371.3875pt>
+<graphics/network_topology_high_level.png, id=617, 912.40875pt x 371.3875pt>
 File: graphics/network_topology_high_level.png Graphic file (type png)
 <use graphics/network_topology_high_level.png>
 Package pdftex.def Info: graphics/network_topology_high_level.png  used on input line 10.
@@ -1929,7 +1954,7 @@ Overfull \hbox (38.84021pt too wide) in paragraph at lines 10--11
  [][] 
  []
 
-<graphics/GUI_LOGIN.png, id=606, 772.0845pt x 346.896pt>
+<graphics/GUI_LOGIN.png, id=618, 772.0845pt x 346.896pt>
 File: graphics/GUI_LOGIN.png Graphic file (type png)
 <use graphics/GUI_LOGIN.png>
 Package pdftex.def Info: graphics/GUI_LOGIN.png  used on input line 29.
@@ -1944,13 +1969,13 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[65
+[67
 
 
 
 
  <./graphics/network_topology_high_level.png>]
-<graphics/DJANGO_ADMIN.png, id=612, 907.59074pt x 498.06075pt>
+<graphics/DJANGO_ADMIN.png, id=625, 907.59074pt x 498.06075pt>
 File: graphics/DJANGO_ADMIN.png Graphic file (type png)
 <use graphics/DJANGO_ADMIN.png>
 Package pdftex.def Info: graphics/DJANGO_ADMIN.png  used on input line 41.
@@ -1960,7 +1985,7 @@ Overfull \hbox (38.84021pt too wide) in paragraph at lines 41--42
  [][] 
  []
 
-<graphics/ADD_DEVICE.png, id=613, 904.5795pt x 452.892pt>
+<graphics/ADD_DEVICE.png, id=626, 904.5795pt x 452.892pt>
 File: graphics/ADD_DEVICE.png Graphic file (type png)
 <use graphics/ADD_DEVICE.png>
 Package pdftex.def Info: graphics/ADD_DEVICE.png  used on input line 53.
@@ -1975,8 +2000,8 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[66 <./graphics/GUI_LOGIN.png> <./graphics/DJANGO_ADMIN.png>]
-<graphics/github_page.png, id=620, 945.5325pt x 856.3995pt>
+[68 <./graphics/GUI_LOGIN.png> <./graphics/DJANGO_ADMIN.png>]
+<graphics/github_page.png, id=633, 945.5325pt x 856.3995pt>
 File: graphics/github_page.png Graphic file (type png)
 <use graphics/github_page.png>
 Package pdftex.def Info: graphics/github_page.png  used on input line 71.
@@ -1991,9 +2016,9 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[67 <./graphics/ADD_DEVICE.png>])
+[69 <./graphics/ADD_DEVICE.png>])
 
-[68 <./graphics/github_page.png>]
+[70 <./graphics/github_page.png>]
 \openout2 = `sections/bibliography.aux'.
 
  (sections/bibliography.tex
@@ -2010,7 +2035,7 @@ Overfull \hbox (0.73871pt too wide) in paragraph at lines 15--16
 
 )
 
-[69
+[71
 
 
 
@@ -2033,17 +2058,17 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28600 strings out of 473920
- 509371 string characters out of 5727446
+ 28610 strings out of 473920
+ 509772 string characters out of 5727446
  1941908 words of memory out of 5000000
- 50661 multiletter control sequences out of 15000+600000
+ 50668 multiletter control sequences out of 15000+600000
  593084 words of font info for 178 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,81p,1884b,1981s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-Bold.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-Italic.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-SmallCaps.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis.pfb>
-Output written on thesis.pdf (69 pages, 4286287 bytes).
+Output written on thesis.pdf (71 pages, 4344330 bytes).
 PDF statistics:
- 912 PDF objects out of 1000 (max. 8388607)
- 188 named destinations out of 1000 (max. 500000)
- 24864 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 924 PDF objects out of 1000 (max. 8388607)
+ 191 named destinations out of 1000 (max. 500000)
+ 24869 words of extra memory for PDF output out of 24883 (max. 10000000)
 

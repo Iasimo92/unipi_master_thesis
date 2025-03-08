@@ -8,18 +8,23 @@
 η οποία δέχεται ένα \en{http request} και σαν απάντηση επιστρέφει την αρχική σελίδα(\en{index.html}).
 
 Αυτό γίνεται μέσα από 2 κύριως μηχανισμούς.Η συνάρτηση \en{firstPage} ορίζεται στο αρχείο \en{views.py} της εφαρμογής. Παίρνει ως όρισμα ένα αντικείμενο \en{HttpRequest} 
-(την αίτηση του χρήστη) και επιστρέφει ένα \en{HttpResponse} μέσω της render:
+(την αίτηση του χρήστη) και επιστρέφει ένα \en{HttpResponse} μέσω της \en{render}(σχήμα 7.1):
 
+\FloatBarrier
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=1.0\textwidth]{graphics/firstPage.png}
 	\caption{ \en{firstPage} συνάρτηση}
 \end{figure}
 
+\FloatBarrier
+
 Η λίστα \en{urlpatterns} συνδέει τη διεύθυνση \en{URL} 
 με τη συνάρτηση \en{firstPage}. Το κενό \en{string} ('') σημαίνει ότι αυτή η διαδρομή αντιστοιχεί στη ρίζα του ιστότοπου (π.χ., \en{http://localhost:8000/})
 Όταν ένας χρήστης επισκέπτεται τη ρίζα, η συνάρτηση \en{firstPage} 
-εκτελείται και επιστρέφει την \en{HTML} σελίδα \en{index.html}. Παρακάτω το σημείο στο \en{urls.py} όπου γίνεται η δρομολόγηση.
+εκτελείται και επιστρέφει την \en{HTML} σελίδα \en{index.html}. Στο σχήμα 7.2 το σημείο στο \en{urls.py} όπου γίνεται η δρομολόγηση.
+
+\FloatBarrier
 
 \begin{figure}[h]
 	\centering
@@ -27,6 +32,7 @@
 	\caption{ \en{Urls} δρομολόγηση για την αρχική σελίδα.}
 \end{figure}
 
+\FloatBarrier
 
 Μέσα από αυτή την αρχική σελίδα μπορούμε να κατευθυνθούμε σε οποιαδήποτε επιλογή εμείς θέλουμε.
 Στο \en{Django} καθοριστικός παράγοντας στην ευκολία με την οποία
@@ -39,11 +45,11 @@
 μπορούμε συνεπώς να δημιουργήσουμε πιο ευέλικτες διαδρομές \en{URL} 
 που μπορούν να χειρίζονται ποικίλες καταστάσεις. 
 
-Κάθε ένα από αυτά τα \en{paths} που φαίνονται και παρακάτω στην εικόνα
+Κάθε ένα από αυτά τα \en{paths} που φαίνονται και στην εικόνα 7.3
 είναι υπεύθυνα για την ανακατεύθυνση των διευθύνσεων και τη σωστή δρομολόγησή
 τους ώστε να δώσουν σαν απάντηση κάθε φορά τα σωστά δεδομένα.
 
-
+\FloatBarrier
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=1.0\textwidth]{graphics/urls.png}
@@ -58,7 +64,7 @@
 
 Προκειμένου να τρέξει ο \en{Django server}
 τρέχουμε την εντολή η οποία βρίσκεται στην 
-εικόνα 5.1.
+εικόνα 7.4.
 
 \begin{figure}[h]
 	\centering
@@ -77,10 +83,11 @@
 Εάν εισάγουμε αυτή τη διεύθυνση σε έναν 
 φυλλομετρητή της επιλογής μας, θα ανακατευθυνθούμε 
 στην αρχική σελίδα, η οποία θα παρουσιαστεί στον 
-χρήστη όπως στην εικόνα 5.2. Το εμπρόστιο τμήμα της εφαρμοφής(\en{frontend}) 
+χρήστη όπως στην εικόνα 7.5. Το εμπρόστιο τμήμα της εφαρμοφής(\en{frontend}) 
 είναι γραμμένο με \en{HTML},\en{CSS} ενώ το οπίσθιο τμήμα(\en{backend}) 
 είναι γραμμένο σε \en{Python}.
 
+\FloatBarrier
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=1.2\textwidth]{graphics/home_page.png}
@@ -92,8 +99,9 @@
 \section{\en{Devices}}
 
 Προκειμένου να δημιουργήσουμε μία νεα συσκευή η παρακατω κλάσση
-κώδικα μας βοηθάει στο να γίνει όπως στο σχήμα 5.3
+κώδικα μας βοηθάει στο να γίνει όπως στο σχήμα 7.6.
 
+\FloatBarrier
 \begin{figure}[htb]
 	\centering
 	\includegraphics[width=1.2\textwidth]{graphics/class_device.png}
@@ -103,12 +111,13 @@
 \FloatBarrier
 
 Αφού λοιπόν πατήσουμε το κουμπί \en{Devices} αυτό θα μας δρομολογήσει στο αντίστοιχο \en{HTML link}.
-Το οποίο θα μας εμφανίσει μια άλλη σελίδα αυτή του σχήματος 5.4. 
+Το οποίο θα μας εμφανίσει μια άλλη σελίδα αυτή του σχήματος 7.7. 
 
-Αποτέλεσμα του πίνακα του σχήματος 5.4 είναι όλες οι συσκευές οι οποίες
+Αποτέλεσμα του πίνακα του σχήματος 7.7 είναι όλες οι συσκευές οι οποίες
 είναι στη βάση δεδομένων μας όπου ο χρήστης πρόσθεσε προκειμένου
-να μπορεί να αναδράσει με αυτές.
+να μπορεί να αναδράσει με αυτές. Το πως προσθέτουμε συσκευές αναλύθηκε στ προηγούμενο κεφάλαιο αναλυτικά.
 
+\FloatBarrier
 \begin{figure}[htb]
 	\centering
 	\includegraphics[width=1.2\textwidth]{graphics/device_interfaces.png}
@@ -119,19 +128,20 @@
 
 Πατόντας ένα από αυτά τα κουμπιά θα μπορέσουμε να πάρουμε το αποτέλεσμα που θέλουμε.
 Σε αυτή τη σελίδα μπορούμε να δούμε αν κάποια διεπαφή αν λειτουργεί ή όχι.
-(Σχήμα 5.5)
+(Σχήμα 7.8)
 
+\FloatBarrier
 \begin{figure}[htb]
 	\centering
 	\includegraphics[width=1.2\textwidth]{graphics/interfaces.png}
 	\caption{\en{Interfaces}}
 \end{figure}
-
+\FloatBarrier
 
 
 \section{Στατιστικά της συσκευής}
 
-Η λειτουργία του κουμπιού αυτού βασίζεται στη συνάρτηση \en{get\_interface\_statistics}, 
+Η λειτουργία του κουμπιού \en{Statistics} βασίζεται στη συνάρτηση \en{get\_interface\_statistics}, 
 η οποία είναι υπεύθυνη για τη σύνδεση σε μια δικτυακή συσκευή, 
 την απόκτηση στατιστικών πληροφοριών σχετικά με τις 
 διεπαφές της, και την παρουσίαση αυτών των πληροφοριών 
@@ -142,16 +152,32 @@
 συσκευή από τη βάση δεδομένων.
 
 Για να εντοπίσει τη συσκευή, παρουσιάζεται μία λίστα από το 
-\en{User Interface} όπως και στην παραπάνω (\en{Devices}), 
-και πατώντας πάνω της εμφανίζει τα παρακάτω στατιστικά:
+\en{User Interface} όπως και στην εικόνα (\en{Devices}) 7.9.
+
 
 \FloatBarrier
 
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=1.0\textwidth]{graphics/statistics.png}
-	\caption{Στατιστικά}
+	\includegraphics[width=1.0\textwidth]{graphics/device_statistics.png}
+	\caption{Στατιστικά Συσκευής}
 \end{figure}
+
+\FloatBarrier
+
+Πατώντας πάνω σε κάθε μια από τις συσκευές που έχουμε ορίσει και εμφανίζονται ως \en{links} εµφανίζει τα παρακάτω στατιστικά αντίστοιχα. Όπως στην  εικόνα 7.10.
+
+
+\FloatBarrier
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=1.0\textwidth]{graphics/device_statistics_response.png}
+	\caption{Στατιστικά Συσκευής}
+\end{figure}
+
+\FloatBarrier
+
 
 \section{Στατιστικά της διεπαφής}
 
