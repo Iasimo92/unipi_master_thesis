@@ -48,14 +48,14 @@
 \contentsline {section}{\numberline {7.3}\foreignlanguage {english}{Devices}}{48}{section.7.3}%
 \contentsline {section}{\numberline {7.4}Στατιστικά της συσκευής}{50}{section.7.4}%
 \contentsline {section}{\numberline {7.5}Στατιστικά της διεπαφής}{52}{section.7.5}%
-\contentsline {section}{\numberline {7.6}\foreignlanguage {english}{Backup} της συσκευής}{52}{section.7.6}%
+\contentsline {section}{\numberline {7.6}\foreignlanguage {english}{Backup} της συσκευής}{53}{section.7.6}%
 \contentsline {section}{\numberline {7.7}Διαμόρφωση διεύθυνσης \foreignlanguage {english}{IP}}{53}{section.7.7}%
 \contentsline {chapter}{\numberline {8}\foreignlanguage {english}{Containerization} και \foreignlanguage {english}{Deployment} }{55}{chapter.8}%
 \contentsline {section}{\numberline {8.1}\foreignlanguage {english}{Containerization} με \foreignlanguage {english}{Docker}}{55}{section.8.1}%
 \contentsline {subsection}{\numberline {8.1.1}Δημιουργία \foreignlanguage {english}{Docker Image}}{55}{subsection.8.1.1}%
-\contentsline {section}{\numberline {8.2}\foreignlanguage {english}{Deployment} με \foreignlanguage {english}{Kubernetes}}{57}{section.8.2}%
+\contentsline {section}{\numberline {8.2}\foreignlanguage {english}{Deployment} με \foreignlanguage {english}{Kubernetes}}{58}{section.8.2}%
 \contentsline {subsection}{\numberline {8.2.1}Δημιουργία \foreignlanguage {english}{Kubernetes manifest files}}{59}{subsection.8.2.1}%
-\contentsline {subsection}{\numberline {8.2.2}Πρόσβαση στο \foreignlanguage {english}{Django pod}}{60}{subsection.8.2.2}%
+\contentsline {subsection}{\numberline {8.2.2}Πρόσβαση στο \foreignlanguage {english}{Django pod}}{61}{subsection.8.2.2}%
 \contentsline {chapter}{\numberline {9}Συμπέρασματα και Μελλοντική Εργασία}{65}{chapter.9}%
 \contentsline {section}{\numberline {9.1}Συμπεράσματα}{65}{section.9.1}%
 \contentsline {section}{\numberline {9.2}Προκλήσεις και Μαθήματα}{65}{section.9.2}%
@@ -65,5 +65,7 @@
 \contentsline {section}{\numberline {10.2}Οδηγός χρήσης της εφαρμογής}{67}{section.10.2}%
 \contentsline {subsection}{\numberline {10.2.1}Δημιουργία αντικειμένου-Προσθήκη συσκευής}{67}{subsection.10.2.1}%
 \contentsline {section}{\numberline {10.3}Κώδικας}{69}{section.10.3}%
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
 \contentsline {chapter}{\numberline {11}Βιβλιογραφία}{71}{chapter.11}%
 \contentsline {section}{\numberline {11.1}Βιβλιογραφίκές αναφορές}{71}{section.11.1}%

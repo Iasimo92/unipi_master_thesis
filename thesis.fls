@@ -740,6 +740,13 @@ INPUT .\graphics\device_statistics_response.png
 INPUT .\graphics\device_statistics_response.png
 INPUT .\graphics\device_statistics_response.png
 INPUT .\graphics\device_statistics_response.png
+INPUT .\graphics\manage3.png
+INPUT .\graphics\manage3.png
+INPUT .\graphics\manage3.png
+INPUT .\graphics\manage3.png
+INPUT .\graphics\manage3.png
+INPUT .\graphics\manage3.png
+INPUT .\graphics\manage3.png
 INPUT .\graphics\interface_statistics.png
 INPUT .\graphics\interface_statistics.png
 INPUT .\graphics\interface_statistics.png
@@ -870,6 +877,10 @@ INPUT .\graphics\ADD_DEVICE.png
 INPUT .\graphics\ADD_DEVICE.png
 INPUT .\graphics\ADD_DEVICE.png
 INPUT .\graphics\ADD_DEVICE.png
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1pcr.fd
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1pcr.fd
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1pcr.fd
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\courier\pcrr8t.tfm
 INPUT .\graphics\github_page.png
 INPUT .\graphics\github_page.png
 INPUT .\graphics\github_page.png
@@ -877,6 +888,9 @@ INPUT .\graphics\github_page.png
 INPUT .\graphics\github_page.png
 INPUT .\graphics\github_page.png
 INPUT .\graphics\github_page.png
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\courier\pcrr8t.vf
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\courier\pcrr8r.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
 INPUT .\sections\bibliography.tex
 INPUT .\sections\bibliography.tex
 OUTPUT sections\bibliography.aux
@@ -938,3 +952,5 @@ INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\type1\public\kerkis\Kerk
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\type1\public\kerkis\Kerkis-SmallCaps.pfb
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\type1\public\kerkis\Kerkis.pfb
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\type1\public\kerkis\Kerkis.pfb
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\type1\urw\courier\ucrr8a.pfb
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\type1\urw\courier\ucrr8a.pfb
