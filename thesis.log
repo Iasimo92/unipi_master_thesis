@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  9 MAR 2025 18:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  9 MAR 2025 19:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2060,7 +2060,12 @@ Overfull \hbox (8.0945pt too wide) in paragraph at lines 24--25
 []\T1/mak/m/n/10.95 (-20) https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/ 
  []
 
-)
+
+Overfull \hbox (0.12213pt too wide) in paragraph at lines 25--26
+[]\T1/mak/m/n/10.95 (-17) https://docs.gns3.com/docs/using-gns3/advanced/connect-gns3-internet/ 
+ []
+
+
 
 [71
 
@@ -2068,6 +2073,13 @@ Overfull \hbox (8.0945pt too wide) in paragraph at lines 24--25
 
 
 ]
+Overfull \hbox (6.15758pt too wide) in paragraph at lines 26--27
+[]\T1/mak/m/n/10.95 (-20) https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG 
+ []
+
+)
+
+[72]
 
 LaTeX Warning: Empty bibliography on input line 114.
 
@@ -2085,17 +2097,17 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28659 strings out of 473920
- 510768 string characters out of 5727446
+ 28663 strings out of 473920
+ 510796 string characters out of 5727446
  1941908 words of memory out of 5000000
  50715 multiletter control sequences out of 15000+600000
- 593333 words of font info for 176 fonts, out of 8000000 for 9000
+ 593519 words of font info for 178 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,81p,1897b,2203s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-Bold.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-Italic.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-SmallCaps.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on thesis.pdf (71 pages, 4403282 bytes).
+Output written on thesis.pdf (72 pages, 4404268 bytes).
 PDF statistics:
- 937 PDF objects out of 1000 (max. 8388607)
- 192 named destinations out of 1000 (max. 500000)
+ 942 PDF objects out of 1000 (max. 8388607)
+ 193 named destinations out of 1000 (max. 500000)
  25386 words of extra memory for PDF output out of 29859 (max. 10000000)
 
