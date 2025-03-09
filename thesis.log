@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  9 MAR 2025 19:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  9 MAR 2025 19:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1101,10 +1101,10 @@ Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty p
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
-LaTeX Font Info:    Trying to load font information for T1+mak on input line 85.
+LaTeX Font Info:    Trying to load font information for T1+mak on input line 87.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/kerkis\t1mak.fd)
 LaTeX Font Info:    Font shape `T1/mak/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 85.
+(Font)              scaled to size 9.85492pt on input line 87.
  (thesis.aux (sections/titlepage.aux)
 LaTeX Font Info:    Trying to load font information for LGR+mak on input line 10.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/kerkis\lgrmak.fd)
@@ -1113,30 +1113,30 @@ LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
  (sections/approvalpage.aux) (sections/copyright.aux) (sections/abstract.aux) (sections/thanks.aux) (sections/sample_chapter.aux) (sections/theoritiko_upovathro.aux) (sections/sxediasi_analusi.aux) (sections/ulopoisi_tis_efarmogis.aux) (sections/application_demo.aux) (sections/kubernetes_section.aux) (sections/suberasma.aux) (sections/parartima.aux) (sections/bibliography.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 85.
-LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 85.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 87.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 87.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
 \c@lstlisting=\count459
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1192,23 +1192,23 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 85.
-Package microtype Info: Applying patch `item' on input line 85.
-Package microtype Info: Applying patch `toc' on input line 85.
-Package microtype Info: Applying patch `eqnum' on input line 85.
-Package microtype Info: Applying patch `footnote' on input line 85.
-Package microtype Info: Applying patch `verbatim' on input line 85.
+LaTeX Info: Redefining \microtypecontext on input line 87.
+Package microtype Info: Applying patch `item' on input line 87.
+Package microtype Info: Applying patch `toc' on input line 87.
+Package microtype Info: Applying patch `eqnum' on input line 87.
+Package microtype Info: Applying patch `footnote' on input line 87.
+Package microtype Info: Applying patch `verbatim' on input line 87.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 85.
+LaTeX Info: Redefining \showhyphens on input line 87.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-Package hyperref Info: Link coloring OFF on input line 85.
+Package hyperref Info: Link coloring OFF on input line 87.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: Trying to load language 'greek'...
@@ -1229,8 +1229,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
  (thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 85.
-Package biblatex Info: Reference segment=0 on input line 85.
+Package biblatex Info: Reference section=0 on input line 87.
+Package biblatex Info: Reference segment=0 on input line 87.
 \openout2 = `sections/titlepage.aux'.
 
  (sections/titlepage.tex
@@ -1439,7 +1439,7 @@ Overfull \hbox (19.95053pt too wide) in paragraph at lines 60--65
 <graphics/Architecture_virtualbox.PNG, id=343, 307.1475pt x 349.90726pt>
 File: graphics/Architecture_virtualbox.PNG Graphic file (type png)
 <use graphics/Architecture_virtualbox.PNG>
-Package pdftex.def Info: graphics/Architecture_virtualbox.PNG  used on input line 183.
+Package pdftex.def Info: graphics/Architecture_virtualbox.PNG  used on input line 184.
 (pdftex.def)             Requested size: 194.18921pt x 221.22758pt.
 
 
@@ -1447,12 +1447,12 @@ Package pdftex.def Info: graphics/Architecture_virtualbox.PNG  used on input lin
 <graphics/virtualization_architecture.PNG, id=350, 292.6935pt x 419.166pt>
 File: graphics/virtualization_architecture.PNG Graphic file (type png)
 <use graphics/virtualization_architecture.PNG>
-Package pdftex.def Info: graphics/virtualization_architecture.PNG  used on input line 200.
+Package pdftex.def Info: graphics/virtualization_architecture.PNG  used on input line 201.
 (pdftex.def)             Requested size: 194.18921pt x 278.1023pt.
 <graphics/virtualbox.PNG, id=351, 563.10374pt x 467.346pt>
 File: graphics/virtualbox.PNG Graphic file (type png)
 <use graphics/virtualbox.PNG>
-Package pdftex.def Info: graphics/virtualbox.PNG  used on input line 208.
+Package pdftex.def Info: graphics/virtualbox.PNG  used on input line 209.
 (pdftex.def)             Requested size: 349.5382pt x 290.10094pt.
 )
 
@@ -2046,22 +2046,22 @@ LaTeX Warning: `h' float specifier changed to `ht'.
  (sections/bibliography.tex
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \textiota \textomicron  11.
 
-Overfull \hbox (19.68391pt too wide) in paragraph at lines 11--12
+Overfull \hbox (19.68391pt too wide) in paragraph at lines 12--13
 []\T1/mak/m/n/10.95 (-20) https://www.cloudflare.com/learning/network-layer/what-is-the-control-plane/ 
  []
 
 
-Overfull \hbox (0.73871pt too wide) in paragraph at lines 15--16
+Overfull \hbox (0.73871pt too wide) in paragraph at lines 16--17
 []\T1/mak/m/n/10.95 (-20) https://medium.com/@komalminhas.96/a-step-by-step-guide-to-build-and-
  []
 
 
-Overfull \hbox (8.0945pt too wide) in paragraph at lines 24--25
+Overfull \hbox (8.0945pt too wide) in paragraph at lines 25--26
 []\T1/mak/m/n/10.95 (-20) https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/ 
  []
 
 
-Overfull \hbox (0.12213pt too wide) in paragraph at lines 25--26
+Overfull \hbox (0.12213pt too wide) in paragraph at lines 26--27
 []\T1/mak/m/n/10.95 (-17) https://docs.gns3.com/docs/using-gns3/advanced/connect-gns3-internet/ 
  []
 
@@ -2073,17 +2073,13 @@ Overfull \hbox (0.12213pt too wide) in paragraph at lines 25--26
 
 
 ]
-Overfull \hbox (6.15758pt too wide) in paragraph at lines 26--27
+Overfull \hbox (6.15758pt too wide) in paragraph at lines 27--28
 []\T1/mak/m/n/10.95 (-20) https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG 
  []
 
 )
 
-[72]
-
-LaTeX Warning: Empty bibliography on input line 114.
-
-(thesis.aux (sections/titlepage.aux) (sections/approvalpage.aux) (sections/copyright.aux) (sections/abstract.aux) (sections/thanks.aux) (sections/sample_chapter.aux) (sections/theoritiko_upovathro.aux) (sections/sxediasi_analusi.aux) (sections/ulopoisi_tis_efarmogis.aux) (sections/application_demo.aux) (sections/kubernetes_section.aux) (sections/suberasma.aux) (sections/parartima.aux) (sections/bibliography.aux))
+[72] (thesis.aux (sections/titlepage.aux) (sections/approvalpage.aux) (sections/copyright.aux) (sections/abstract.aux) (sections/thanks.aux) (sections/sample_chapter.aux) (sections/theoritiko_upovathro.aux) (sections/sxediasi_analusi.aux) (sections/ulopoisi_tis_efarmogis.aux) (sections/application_demo.aux) (sections/kubernetes_section.aux) (sections/suberasma.aux) (sections/parartima.aux) (sections/bibliography.aux))
  ***********
 LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
@@ -2105,7 +2101,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,12n,81p,1897b,2203s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-Bold.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-Italic.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis-SmallCaps.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/Kerkis.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on thesis.pdf (72 pages, 4404268 bytes).
+Output written on thesis.pdf (72 pages, 4404271 bytes).
 PDF statistics:
  942 PDF objects out of 1000 (max. 8388607)
  193 named destinations out of 1000 (max. 500000)
