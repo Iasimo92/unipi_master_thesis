@@ -484,6 +484,13 @@ INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\public\kerkis\gkb7t.v
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gkb7a.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\public\kerkis\ekb8a.vf
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\ekb8r.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1pcr.fd
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1pcr.fd
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1pcr.fd
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\courier\pcrr8t.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\courier\pcrr8t.vf
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\courier\pcrr8r.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
 INPUT .\graphics\Architecture_virtualbox.PNG
 INPUT .\graphics\Architecture_virtualbox.PNG
 INPUT .\graphics\Architecture_virtualbox.PNG
@@ -877,10 +884,6 @@ INPUT .\graphics\ADD_DEVICE.png
 INPUT .\graphics\ADD_DEVICE.png
 INPUT .\graphics\ADD_DEVICE.png
 INPUT .\graphics\ADD_DEVICE.png
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1pcr.fd
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1pcr.fd
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1pcr.fd
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\courier\pcrr8t.tfm
 INPUT .\graphics\github_page.png
 INPUT .\graphics\github_page.png
 INPUT .\graphics\github_page.png
@@ -888,9 +891,6 @@ INPUT .\graphics\github_page.png
 INPUT .\graphics\github_page.png
 INPUT .\graphics\github_page.png
 INPUT .\graphics\github_page.png
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\courier\pcrr8t.vf
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\courier\pcrr8r.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
 INPUT .\sections\bibliography.tex
 INPUT .\sections\bibliography.tex
 OUTPUT sections\bibliography.aux
