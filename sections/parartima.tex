@@ -15,6 +15,36 @@
 
 \section{Οδηγός χρήσης της εφαρμογής}
 
+\section{Εκκίνηση της εφαρμογής}
+
+\subsection{Τοπικά}
+
+Προκειμένου να εκκινήσουμε την εφαρμογή τοπικά ακολουθούμε τα παρακάτω βήματα:
+
+\begin{itemize}
+    \item Βρισκόμαστε στο \en{/home path}.
+    \item Κατεβάζουμε την εφαρμογή με την εντολή \selectlanguage{english} git clone \url{https://github.com/Iasimo92/SDN_Django_framework_for_implementation_network_service_configuration_application}. \selectlanguage{greek}.
+    \item Μπαίνουμε στο φάκελο που κατεβάσαμε. Στο φάκελο αυτό βρίσκονται τα αρχεία \en{requirements.txt} και \en{manage.py}.
+    \item Τρέχουμε την εφαρμογή με την εντολή \en{python3 manage.py runserver}.
+
+\end{itemize}
+
+\subsection{\en{Docker Container}}
+
+Αφού έχει φτιαχτεί το \en{image} με βάση την εντολή \en{docker build-t djangothesis:v2} όπως περιγράφηκε στην ενότητα 8.1.1 μπορούμε να τρέξουμε την εφαρμογή με την εντολή \en{docker run}. Τα βήματα που ακολουθούνται είναι τα παρακάτω:
+
+
+\begin{itemize}
+    \item Ελέγχουμε με την εντολή \en{docker image list} ότι έχουμε το \en{image} που θέλουμε να τρέξουμε. Αυτή η εντολή φαίνεται στην εικόνα 8.5 της ενότητας 8.1.
+    \item Τρέχουμε το \en{container} με την εντολή \en{ docker run -d -p 8000:8000 --name djangothesis\_container djangothesis:v2.}
+    \item Η εφαρμογή τώρα είναι διαθέσιμη στο \en{browser} μας.
+
+\end{itemize}
+
+\subsection{\en{Access} της εφαρμογής μέσα από το \en{pod}}
+
+Ο συγκεκριμένος τρόπος εξηγείται αναλυτικά στην ενότητα 8.2.2.
+
 \subsection{Δημιουργία αντικειμένου-Προσθήκη συσκευής}
 
 Προκειμένου να μπορούμε να διαχειριστούμε συσκευή θα πρέπει να την εισάγουμε ως αντικείμενο.

@@ -456,9 +456,9 @@ INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gkb7t.
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\public\kerkis\gkb7t.vf
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gkb7a.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\ekb8a.tfm
-OUTPUT thesis.toc
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\public\kerkis\ekb8a.vf
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\ekb8r.tfm
+OUTPUT thesis.toc
 INPUT .\thesis.lof
 INPUT .\thesis.lof
 INPUT thesis.lof
