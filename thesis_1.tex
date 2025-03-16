@@ -1,0 +1,120 @@
+\documentclass[a4paper,11pt,oneside,openright]{report}
+\usepackage{listings}
+% Ams
+\usepackage{xcolor}
+
+
+
+\usepackage{amsmath, amssymb}
+\usepackage{placeins}
+\usepackage{textcomp}
+% Greek Language
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english,greek]{babel}
+\usepackage[T1]{fontenc}
+\newcommand{\en}{\foreignlanguage{english}}
+\newcommand{\el}{\foreignlanguage{greek}}
+\usepackage[autostyle=true]{csquotes}
+\usepackage{kerkis}
+\usepackage{float}
+
+% Titlepage table
+\usepackage{tabularx}
+
+
+% Geometry
+\usepackage[twoside,top=2.5cm,bottom=2.5cm,bindingoffset=1.5cm]{geometry}
+
+% Fixes list of figures spacing
+\usepackage{tocloft}
+\setlength{\cftfignumwidth}{3em}
+
+% Format
+\linespread{1.25}
+
+% Various Packages
+\usepackage{microtype}
+\usepackage{subfiles}
+\usepackage{setspace}
+\usepackage[hidelinks,unicode, breaklinks]{hyperref}
+\usepackage{bookmark}
+\usepackage{afterpage}
+
+% Use bold font in equations
+\newcommand\bmmax{0}
+\newcommand\hmmax{0}
+\usepackage{bm}
+
+% Better tables
+\usepackage{booktabs}
+
+% Header & Footer
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{}
+\fancyhead[RO,RE]{Σιμώτας Ιάσονας}
+\fancyhead[LO,LE]{Διπλωματική Εργασία}
+\fancyfoot{}
+\fancyfoot[RO,RE]{\thepage}
+\fancyfoot[LO,LE]{Ανάπτυξη Διαδικτυακής Εφαρμογής Ηλεκτρονικού Φακέλου Ασθενούς}
+\renewcommand{\headrulewidth}{0pt}
+% Images
+\usepackage{graphicx}
+\graphicspath{{graphics/}}
+\usepackage{subcaption}
+\usepackage{float}
+
+% Diagrams
+\usepackage{tikz}
+\usepackage[utf8]{inputenc}
+\usepackage{pgf-umlsd}
+
+% Bibliography
+\usepackage[
+	natbib=true,
+	backend=biber,
+	style=ieee,
+	sorting=none,
+	doi=false,
+	isbn=false,
+	url=false,
+	eprint=false,
+	language=auto,
+	autolang=other]{biblatex}
+% If you want to break on URL numbers
+\setcounter{biburlnumpenalty}{9000}
+% If you want to break on URL lower case letters
+\setcounter{biburllcpenalty}{9000}
+% If you want to break on URL UPPER CASE letters
+\setcounter{biburlucpenalty}{9000}
+
+\addbibresource{bibliography.bib}
+
+
+\usepackage{emptypage}
+
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    \newpage}
+\newcommand{\specialcell}[2][c]{\begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
+
+\begin{document}
+
+\raggedbottom
+
+\include{sections/titlepage}
+\tableofcontents
+\include{sections/acknowledgements}
+\listoffigures
+\include{sections/abstract}
+\include{sections/introduction}
+\include{sections/architecture}
+\include{sections/development}
+\include{sections/showcase}
+\include{sections/conclusion}
+
+\printbibliography
+
+\end{document}

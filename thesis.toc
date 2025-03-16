@@ -1,82 +1,86 @@
 \babel@toc {greek}{}\relax 
-\contentsline {chapter}{\numberline {1}Πρόλογος}{5}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Περίληψη}{5}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Συνοπτική Περιγραφή της Εργασίας}{5}{section.1.2}%
-\contentsline {chapter}{\numberline {2}Αναγνώριση και Ευχαριστίες}{7}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Εισαγωγή}{15}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Στόχοι του έργου}{15}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Περιγραφή προβλήματος και λύσης}{16}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Τεχνολογίες που χρησιμοποιήθηκαν και γιατί}{17}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Διάρθρωση της παρούσας εργασίας}{18}{section.3.4}%
-\contentsline {chapter}{\numberline {4}Θεωρητικό υπόβαθρο}{19}{chapter.4}%
-\contentsline {section}{\numberline {4.1}\foreignlanguage {english}{Web Framework} και Βασικές Τεχνολογίες Ανάπτυξης}{19}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}\foreignlanguage {english}{Django Framework}}{19}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Διαχείρηση εκδόσεων (\foreignlanguage {english}{Version Control}) με \foreignlanguage {english}{Git} και \foreignlanguage {english}{GitHub} }{19}{subsection.4.1.2}%
-\contentsline {section}{\numberline {4.2}Αυτοματοποίηση Δικτύων και Διασύνδεση με Δικτυακές Συσκευές}{20}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Αυτοματοποίηση Διαχείρησης Δικτύου}{20}{subsection.4.2.1}%
+\contentsline {chapter}{\numberline {1}Περίληψη}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Περίληψη}{1}{section.1.1}%
 \babel@toc {english}{}\relax 
 \babel@toc {greek}{}\relax 
-\contentsline {section}{\numberline {4.3}Βιβλιοθήκες της \foreignlanguage {english}{Python} για \foreignlanguage {english}{Network automation}}{21}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}\foreignlanguage {english}{Paramiko}}{21}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}\foreignlanguage {english}{Netmiko}}{21}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}\foreignlanguage {english}{Napalm}}{22}{subsection.4.3.3}%
-\contentsline {subsection}{\numberline {4.3.4}\foreignlanguage {english}{Cisco IOS} και \foreignlanguage {english}{REST APIs} για Δικτυακές Συσκευές της \foreignlanguage {english}{Cisco} }{22}{subsection.4.3.4}%
-\contentsline {section}{\numberline {4.4}\foreignlanguage {english}{Devops} και Διαδικασίες Αυτοματισμού}{23}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Συνεχής Ενσωμάτωση και Παράδοση (\foreignlanguage {english}{CI/CD}) }{23}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}\foreignlanguage {english}{Containers} και \foreignlanguage {english}{Docker}}{24}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}\foreignlanguage {english}{Kubernetes} και \foreignlanguage {english}{Container Orchestration}}{24}{subsection.4.4.3}%
-\contentsline {section}{\numberline {4.5}Προσομοίωση και Εικονικά Περιβάλλοντα}{24}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}\foreignlanguage {english}{GNS3} και Εικονικά Δίκτυα}{24}{subsection.4.5.1}%
-\contentsline {subsection}{\numberline {4.5.2}Πρόγραμμα εικονοποίησης για το \foreignlanguage {english}{GNS3 VM-VirtualBox}}{25}{subsection.4.5.2}%
-\contentsline {chapter}{\numberline {5}Σχεδίαση και Ανάλυση}{29}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Απαιτήσεις Εφαρμογής Διαχείρισης Δικτύου.}{29}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Λειτουργικές απαιτήσεις}{29}{subsection.5.1.1}%
-\contentsline {section}{\numberline {5.2}Αρχιτεκτονική της εφαρμογής}{30}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Μοντέλο \foreignlanguage {english}{MVC} (\foreignlanguage {english}{Model-View-Controller})}{30}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}\foreignlanguage {english}{Django MTV} }{31}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Χρήση του \foreignlanguage {english}{MTV} στην εφαρμογή}{31}{subsection.5.2.3}%
-\contentsline {section}{\numberline {5.3}Εικονικό Περιβάλλον Δικτύου \foreignlanguage {english}{GNS3 –Testbed}}{33}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}Σχεδίαση Τοπολογίας Δικτύου}{34}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}Προσομοίωση Συσκευών \foreignlanguage {english}{Cisco}}{39}{subsection.5.3.2}%
-\contentsline {chapter}{\numberline {6}Υλοποίηση της εφαρμογης}{45}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Ανάπτυξη με το \foreignlanguage {english}{Django framework}}{45}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Δημιουργία \foreignlanguage {english}{Models}}{45}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}\foreignlanguage {english}{Views} και \foreignlanguage {english}{Urls}}{46}{subsection.6.1.2}%
-\contentsline {subsection}{\numberline {6.1.3}\foreignlanguage {english}{User Interface (Templates)}}{47}{subsection.6.1.3}%
-\contentsline {section}{\numberline {6.2}\foreignlanguage {english}{REST API Integration} και διασύνδεση με το \foreignlanguage {english}{SSH protocol}}{48}{section.6.2}%
-\contentsline {chapter}{\numberline {7}Επίδειξη της εφαρμογής(\foreignlanguage {english}{Application Demo})}{51}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Εισαγωγή-Η λογική της λειτουργίας της εφαρμογής \foreignlanguage {english}{Django}}{51}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Η αρχική σελίδα της εφαρμογής}{52}{section.7.2}%
-\contentsline {section}{\numberline {7.3}\foreignlanguage {english}{Devices}}{54}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Στατιστικά της συσκευής}{56}{section.7.4}%
-\contentsline {section}{\numberline {7.5}Στατιστικά της διεπαφής}{58}{section.7.5}%
-\contentsline {section}{\numberline {7.6}\foreignlanguage {english}{Backup} της συσκευής}{59}{section.7.6}%
-\contentsline {section}{\numberline {7.7}Διαμόρφωση διεύθυνσης \foreignlanguage {english}{IP}}{60}{section.7.7}%
-\contentsline {chapter}{\numberline {8}\foreignlanguage {english}{Containerization} και \foreignlanguage {english}{Deployment} }{63}{chapter.8}%
-\contentsline {section}{\numberline {8.1}\foreignlanguage {english}{Containerization} με \foreignlanguage {english}{Docker}}{63}{section.8.1}%
-\contentsline {subsection}{\numberline {8.1.1}Δημιουργία \foreignlanguage {english}{Docker Image}}{63}{subsection.8.1.1}%
-\contentsline {section}{\numberline {8.2}\foreignlanguage {english}{Deployment} με \foreignlanguage {english}{Kubernetes}}{66}{section.8.2}%
-\contentsline {subsection}{\numberline {8.2.1}Δημιουργία \foreignlanguage {english}{Kubernetes manifest files}}{68}{subsection.8.2.1}%
-\contentsline {subsection}{\numberline {8.2.2}Πρόσβαση στο \foreignlanguage {english}{Django pod}}{69}{subsection.8.2.2}%
-\contentsline {section}{\numberline {8.3}\foreignlanguage {english}{Use cases} με \foreignlanguage {english}{Kubernetes}}{71}{section.8.3}%
-\contentsline {chapter}{\numberline {9}Συμπέρασματα και Μελλοντική Εργασία}{73}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Συμπεράσματα}{73}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Προκλήσεις και Μαθήματα}{73}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Μελλοντική Εργασία και Επέκταση Λειτουργικότητας}{74}{section.9.3}%
-\contentsline {chapter}{\numberline {10}Παράρτημα}{75}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Σχεδίαση και Διάγραμμα τοπολογίας δικτύου}{75}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Οδηγός χρήσης της εφαρμογής}{75}{section.10.2}%
-\contentsline {section}{\numberline {10.3}Εκκίνηση της εφαρμογής}{75}{section.10.3}%
-\contentsline {subsection}{\numberline {10.3.1}Τοπικά}{75}{subsection.10.3.1}%
+\babel@toc {greek}{}\relax 
+\babel@toc {greek}{}\relax 
+\contentsline {section}{\numberline {1.2}Συνοπτική Περιγραφή της Εργασίας}{2}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Αναγνώριση και Ευχαριστίες}{3}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Εισαγωγή}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Στόχοι του έργου}{11}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Περιγραφή προβλήματος και λύσης}{12}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Τεχνολογίες που χρησιμοποιήθηκαν και γιατί}{13}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Διάρθρωση της παρούσας εργασίας}{13}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Θεωρητικό υπόβαθρο}{15}{chapter.4}%
+\contentsline {section}{\numberline {4.1}\foreignlanguage {english}{Web Framework} και Βασικές Τεχνολογίες Ανάπτυξης}{15}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}\foreignlanguage {english}{Django Framework}}{15}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Διαχείρηση εκδόσεων (\foreignlanguage {english}{Version Control}) με \foreignlanguage {english}{Git} και \foreignlanguage {english}{GitHub} }{15}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Αυτοματοποίηση Δικτύων και Διασύνδεση με Δικτυακές Συσκευές}{16}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Αυτοματοποίηση Διαχείρησης Δικτύου}{16}{subsection.4.2.1}%
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\contentsline {section}{\numberline {4.3}Βιβλιοθήκες της \foreignlanguage {english}{Python} για \foreignlanguage {english}{Network automation}}{17}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}\foreignlanguage {english}{Paramiko}}{17}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}\foreignlanguage {english}{Netmiko}}{17}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}\foreignlanguage {english}{Napalm}}{17}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}\foreignlanguage {english}{Cisco IOS} και \foreignlanguage {english}{REST APIs} για Δικτυακές Συσκευές της \foreignlanguage {english}{Cisco} }{18}{subsection.4.3.4}%
+\contentsline {section}{\numberline {4.4}\foreignlanguage {english}{Devops} και Διαδικασίες Αυτοματισμού}{19}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Συνεχής Ενσωμάτωση και Παράδοση (\foreignlanguage {english}{CI/CD}) }{19}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}\foreignlanguage {english}{Containers} και \foreignlanguage {english}{Docker}}{19}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}\foreignlanguage {english}{Kubernetes} και \foreignlanguage {english}{Container Orchestration}}{20}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}Προσομοίωση και Εικονικά Περιβάλλοντα}{20}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}\foreignlanguage {english}{GNS3} και Εικονικά Δίκτυα}{20}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Πρόγραμμα εικονοποίησης για το \foreignlanguage {english}{GNS3 VM-VirtualBox}}{20}{subsection.4.5.2}%
+\contentsline {chapter}{\numberline {5}Σχεδίαση και Ανάλυση}{25}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Απαιτήσεις Εφαρμογής Διαχείρισης Δικτύου.}{25}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Λειτουργικές απαιτήσεις}{25}{subsection.5.1.1}%
+\contentsline {section}{\numberline {5.2}Αρχιτεκτονική της εφαρμογής}{26}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Μοντέλο \foreignlanguage {english}{MVC} (\foreignlanguage {english}{Model-View-Controller})}{26}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}\foreignlanguage {english}{Django MTV} }{27}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Χρήση του \foreignlanguage {english}{MTV} στην εφαρμογή}{27}{subsection.5.2.3}%
+\contentsline {section}{\numberline {5.3}Εικονικό Περιβάλλον Δικτύου \foreignlanguage {english}{GNS3 –Testbed}}{28}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Σχεδίαση Τοπολογίας Δικτύου}{29}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Προσομοίωση Συσκευών \foreignlanguage {english}{Cisco}}{34}{subsection.5.3.2}%
+\contentsline {chapter}{\numberline {6}Υλοποίηση της εφαρμογης}{39}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Ανάπτυξη με το \foreignlanguage {english}{Django framework}}{39}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Δημιουργία \foreignlanguage {english}{Models}}{39}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}\foreignlanguage {english}{Views} και \foreignlanguage {english}{Urls}}{40}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}\foreignlanguage {english}{User Interface (Templates)}}{41}{subsection.6.1.3}%
+\contentsline {section}{\numberline {6.2}\foreignlanguage {english}{REST API Integration} και διασύνδεση με το \foreignlanguage {english}{SSH protocol}}{42}{section.6.2}%
+\contentsline {chapter}{\numberline {7}Επίδειξη της εφαρμογής(\foreignlanguage {english}{Application Demo})}{45}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Εισαγωγή-Η λογική της λειτουργίας της εφαρμογής \foreignlanguage {english}{Django}}{45}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Η αρχική σελίδα της εφαρμογής}{46}{section.7.2}%
+\contentsline {section}{\numberline {7.3}\foreignlanguage {english}{Devices}}{47}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Στατιστικά της συσκευής}{49}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Στατιστικά της διεπαφής}{51}{section.7.5}%
+\contentsline {section}{\numberline {7.6}\foreignlanguage {english}{Backup} της συσκευής}{52}{section.7.6}%
+\contentsline {section}{\numberline {7.7}Διαμόρφωση διεύθυνσης \foreignlanguage {english}{IP}}{53}{section.7.7}%
+\contentsline {chapter}{\numberline {8}\foreignlanguage {english}{Containerization} και \foreignlanguage {english}{Deployment} }{57}{chapter.8}%
+\contentsline {section}{\numberline {8.1}\foreignlanguage {english}{Containerization} με \foreignlanguage {english}{Docker}}{57}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Δημιουργία \foreignlanguage {english}{Docker Image}}{57}{subsection.8.1.1}%
+\contentsline {section}{\numberline {8.2}\foreignlanguage {english}{Deployment} με \foreignlanguage {english}{Kubernetes}}{60}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Δημιουργία \foreignlanguage {english}{Kubernetes manifest files}}{61}{subsection.8.2.1}%
+\contentsline {subsection}{\numberline {8.2.2}Πρόσβαση στο \foreignlanguage {english}{Django pod}}{63}{subsection.8.2.2}%
+\contentsline {section}{\numberline {8.3}\foreignlanguage {english}{Use cases} με \foreignlanguage {english}{Kubernetes}}{64}{section.8.3}%
+\contentsline {chapter}{\numberline {9}Συμπέρασματα και Μελλοντική Εργασία}{67}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Συμπεράσματα}{67}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Προκλήσεις και Μαθήματα}{67}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Μελλοντική Εργασία και Επέκταση Λειτουργικότητας}{68}{section.9.3}%
+\contentsline {chapter}{\numberline {10}Παράρτημα}{69}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Σχεδίαση και Διάγραμμα τοπολογίας δικτύου}{69}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Οδηγός χρήσης της εφαρμογής}{69}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Εκκίνηση της εφαρμογής}{69}{section.10.3}%
+\contentsline {subsection}{\numberline {10.3.1}Τοπικά}{69}{subsection.10.3.1}%
 \babel@toc {english}{}\relax 
 \babel@toc {greek}{}\relax 
 \babel@toc {english}{}\relax 
 \babel@toc {greek}{}\relax 
-\contentsline {subsection}{\numberline {10.3.2}\foreignlanguage {english}{Docker Container}}{76}{subsection.10.3.2}%
-\contentsline {subsection}{\numberline {10.3.3}\foreignlanguage {english}{Access} της εφαρμογής μέσα από το \foreignlanguage {english}{pod}}{76}{subsection.10.3.3}%
-\contentsline {subsection}{\numberline {10.3.4}Δημιουργία αντικειμένου-Προσθήκη συσκευής}{76}{subsection.10.3.4}%
-\contentsline {section}{\numberline {10.4}Κώδικας}{77}{section.10.4}%
+\contentsline {subsection}{\numberline {10.3.2}\foreignlanguage {english}{Docker Container}}{70}{subsection.10.3.2}%
+\contentsline {subsection}{\numberline {10.3.3}\foreignlanguage {english}{Access} της εφαρμογής μέσα από το \foreignlanguage {english}{pod}}{70}{subsection.10.3.3}%
+\contentsline {subsection}{\numberline {10.3.4}Δημιουργία αντικειμένου-Προσθήκη συσκευής}{70}{subsection.10.3.4}%
+\contentsline {section}{\numberline {10.4}Κώδικας}{71}{section.10.4}%
 \babel@toc {english}{}\relax 
 \babel@toc {greek}{}\relax 
-\contentsline {chapter}{\numberline {11}Βιβλιογραφία}{79}{chapter.11}%
-\contentsline {section}{\numberline {11.1}Βιβλιογραφίκές αναφορές}{79}{section.11.1}%
+\contentsline {chapter}{\numberline {11}Βιβλιογραφία}{73}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Βιβλιογραφίκές αναφορές}{73}{section.11.1}%
