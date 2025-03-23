@@ -381,6 +381,8 @@ INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xp
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\emptypage\emptypage.sty
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\emptypage\emptypage.sty
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\kerkis\t1maksf.fd
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\kerkis\t1maksf.fd
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\kerkis\t1maksf.fd
@@ -532,10 +534,11 @@ INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symb
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksf7t.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksfsc7t.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksf7t.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\public\kerkis\gksfsc7t.vf
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksfsc7a.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\eksf8a.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\public\kerkis\gksf7t.vf
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksf7a.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\public\kerkis\gksfsc7t.vf
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksfsc7a.tfm
 INPUT .\sections\copyright.tex
 INPUT .\sections\copyright.tex
 OUTPUT sections\copyright.aux
@@ -555,13 +558,8 @@ INPUT sections\abstract.tex
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksf7t.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksfb7t.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksfb7t.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksfb7t.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\eksf8a.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\eksfb8a.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\public\kerkis\gksfb7t.vf
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksfb7a.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\public\kerkis\gksfb7t.vf
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksfb7a.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\public\kerkis\gksfb7t.vf
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksfb7a.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\public\kerkis\gksfb7t.vf
@@ -593,6 +591,11 @@ OUTPUT sections\theoritiko_upovathro.aux
 INPUT .\sections\theoritiko_upovathro.tex
 INPUT .\sections\theoritiko_upovathro.tex
 INPUT sections\theoritiko_upovathro.tex
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksf7t.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksfb7t.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\eksfb8a.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\public\kerkis\gksfb7t.vf
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksfb7a.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1pcr.fd
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1pcr.fd
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1pcr.fd
@@ -607,10 +610,6 @@ INPUT .\graphics\Architecture_virtualbox.PNG
 INPUT .\graphics\Architecture_virtualbox.PNG
 INPUT .\graphics\Architecture_virtualbox.PNG
 INPUT .\graphics\Architecture_virtualbox.PNG
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksfb7t.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\eksfb8a.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\public\kerkis\gksfb7t.vf
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksfb7a.tfm
 INPUT .\graphics\virtualization_architecture.PNG
 INPUT .\graphics\virtualization_architecture.PNG
 INPUT .\graphics\virtualization_architecture.PNG
@@ -811,7 +810,6 @@ OUTPUT sections\application_demo.aux
 INPUT .\sections\application_demo.tex
 INPUT .\sections\application_demo.tex
 INPUT sections\application_demo.tex
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\eksfb8a.tfm
 INPUT .\graphics\firstPage.png
 INPUT .\graphics\firstPage.png
 INPUT .\graphics\firstPage.png

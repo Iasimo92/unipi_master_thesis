@@ -3,11 +3,11 @@
 % Ams
 \usepackage{xcolor}
 \usepackage{graphicx}
-\usepackage[labelfont=bf,labelsep=period,justification=raggedright]{caption}
+\usepackage[labelfont=bf,labelsep=period,justification=raggedright,font={sf,bf,small}]{caption}
 \usepackage[scaled]{helvet}  % Χρήση Helvetica αντί για Arial
 \renewcommand{\familydefault}{\sfdefault}  % Ορίζει προεπιλεγμένη sans-serif γραμματοσειρά
-
-\captionsetup{font={sf,bf,footnotesize}}  
+\usepackage{caption}
+\captionsetup{font={sf,bf,small}, labelfont={bf}, justification=raggedright, singlelinecheck=false}    % Arial Bold 9pt, αριστερή στοίχιση
 \usepackage{amsmath, amssymb}
 \usepackage{placeins}
 \usepackage{textcomp}
@@ -25,13 +25,14 @@
 % Titlepage table
 \usepackage{tabularx}
 
-
 % Geometry
 \usepackage[twoside,top=2.5cm,bottom=2.5cm,bindingoffset=1.5cm]{geometry}
 
 % Fixes list of figures spacing
 \usepackage{tocloft}
 \setlength{\cftfignumwidth}{3em}
+\renewcommand{\cfttoctitlefont}{\fontsize{11pt}{13pt}\selectfont\bfseries}
+\renewcommand{\cftloftitlefont}{\fontsize{11pt}{13pt}\selectfont\bfseries}
 
 % Format
 \linespread{1.25}
@@ -56,21 +57,20 @@
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhead{}
-\fancyhead[RO,RE]{Σιμώτας Ιάσονας}
-\fancyhead[LO,LE]{Διπλωματική Εργασία}
+\fancyhead[RO,RE]{\fontsize{8pt}{10pt}\selectfont Σιμώτας Ιάσονας}
+\fancyhead[LO,LE]{\fontsize{8pt}{10pt}\selectfont Διπλωματική Εργασία}
 \fancyfoot{}
-\fancyfoot[RO,RE]{\thepage}
-\fancyfoot[LO,LE]{Ανάπτυξη Εφαρμογής για παραμετροποίηση δικτύου με το \en {Django Framework}}
+\fancyfoot[RO,RE]{\fontsize{8pt}{10pt}\selectfont \thepage}
+\fancyfoot[LO,LE]{\fontsize{8pt}{10pt}\selectfont Ανάπτυξη Εφαρμογής για παραμετροποίηση δικτύου με το \en {Django Framework}}
 \renewcommand{\headrulewidth}{0pt}
 \fancypagestyle{plain}{
-	\fancypagestyle{plain}{
     \fancyhf{} % Clear all headers and footers
-    \fancyfoot[RO,RE]{\thepage}
-	\fancyfoot[LO,LE]{Ανάπτυξη Εφαρμογής για παραμετροποίηση δικτύου με το \en {Django Framework}}
+    \fancyfoot[RO,RE]{\fontsize{8pt}{10pt}\selectfont \thepage}
+    \fancyfoot[LO,LE]{\fontsize{8pt}{10pt}\selectfont Ανάπτυξη Εφαρμογής για παραμετροποίηση δικτύου με το \en {Django Framework}}
     \renewcommand{\headrulewidth}{0pt}
     \renewcommand{\footrulewidth}{0.4pt}
 }
-}
+
 % Images
 \usepackage{graphicx}
 \graphicspath{{graphics/}}
@@ -84,16 +84,16 @@
 
 % Bibliography
 \usepackage[
-	natbib=true,
-	backend=biber,
-	style=ieee,
-	sorting=none,
-	doi=false,
-	isbn=false,
-	url=false,
-	eprint=false,
-	language=auto,
-	autolang=other]{biblatex}
+    natbib=true,
+    backend=biber,
+    style=ieee,
+    sorting=none,
+    doi=false,
+    isbn=false,
+    url=false,
+    eprint=false,
+    language=auto,
+    autolang=other]{biblatex}
 % If you want to break on URL numbers
 \setcounter{biburlnumpenalty}{9000}
 % If you want to break on URL lower case letters
@@ -103,7 +103,6 @@
 
 \addbibresource{bibliography.bib}
 
-
 \usepackage{emptypage}
 
 \newcommand\blankpage{%
@@ -111,6 +110,12 @@
     \thispagestyle{empty}%
     \newpage}
 \newcommand{\specialcell}[2][c]{\begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
+
+% Customizing section fonts
+\usepackage{titlesec}
+\titleformat{\chapter}{\fontsize{12pt}{14pt}\selectfont\bfseries}{\thechapter}{1em}{}
+\titleformat{\section}{\fontsize{11pt}{13pt}\selectfont\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\fontsize{10pt}{12pt}\selectfont\bfseries}{\thesubsection}{1em}{}
 
 \begin{document}
 
