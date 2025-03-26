@@ -117,6 +117,10 @@ INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\kerkis\kerkis.sty
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\kerkis\kerkis.sty
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\greek-fontenc\alphabeta.sty
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\greek-fontenc\alphabeta.sty
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\greek-fontenc\textalpha.sty
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\greek-fontenc\textalpha.sty
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
@@ -555,13 +559,12 @@ OUTPUT sections\abstract.aux
 INPUT .\sections\abstract.tex
 INPUT .\sections\abstract.tex
 INPUT sections\abstract.tex
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksf7t.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksfb7t.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksfb7t.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\eksf8a.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\eksfb8a.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksfb7t.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\public\kerkis\gksfb7t.vf
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksfb7a.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksf7t.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksfb7t.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\public\kerkis\gksfb7t.vf
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksfb7a.tfm
 INPUT .\sections\thanks.tex
@@ -573,7 +576,6 @@ INPUT sections\thanks.tex
 INPUT .\thesis.toc
 INPUT .\thesis.toc
 INPUT thesis.toc
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\eksfb8a.tfm
 OUTPUT thesis.toc
 INPUT .\thesis.lof
 INPUT .\thesis.lof
@@ -591,6 +593,7 @@ OUTPUT sections\theoritiko_upovathro.aux
 INPUT .\sections\theoritiko_upovathro.tex
 INPUT .\sections\theoritiko_upovathro.tex
 INPUT sections\theoritiko_upovathro.tex
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\eksfb8a.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksf7t.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\gksfb7t.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\kerkis\eksfb8a.tfm
