@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  14 APR 2025 00:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  14 APR 2025 00:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2377,21 +2377,14 @@ Overfull \hbox (21.9576pt too wide) in paragraph at lines 9--10
 []\T1/maksf/m/n/10.95 (-20) https://www.ericsson.com/en/portfolio/cloud-software-and-services/network-management-
  []
 
-
+)
 
 [69
 
 
 
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
-[]\T1/maksf/m/n/10.95 (-5) https://medium.com/@komalminhas.96/a-step-by-step-guide-to-build-and-push-your-
- []
-
-)
-
-[70] (thesis.aux (sections/titlepage.aux) (sections/approvalpage.aux) (sections/copyright.aux) (sections/abstract.aux) (sections/thanks.aux) (sections/sample_chapter.aux) (sections/theoritiko_upovathro.aux) (sections/sxediasi_analusi.aux) (sections/ulopoisi_tis_efarmogis.aux) (sections/application_demo.aux) (sections/kubernetes_section.aux) (sections/suberasma.aux) (sections/parartima.aux) (sections/bibliography.aux))
+] (thesis.aux (sections/titlepage.aux) (sections/approvalpage.aux) (sections/copyright.aux) (sections/abstract.aux) (sections/thanks.aux) (sections/sample_chapter.aux) (sections/theoritiko_upovathro.aux) (sections/sxediasi_analusi.aux) (sections/ulopoisi_tis_efarmogis.aux) (sections/application_demo.aux) (sections/kubernetes_section.aux) (sections/suberasma.aux) (sections/parartima.aux) (sections/bibliography.aux))
  ***********
 LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
@@ -2405,17 +2398,17 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40651 strings out of 473920
- 776247 string characters out of 5727446
+ 40650 strings out of 473920
+ 776240 string characters out of 5727446
  1942908 words of memory out of 5000000
  62515 multiletter control sequences out of 15000+600000
  589972 words of font info for 132 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,13n,93p,1888b,3177s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/KerkisSans-Bold.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/KerkisSans-Italic.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/KerkisSans-SmallCaps.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/KerkisSans.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on thesis.pdf (74 pages, 4605608 bytes).
+Output written on thesis.pdf (73 pages, 4603749 bytes).
 PDF statistics:
- 1011 PDF objects out of 1200 (max. 8388607)
- 198 named destinations out of 1000 (max. 500000)
+ 1007 PDF objects out of 1200 (max. 8388607)
+ 197 named destinations out of 1000 (max. 500000)
  17849 words of extra memory for PDF output out of 20736 (max. 10000000)
 
