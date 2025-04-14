@@ -11,16 +11,16 @@
 \babel@toc {greek}{}\relax 
 \contentsline {figure}{\numberline {4.1}{\ignorespaces \foreignlanguage {english}{Virtualization} Γενική αρχιτεκτονική}}{19}{figure.caption.1}%
 \contentsline {figure}{\numberline {4.2}{\ignorespaces \foreignlanguage {english}{Virtualization} αρχιτεκτονική που ακολουθήθηκε στην εφαρμογή}}{20}{figure.caption.2}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces \foreignlanguage {english}{Virtualbox} }}{20}{figure.caption.3}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Εφαρμογή \foreignlanguage {english}{Virtualbox} }}{20}{figure.caption.3}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {5.1}{\ignorespaces \foreignlanguage {english}{MVC} μοντέλο}}{23}{figure.caption.4}%
 \contentsline {figure}{\numberline {5.2}{\ignorespaces Διαγραμματική απεικόνιση της εφαρμογής}}{24}{figure.caption.5}%
 \contentsline {figure}{\numberline {5.3}{\ignorespaces \foreignlanguage {english}{Local PC-GNS3VM-CISCO IOS Connection Architecture} }}{26}{figure.caption.6}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces \foreignlanguage {english}{CLOUD NODE With CISCO Node Connection} }}{27}{figure.caption.7}%
-\contentsline {figure}{\numberline {5.5}{\ignorespaces \foreignlanguage {english}{CLOUD NODE Configuration} }}{27}{figure.caption.8}%
-\contentsline {figure}{\numberline {5.6}{\ignorespaces \foreignlanguage {english}{GNS3 VM} κάρτα δικτύου }}{28}{figure.caption.9}%
-\contentsline {figure}{\numberline {5.7}{\ignorespaces \foreignlanguage {english}{GNS3 VM} δίκτυο }}{28}{figure.caption.10}%
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Κάρτα δικτύου στο \foreignlanguage {english}{Windows} λειτουργικό}}{29}{figure.caption.11}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces \foreignlanguage {english}{CLOUD NODE With CISCO Router Device Point to Point Connection} }}{27}{figure.caption.7}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces \foreignlanguage {english}{CLOUD NODE Network Interface Configuration} }}{27}{figure.caption.8}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces \foreignlanguage {english}{GNS3 VM} κάρτα δικτύου-Γεφυρωμένη κάρτα }}{28}{figure.caption.9}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Προσαρμογέας δικτύου για την εικονική μηχανή \foreignlanguage {english}{GNS3 VM}}}{28}{figure.caption.10}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Διεπαφή δικτύου στο περιβάλλον των \foreignlanguage {english}{Windows}}}{29}{figure.caption.11}%
 \contentsline {figure}{\numberline {5.9}{\ignorespaces Παραμετροποίηση στη δικτυακή συσκευή}}{29}{figure.caption.12}%
 \contentsline {figure}{\numberline {5.10}{\ignorespaces Κατανομή \foreignlanguage {english}{IP} διευθύνσης}}{29}{figure.caption.13}%
 \contentsline {figure}{\numberline {5.11}{\ignorespaces \foreignlanguage {english}{IP connectivity test}}}{30}{figure.caption.14}%
@@ -31,39 +31,39 @@
 \contentsline {figure}{\numberline {5.16}{\ignorespaces \foreignlanguage {english}{Browse Devices} }}{33}{figure.caption.19}%
 \contentsline {figure}{\numberline {5.17}{\ignorespaces \foreignlanguage {english}{ssh and credentials requirements} }}{34}{figure.caption.20}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Μοντέλα}}{35}{figure.caption.21}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces \foreignlanguage {english}{urls.py} }}{36}{figure.caption.22}%
-\contentsline {figure}{\numberline {6.3}{\ignorespaces \foreignlanguage {english}{views.py} }}{37}{figure.caption.23}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Μοντέλα συσκευών}}{35}{figure.caption.21}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Αρχείο \foreignlanguage {english}{urls.py} }}{36}{figure.caption.22}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Αρχείο \foreignlanguage {english}{views.py} }}{37}{figure.caption.23}%
 \contentsline {figure}{\numberline {6.4}{\ignorespaces Παράδειγμα \foreignlanguage {english}{html} αρχείου }}{38}{figure.caption.24}%
 \contentsline {figure}{\numberline {6.5}{\ignorespaces Παράδειγμα \foreignlanguage {english}{wireshark} }}{39}{figure.caption.25}%
 \contentsline {figure}{\numberline {6.6}{\ignorespaces Παράδειγμα \foreignlanguage {english}{wireshark} }}{39}{figure.caption.26}%
-\contentsline {figure}{\numberline {6.7}{\ignorespaces Απάντηση συσκευής}}{40}{figure.caption.27}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Εμφάνιση απάντησης συσκευής τυπωμένη στο τερματικό}}{40}{figure.caption.27}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1}{\ignorespaces \foreignlanguage {english}{firstPage} συνάρτηση}}{41}{figure.caption.28}%
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Σνάρτηση \foreignlanguage {english}{firstPage} στο αρχείο \foreignlanguage {english}{views.py} }}{41}{figure.caption.28}%
 \contentsline {figure}{\numberline {7.2}{\ignorespaces \foreignlanguage {english}{Urls} δρομολόγηση για την αρχική σελίδα.}}{41}{figure.caption.29}%
 \contentsline {figure}{\numberline {7.3}{\ignorespaces \foreignlanguage {english}{Urls.py} αρχείο}}{42}{figure.caption.30}%
-\contentsline {figure}{\numberline {7.4}{\ignorespaces \foreignlanguage {english}{Django run server}}}{42}{figure.caption.31}%
-\contentsline {figure}{\numberline {7.5}{\ignorespaces Αρχική Σελίδα}}{43}{figure.caption.32}%
-\contentsline {figure}{\numberline {7.6}{\ignorespaces Αρχικοποίηση συσκευής}}{43}{figure.caption.33}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Έξοδος τερματικού κατά την εκκίνηση του \foreignlanguage {english}{Django server}}}{42}{figure.caption.31}%
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Αρχική Σελίδα της εφαρμογής}}{43}{figure.caption.32}%
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Αρχικοποίηση της συσκευής μέσω της κλάσης \foreignlanguage {english}{Device}}}{43}{figure.caption.33}%
 \contentsline {figure}{\numberline {7.7}{\ignorespaces \foreignlanguage {english}{Controller-Device Interfaces}}}{44}{figure.caption.34}%
-\contentsline {figure}{\numberline {7.8}{\ignorespaces \foreignlanguage {english}{Interfaces}}}{45}{figure.caption.35}%
+\contentsline {figure}{\numberline {7.8}{\ignorespaces \foreignlanguage {english}{Interfaces status}}}{45}{figure.caption.35}%
 \contentsline {figure}{\numberline {7.9}{\ignorespaces Στατιστικά Συσκευής}}{46}{figure.caption.36}%
 \contentsline {figure}{\numberline {7.10}{\ignorespaces Στατιστικά Συσκευής}}{47}{figure.caption.37}%
 \contentsline {figure}{\numberline {7.11}{\ignorespaces Στατιστικά διεπαφής αρχική σελίδα}}{48}{figure.caption.38}%
 \contentsline {figure}{\numberline {7.12}{\ignorespaces Στατιστικά διεπαφής}}{48}{figure.caption.39}%
 \contentsline {figure}{\numberline {7.13}{\ignorespaces \foreignlanguage {english}{Get Backup of Running config}}}{49}{figure.caption.40}%
-\contentsline {figure}{\numberline {7.14}{\ignorespaces Τρέχων Διαμόρφωση}}{49}{figure.caption.41}%
-\contentsline {figure}{\numberline {7.15}{\ignorespaces \foreignlanguage {english}{IP}Διαμόρφωση}}{50}{figure.caption.42}%
-\contentsline {figure}{\numberline {7.16}{\ignorespaces \foreignlanguage {english}{IP configuration Success}}}{50}{figure.caption.43}%
-\contentsline {figure}{\numberline {7.17}{\ignorespaces \foreignlanguage {english}{IP} Διαφορά}}{51}{figure.caption.44}%
+\contentsline {figure}{\numberline {7.14}{\ignorespaces Επιστροφή Τρέχων Διαμόρφωση}}{49}{figure.caption.41}%
+\contentsline {figure}{\numberline {7.15}{\ignorespaces \foreignlanguage {english}{IP} Διαμόρφωση}}{50}{figure.caption.42}%
+\contentsline {figure}{\numberline {7.16}{\ignorespaces Επιστροφή επιβεβαίωσης επιτυχούς ρύθμισης IP}}{50}{figure.caption.43}%
+\contentsline {figure}{\numberline {7.17}{\ignorespaces Μεταβολή της \foreignlanguage {english}{IP} διεύθυνσης λόγω διαμόρφωσης}}{51}{figure.caption.44}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {8.1}{\ignorespaces \foreignlanguage {english}{Dockerfile}}}{54}{figure.caption.45}%
 \contentsline {figure}{\numberline {8.2}{\ignorespaces \foreignlanguage {english}{Docker build}-Δημιουργία του κοντεινερ}}{55}{figure.caption.46}%
 \contentsline {figure}{\numberline {8.3}{\ignorespaces \foreignlanguage {english}{Dockerfile Path}}}{55}{figure.caption.47}%
-\contentsline {figure}{\numberline {8.4}{\ignorespaces \foreignlanguage {english}{requirements.txt}}}{56}{figure.caption.48}%
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Αρχείο \foreignlanguage {english}{requirements.txt}}}{56}{figure.caption.48}%
 \contentsline {figure}{\numberline {8.5}{\ignorespaces \foreignlanguage {english}{Docker image list}}}{56}{figure.caption.49}%
 \contentsline {figure}{\numberline {8.6}{\ignorespaces \foreignlanguage {english}{Minikube deployment}}}{58}{figure.caption.50}%
-\contentsline {figure}{\numberline {8.7}{\ignorespaces \foreignlanguage {english}{Spec}}}{58}{figure.caption.51}%
+\contentsline {figure}{\numberline {8.7}{\ignorespaces \foreignlanguage {english}{Spec} του \foreignlanguage {english}{YAML file}}}{58}{figure.caption.51}%
 \contentsline {figure}{\numberline {8.8}{\ignorespaces \foreignlanguage {english}{Manifest for Django pod}}}{59}{figure.caption.52}%
 \contentsline {figure}{\numberline {8.9}{\ignorespaces Πρόσβαση στο \foreignlanguage {english}{Django pod} μέσα από τη λειτουργία \foreignlanguage {english}{Port forward}}}{60}{figure.caption.53}%
 \contentsline {figure}{\numberline {8.10}{\ignorespaces \foreignlanguage {english}{Deployment yaml for Django pod} }}{61}{figure.caption.54}%
