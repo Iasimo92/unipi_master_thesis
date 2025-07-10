@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  12 JUN 2025 18:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.17)  10 JUL 2025 15:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1546,26 +1546,62 @@ Package biblatex Info: Reference segment=0 on input line 122.
 \openout2 = `sections/titlepage.aux'.
 
  (sections/titlepage.tex
-<graphics/unipi (1).jpg, id=30, 886.57986pt x 317.58084pt>
-File: graphics/unipi (1).jpg Graphic file (type jpg)
-<use graphics/unipi (1).jpg>
-Package pdftex.def Info: graphics/unipi (1).jpg  used on input line 5.
-(pdftex.def)             Requested size: 213.60931pt x 76.51654pt.
+<graphics/unipi.png, id=30, 242.70676pt x 275.22826pt>
+File: graphics/unipi.png Graphic file (type png)
+<use graphics/unipi.png>
+Package pdftex.def Info: graphics/unipi.png  used on input line 5.
+(pdftex.def)             Requested size: 77.67448pt x 88.08324pt.
 LaTeX Font Info:    Font shape `LGR/maksf/m/n' will be
 (Font)              scaled to size 22.39185pt on input line 6.
 LaTeX Font Info:    Font shape `LGR/maksf/b/n' will be
 (Font)              scaled to size 22.39185pt on input line 7.
 LaTeX Font Info:    Font shape `LGR/maksf/m/n' will be
-(Font)              scaled to size 10.79993pt on input line 11.
-LaTeX Font Info:    Font shape `LGR/maksf/m/sc' will be
-(Font)              scaled to size 10.79993pt on input line 11.
+(Font)              scaled to size 12.59991pt on input line 11.
+LaTeX Font Info:    Font shape `LGR/maksf/b/n' will be
+(Font)              scaled to size 12.59991pt on input line 12.
+LaTeX Font Info:    Font shape `LGR/maksf/m/n' will be
+(Font)              scaled to size 9.89993pt on input line 13.
+LaTeX Font Info:    Font shape `LGR/maksf/b/n' will be
+(Font)              scaled to size 9.89993pt on input line 14.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 20.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+)
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `OT1/cmr/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `OT1/cmr/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
 
-Missing character: There is no < in font gksfsc7t!
-Missing character: There is no < in font gksfsc7t!
-Missing character: There is no > in font gksfsc7t!
-Missing character: There is no > in font gksfsc7t!
-(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg)
-Overfull \hbox (77.67448pt too wide) in paragraph at lines 33--34
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
+(Font)              size <5> substituted on input line 20.
+
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `OT1/cmr/m/n/5'.
+(microtype)             Ignoring protrusion settings for this character.
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
+(Font)              size <5> substituted on input line 20.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
+(Font)              size <5> substituted on input line 20.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+Overfull \hbox (77.67448pt too wide) in paragraph at lines 40--41
  [][] 
  []
 
@@ -1574,32 +1610,41 @@ Overfull \hbox (77.67448pt too wide) in paragraph at lines 33--34
 [1
 
 
-{C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/kerkis/gpkerkis.enc}
+
 checksum mismatch in font gksfb7t.vf ignored
-character width mismatch in font gksfb7t.vf ignored{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/kerkis/kerkisec.enc} <./graphics/unipi (1).jpg>])
-
-[2
-
-
-
-]
+character width mismatch in font gksfb7t.vf ignored{C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/kerkis/gpkerkis.enc}
+checksum mismatch in font gksfb7t.vf ignored
+character width mismatch in font gksfb7t.vf ignored
+checksum mismatch in font gksfb7t.vf ignored
+character width mismatch in font gksfb7t.vf ignored{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/kerkis/kerkisec.enc} <./graphics/unipi.png>])
 \openout2 = `sections/approvalpage.aux'.
 
  (sections/approvalpage.tex
 Package microtype Info: Character `AE ' is missing
-(microtype)             in font `OT1/cmr/m/n/10.95'.
+(microtype)             in font `OT1/cmr/m/n/6'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `LGR/maksf/m/n' will be
-(Font)              scaled to size 12.9599pt on input line 13.
-LaTeX Font Info:    Font shape `LGR/maksf/m/sc' will be
-(Font)              scaled to size 12.9599pt on input line 13.
-LaTeX Font Info:    Font shape `LGR/maksf/m/n' will be
-(Font)              scaled to size 7.19995pt on input line 23.
+(Font)              scaled to size 12.9599pt on input line 12.
+LaTeX Font Info:    Font shape `LGR/maksf/b/n' will be
+(Font)              scaled to size 12.9599pt on input line 12.
+
+
+LaTeX Font Warning: Font shape `LGR/maksf/b/sc' undefined
+(Font)              using `LGR/maksf/b/n' instead on input line 12.
+
 )
 
+LaTeX Font Info:    Font shape `LGR/maksf/m/n' will be
+(Font)              scaled to size 7.19995pt on input line 127.
 LaTeX Font Info:    Font shape `T1/maksf/m/n' will be
 (Font)              scaled to size 7.19995pt on input line 127.
-[3]
+[2
+
+
+
+
+checksum mismatch in font gksfb7t.vf ignored
+character width mismatch in font gksfb7t.vf ignored]
 \openout2 = `sections/copyright.aux'.
 
  (sections/copyright.tex
@@ -1615,7 +1660,7 @@ LaTeX Font Info:    Font shape `LGR/maksf/m/it' will be
 (Font)              scaled to size 9.85492pt on input line 18.
 )
 
-[4
+[3
 
 
 
@@ -1623,6 +1668,13 @@ LaTeX Font Info:    Font shape `LGR/maksf/m/it' will be
 \openout2 = `sections/abstract.aux'.
 
  (sections/abstract.tex
+
+[4
+
+
+
+
+]
 LaTeX Font Info:    Font shape `T1/maksf/b/n' will be
 (Font)              scaled to size 9.85492pt on input line 11.
 LaTeX Font Info:    Font shape `LGR/maksf/b/n' will be
@@ -1635,11 +1687,6 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
                    \relax 
 l.27 \clearpage
                 [1
-
-
-
-
-
 checksum mismatch in font gksfb7t.vf ignored
 character width mismatch in font gksfb7t.vf ignored]
 
@@ -1681,19 +1728,12 @@ l.129 \include{sections/abstract}
 
 ])
 
-[6]
-LaTeX Font Info:    Font shape `LGR/maksf/m/n' will be
-(Font)              scaled to size 9.89993pt on input line 133.
-LaTeX Font Info:    Font shape `LGR/maksf/b/n' will be
-(Font)              scaled to size 9.89993pt on input line 133.
- (thesis.toc
+[6] (thesis.toc
 
 [7
 
 
-
-checksum mismatch in font gksfb7t.vf ignored
-character width mismatch in font gksfb7t.vf ignored])
+])
 \tf@toc=\write5
 \openout5 = `thesis.toc'.
 
@@ -1767,7 +1807,7 @@ character width mismatch in font gksfb7t.vf ignored]
 [20]
 
 [21]
-<graphics/Architecture_virtualbox.PNG, id=396, 307.1475pt x 349.90726pt>
+<graphics/Architecture_virtualbox.PNG, id=397, 307.1475pt x 349.90726pt>
 File: graphics/Architecture_virtualbox.PNG Graphic file (type png)
 <use graphics/Architecture_virtualbox.PNG>
 Package pdftex.def Info: graphics/Architecture_virtualbox.PNG  used on input line 193.
@@ -2396,6 +2436,10 @@ L3 programming layer <2024-05-27>
  ***********
 
 
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.5pt have occurred.
+
+
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package logreq Info: Writing requests to 'thesis.run.xml'.
@@ -2403,17 +2447,17 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40635 strings out of 473920
- 776005 string characters out of 5727446
+ 40662 strings out of 473920
+ 776538 string characters out of 5727446
  1943908 words of memory out of 5000000
- 62493 multiletter control sequences out of 15000+600000
- 592458 words of font info for 133 fonts, out of 8000000 for 9000
+ 62522 multiletter control sequences out of 15000+600000
+ 594649 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,13n,93p,1888b,3177s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/KerkisSans-Bold.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/KerkisSans-Italic.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/KerkisSans-SmallCaps.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/KerkisSans.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on thesis.pdf (77 pages, 4609051 bytes).
+ <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/KerkisSans-Bold.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/KerkisSans-Italic.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/kerkis/KerkisSans.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb>
+Output written on thesis.pdf (77 pages, 4676742 bytes).
 PDF statistics:
- 1024 PDF objects out of 1200 (max. 8388607)
+ 1020 PDF objects out of 1200 (max. 8388607)
  201 named destinations out of 1000 (max. 500000)
  17849 words of extra memory for PDF output out of 20736 (max. 10000000)
 
